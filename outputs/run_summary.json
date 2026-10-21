@@ -1,0 +1,20 @@
+{
+  "mode": "demo",
+  "seed": 20261021,
+  "as_of": "2026-10-21",
+  "generated_at": "2026-10-21T14:48:42.949475+00:00",
+  "borrower_grades": {
+    "HAS": 4,
+    "WHR": 5,
+    "KSS": 7
+  },
+  "cre_sized_loans": {
+    "Maple Apartments": 14004444.444444446,
+    "Cedar Office": 10192000.0
+  },
+  "abl_final_availability": 595000.0,
+  "portfolio_loans": 40,
+  "portfolio_observations": 320,
+  "latest_watchlist_count": 15,
+  "construction_final_shortfall": 900000.0
+}

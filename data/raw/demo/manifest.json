@@ -1,0 +1,29 @@
+[
+  {
+    "name": "HAS",
+    "source": "SYNTHETIC illustrative companyfacts fixture, not SEC data",
+    "url": null,
+    "generated_at": "2026-10-21",
+    "retrieved_at": null,
+    "sha256": "60458f3117697e6f4eb8c6ba95656d04c70cf209e36de9cd61cddfedc39bee22",
+    "path": "data\\raw\\demo\\HAS.json"
+  },
+  {
+    "name": "WHR",
+    "source": "SYNTHETIC illustrative companyfacts fixture, not SEC data",
+    "url": null,
+    "generated_at": "2026-10-21",
+    "retrieved_at": null,
+    "sha256": "1ea83638ec6ff91ae70674efccaad8d7dc4d9fa21c9bee9c8e47053394879258",
+    "path": "data\\raw\\demo\\WHR.json"
+  },
+  {
+    "name": "KSS",
+    "source": "SYNTHETIC illustrative companyfacts fixture, not SEC data",
+    "url": null,
+    "generated_at": "2026-10-21",
+    "retrieved_at": null,
+    "sha256": "31f9635c433bf7596fbe9ea2c64a6da07ab7505154c507015f32c50dd54603cc",
+    "path": "data\\raw\\demo\\KSS.json"
+  }
+]

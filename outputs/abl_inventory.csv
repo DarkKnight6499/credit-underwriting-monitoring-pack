@@ -1,0 +1,4 @@
+category,cost,nolv,eligible
+finished_goods,900000,540000,True
+raw_materials,450000,270000,True
+obsolete,150000,15000,False

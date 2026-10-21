@@ -1,0 +1,13 @@
+month,cost_to_complete,undisbursed_loan,remaining_required_equity,balance_shortfall,equity_call,cumulative_equity,cumulative_loan,contingency_remaining,interest_reserve_remaining,interest_reserve_required,flags
+1,7754333.333,7500000,179333.3333,75000,True,2320666.667,0,458333.3333,287000,320833.3333,interest_reserve_shortfall;loan_out_of_balance;requested_exceeds_inspected_completion
+2,7212666.667,7062666.667,0,150000,True,2500000,437333.3333,416666.6667,262000,291666.6667,interest_reserve_shortfall;loan_out_of_balance;requested_exceeds_inspected_completion
+3,6671000,6446000,0,225000,True,2500000,1054000,375000,237000,262500,interest_reserve_shortfall;loan_out_of_balance;requested_exceeds_inspected_completion
+4,6129333.333,5829333.333,0,300000,True,2500000,1670666.667,333333.3333,212000,233333.3333,interest_reserve_shortfall;loan_out_of_balance;requested_exceeds_inspected_completion
+5,5587666.667,5212666.667,0,375000,True,2500000,2287333.333,291666.6667,187000,204166.6667,interest_reserve_shortfall;loan_out_of_balance;requested_exceeds_inspected_completion
+6,5046000,4596000,0,450000,True,2500000,2904000,250000,162000,175000,interest_reserve_shortfall;loan_out_of_balance;requested_exceeds_inspected_completion
+7,4504333.333,3979333.333,0,525000,True,2500000,3520666.667,208333.3333,137000,145833.3333,interest_reserve_shortfall;loan_out_of_balance;requested_exceeds_inspected_completion
+8,3962666.667,3362666.667,0,600000,True,2500000,4137333.333,166666.6667,112000,116666.6667,interest_reserve_shortfall;loan_out_of_balance;requested_exceeds_inspected_completion
+9,3421000,2746000,0,675000,True,2500000,4754000,125000,87000,87500,interest_reserve_shortfall;loan_out_of_balance;requested_exceeds_inspected_completion
+10,2879333.333,2129333.333,0,750000,True,2500000,5370666.667,83333.33333,62000,58333.33333,loan_out_of_balance;requested_exceeds_inspected_completion
+11,2337666.667,1512666.667,0,825000,True,2500000,5987333.333,41666.66667,37000,29166.66667,loan_out_of_balance;requested_exceeds_inspected_completion
+12,1796000,896000,0,900000,True,2500000,6604000,0,12000,0,contingency_depleted;line_overrun;loan_out_of_balance;requested_exceeds_inspected_completion

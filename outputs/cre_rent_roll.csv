@@ -1,0 +1,3 @@
+property,property_type,category,units_or_sqft,in_place_annual_rent,market_annual_rent,vacancy_credit_loss,other_income,operating_expenses,reserves,cap_rate,potential_gross_income,effective_gross_income,noi
+Maple Apartments,multifamily,improved_property,120,18000,19000,0.06,90000,800000,60000,0.06,2160000,2120400,1260400
+Cedar Office,office,improved_property,80000,32,34,0.18,50000,1050000,80000,0.075,2560000,2149200,1019200

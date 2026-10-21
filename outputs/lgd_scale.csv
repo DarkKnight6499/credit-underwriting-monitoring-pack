@@ -1,0 +1,6 @@
+seniority,collateral,lgd
+senior,cash,0.1
+senior,receivables_inventory,0.25
+senior,all_assets,0.4
+senior,unsecured,0.6
+subordinated,unsecured,0.8

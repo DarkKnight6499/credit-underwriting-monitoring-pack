@@ -1,0 +1,1311 @@
+sheet,cell,metric,python,excel,result
+CRE,B5,sized_loan,14004444.44,14004444.4444444,PASS
+CRE,B7,value,21006666.67,21006666.6666667,PASS
+CRE,B8,ltv_loan,15755000,15755000,PASS
+CRE,B9,dscr_loan,14014943.39,14014943.3853399,PASS
+CRE,B10,debt_yield_loan,14004444.44,14004444.4444444,PASS
+CRE,B11,debt_constant,0.07194606302,0.0719460630183308,PASS
+CRE,B12,dscr,1.250937108,1.25093710794251,PASS
+CRE,B13,stressed_dscr,0.9199135854,0.919913585404249,PASS
+CRE,B14,ltv,0.6666666667,0.666666666666667,PASS
+CRE,B16,supervisory_ltv_exception,False,False,PASS
+CRE,C5,sized_loan,10192000.0,10192000,PASS
+CRE,C7,value,13589333.33,13589333.3333333,PASS
+CRE,C8,ltv_loan,10192000,10192000,PASS
+CRE,C9,dscr_loan,11332934.23,11332934.2259111,PASS
+CRE,C10,debt_yield_loan,11324444.44,11324444.4444444,PASS
+CRE,C11,debt_constant,0.07194606302,0.0719460630183308,PASS
+CRE,C12,dscr,1.38993012,1.38993011993612,PASS
+CRE,C13,stressed_dscr,1.022126206,1.02212620600472,PASS
+CRE,C14,ltv,0.75,0.75,PASS
+CRE,C16,supervisory_ltv_exception,False,False,PASS
+Covenants,G5,total_leverage,1.875,1.875,PASS
+Covenants,I5,fccr_headroom_pct,0.3018608819,0.301860881858388,PASS
+Covenants,H5,leverage_headroom_pct,0.4642857143,0.464285714285714,PASS
+Covenants,J5,ebitda_cushion,0.4642857143,0.464285714285714,PASS
+Covenants,K5,leverage_breach,False,False,PASS
+Covenants,L5,fccr_breach,False,False,PASS
+Covenants,G6,total_leverage,1.875,1.875,PASS
+Covenants,I6,fccr_headroom_pct,0.1611554295,0.16115542953455,PASS
+Covenants,H6,leverage_headroom_pct,0.4642857143,0.464285714285714,PASS
+Covenants,J6,ebitda_cushion,0.4642857143,0.464285714285714,PASS
+Covenants,K6,leverage_breach,False,False,PASS
+Covenants,L6,fccr_breach,False,False,PASS
+Covenants,G7,total_leverage,1.875,1.875,PASS
+Covenants,I7,fccr_headroom_pct,0.003053737969,0.0030537379691264,PASS
+Covenants,H7,leverage_headroom_pct,0.4642857143,0.464285714285714,PASS
+Covenants,J7,ebitda_cushion,0.4642857143,0.464285714285714,PASS
+Covenants,K7,leverage_breach,False,False,PASS
+Covenants,L7,fccr_breach,False,False,PASS
+Draws,F5,approved_draw,2000000.0,2000000,PASS
+Draws,H5,retained_amount,0,0,PASS
+Draws,I5,funded_draw,2000000.0,2000000,PASS
+Draws,J5,equity_funded,2000000.0,2000000,PASS
+Draws,K5,loan_funded,0.0,0,PASS
+Draws,L5,cumulative_approved,2000000.0,2000000,PASS
+Draws,N5,cumulative_equity,2000000.0,2000000,PASS
+Draws,O5,cumulative_loan,0.0,0,PASS
+Draws,F6,approved_draw,260000.0,260000,PASS
+Draws,H6,retained_amount,26000,26000,PASS
+Draws,I6,funded_draw,234000.0,234000,PASS
+Draws,J6,equity_funded,234000.0,234000,PASS
+Draws,K6,loan_funded,0.0,0,PASS
+Draws,L6,cumulative_approved,260000.0,260000,PASS
+Draws,N6,cumulative_equity,2234000.0,2234000,PASS
+Draws,O6,cumulative_loan,0.0,0,PASS
+Draws,F7,approved_draw,52000.0,52000,PASS
+Draws,H7,retained_amount,0,0,PASS
+Draws,I7,funded_draw,52000.0,52000,PASS
+Draws,J7,equity_funded,52000.0,52000,PASS
+Draws,K7,loan_funded,0.0,0,PASS
+Draws,L7,cumulative_approved,52000.0,52000,PASS
+Draws,N7,cumulative_equity,2286000.0,2286000,PASS
+Draws,O7,cumulative_loan,0.0,0,PASS
+Draws,F8,approved_draw,21666.66667,21666.6666666667,PASS
+Draws,H8,retained_amount,0,0,PASS
+Draws,I8,funded_draw,21666.66667,21666.6666666667,PASS
+Draws,J8,equity_funded,21666.66667,21666.6666666667,PASS
+Draws,K8,loan_funded,0.0,0,PASS
+Draws,L8,cumulative_approved,21666.66667,21666.6666666667,PASS
+Draws,N8,cumulative_equity,2307666.667,2307666.66666667,PASS
+Draws,O8,cumulative_loan,0.0,0,PASS
+Draws,F9,approved_draw,13000.0,13000,PASS
+Draws,H9,retained_amount,0,0,PASS
+Draws,I9,funded_draw,13000.0,13000,PASS
+Draws,J9,equity_funded,13000.0,13000,PASS
+Draws,K9,loan_funded,0.0,0,PASS
+Draws,L9,cumulative_approved,13000.0,13000,PASS
+Draws,N9,cumulative_equity,2320666.667,2320666.66666667,PASS
+Draws,O9,cumulative_loan,0.0,0,PASS
+Draws,F10,approved_draw,0.0,0,PASS
+Draws,H10,retained_amount,0,0,PASS
+Draws,I10,funded_draw,0.0,0,PASS
+Draws,J10,equity_funded,0.0,0,PASS
+Draws,K10,loan_funded,0.0,0,PASS
+Draws,L10,cumulative_approved,2000000.0,2000000,PASS
+Draws,N10,cumulative_equity,2320666.667,2320666.66666667,PASS
+Draws,O10,cumulative_loan,0.0,0,PASS
+Draws,F11,approved_draw,500000.0,500000,PASS
+Draws,H11,retained_amount,50000,50000,PASS
+Draws,I11,funded_draw,450000.0,450000,PASS
+Draws,J11,equity_funded,179333.3333,179333.333333334,PASS
+Draws,K11,loan_funded,270666.6667,270666.666666666,PASS
+Draws,L11,cumulative_approved,760000.0,760000,PASS
+Draws,N11,cumulative_equity,2500000.0,2500000,PASS
+Draws,O11,cumulative_loan,270666.6667,270666.666666666,PASS
+Draws,F12,approved_draw,100000.0,99999.9999999999,PASS
+Draws,H12,retained_amount,0,0,PASS
+Draws,I12,funded_draw,100000.0,99999.9999999999,PASS
+Draws,J12,equity_funded,0.0,0,PASS
+Draws,K12,loan_funded,100000.0,99999.9999999999,PASS
+Draws,L12,cumulative_approved,152000.0,152000,PASS
+Draws,N12,cumulative_equity,2500000.0,2500000,PASS
+Draws,O12,cumulative_loan,370666.6667,370666.666666666,PASS
+Draws,F13,approved_draw,41666.66667,41666.6666666666,PASS
+Draws,H13,retained_amount,0,0,PASS
+Draws,I13,funded_draw,41666.66667,41666.6666666666,PASS
+Draws,J13,equity_funded,0.0,0,PASS
+Draws,K13,loan_funded,41666.66667,41666.6666666666,PASS
+Draws,L13,cumulative_approved,63333.33333,63333.3333333333,PASS
+Draws,N13,cumulative_equity,2500000.0,2500000,PASS
+Draws,O13,cumulative_loan,412333.3333,412333.333333333,PASS
+Draws,F14,approved_draw,25000.0,25000,PASS
+Draws,H14,retained_amount,0,0,PASS
+Draws,I14,funded_draw,25000.0,25000,PASS
+Draws,J14,equity_funded,0.0,0,PASS
+Draws,K14,loan_funded,25000.0,25000,PASS
+Draws,L14,cumulative_approved,38000.0,38000,PASS
+Draws,N14,cumulative_equity,2500000.0,2500000,PASS
+Draws,O14,cumulative_loan,437333.3333,437333.333333333,PASS
+Draws,F15,approved_draw,0.0,0,PASS
+Draws,H15,retained_amount,0,0,PASS
+Draws,I15,funded_draw,0.0,0,PASS
+Draws,J15,equity_funded,0.0,0,PASS
+Draws,K15,loan_funded,0.0,0,PASS
+Draws,L15,cumulative_approved,2000000.0,2000000,PASS
+Draws,N15,cumulative_equity,2500000.0,2500000,PASS
+Draws,O15,cumulative_loan,437333.3333,437333.333333333,PASS
+Draws,F16,approved_draw,500000.0,500000,PASS
+Draws,H16,retained_amount,50000,50000.0000000001,PASS
+Draws,I16,funded_draw,450000.0,450000,PASS
+Draws,J16,equity_funded,0.0,0,PASS
+Draws,K16,loan_funded,450000.0,450000,PASS
+Draws,L16,cumulative_approved,1260000.0,1260000,PASS
+Draws,N16,cumulative_equity,2500000.0,2500000,PASS
+Draws,O16,cumulative_loan,887333.3333,887333.333333333,PASS
+Draws,F17,approved_draw,100000.0,100000,PASS
+Draws,H17,retained_amount,0,0,PASS
+Draws,I17,funded_draw,100000.0,100000,PASS
+Draws,J17,equity_funded,0.0,0,PASS
+Draws,K17,loan_funded,100000.0,100000,PASS
+Draws,L17,cumulative_approved,252000.0,252000,PASS
+Draws,N17,cumulative_equity,2500000.0,2500000,PASS
+Draws,O17,cumulative_loan,987333.3333,987333.333333333,PASS
+Draws,F18,approved_draw,41666.66667,41666.6666666667,PASS
+Draws,H18,retained_amount,0,0,PASS
+Draws,I18,funded_draw,41666.66667,41666.6666666667,PASS
+Draws,J18,equity_funded,0.0,0,PASS
+Draws,K18,loan_funded,41666.66667,41666.6666666667,PASS
+Draws,L18,cumulative_approved,105000.0,105000,PASS
+Draws,N18,cumulative_equity,2500000.0,2500000,PASS
+Draws,O18,cumulative_loan,1029000.0,1029000,PASS
+Draws,F19,approved_draw,25000.0,25000,PASS
+Draws,H19,retained_amount,0,0,PASS
+Draws,I19,funded_draw,25000.0,25000,PASS
+Draws,J19,equity_funded,0.0,0,PASS
+Draws,K19,loan_funded,25000.0,25000,PASS
+Draws,L19,cumulative_approved,63000.0,63000,PASS
+Draws,N19,cumulative_equity,2500000.0,2500000,PASS
+Draws,O19,cumulative_loan,1054000.0,1054000,PASS
+Draws,F20,approved_draw,0.0,0,PASS
+Draws,H20,retained_amount,0,0,PASS
+Draws,I20,funded_draw,0.0,0,PASS
+Draws,J20,equity_funded,0.0,0,PASS
+Draws,K20,loan_funded,0.0,0,PASS
+Draws,L20,cumulative_approved,2000000.0,2000000,PASS
+Draws,N20,cumulative_equity,2500000.0,2500000,PASS
+Draws,O20,cumulative_loan,1054000.0,1054000,PASS
+Draws,F21,approved_draw,500000.0,500000,PASS
+Draws,H21,retained_amount,50000,50000,PASS
+Draws,I21,funded_draw,450000.0,450000,PASS
+Draws,J21,equity_funded,0.0,0,PASS
+Draws,K21,loan_funded,450000.0,450000,PASS
+Draws,L21,cumulative_approved,1760000.0,1760000,PASS
+Draws,N21,cumulative_equity,2500000.0,2500000,PASS
+Draws,O21,cumulative_loan,1504000.0,1504000,PASS
+Draws,F22,approved_draw,100000.0,99999.9999999999,PASS
+Draws,H22,retained_amount,0,0,PASS
+Draws,I22,funded_draw,100000.0,99999.9999999999,PASS
+Draws,J22,equity_funded,0.0,0,PASS
+Draws,K22,loan_funded,100000.0,99999.9999999999,PASS
+Draws,L22,cumulative_approved,352000.0,352000,PASS
+Draws,N22,cumulative_equity,2500000.0,2500000,PASS
+Draws,O22,cumulative_loan,1604000.0,1604000,PASS
+Draws,F23,approved_draw,41666.66667,41666.6666666666,PASS
+Draws,H23,retained_amount,0,0,PASS
+Draws,I23,funded_draw,41666.66667,41666.6666666666,PASS
+Draws,J23,equity_funded,0.0,0,PASS
+Draws,K23,loan_funded,41666.66667,41666.6666666666,PASS
+Draws,L23,cumulative_approved,146666.6667,146666.666666667,PASS
+Draws,N23,cumulative_equity,2500000.0,2500000,PASS
+Draws,O23,cumulative_loan,1645666.667,1645666.66666667,PASS
+Draws,F24,approved_draw,25000.0,25000,PASS
+Draws,H24,retained_amount,0,0,PASS
+Draws,I24,funded_draw,25000.0,25000,PASS
+Draws,J24,equity_funded,0.0,0,PASS
+Draws,K24,loan_funded,25000.0,25000,PASS
+Draws,L24,cumulative_approved,88000.0,88000,PASS
+Draws,N24,cumulative_equity,2500000.0,2500000,PASS
+Draws,O24,cumulative_loan,1670666.667,1670666.66666667,PASS
+Draws,F25,approved_draw,0.0,0,PASS
+Draws,H25,retained_amount,0,0,PASS
+Draws,I25,funded_draw,0.0,0,PASS
+Draws,J25,equity_funded,0.0,0,PASS
+Draws,K25,loan_funded,0.0,0,PASS
+Draws,L25,cumulative_approved,2000000.0,2000000,PASS
+Draws,N25,cumulative_equity,2500000.0,2500000,PASS
+Draws,O25,cumulative_loan,1670666.667,1670666.66666667,PASS
+Draws,F26,approved_draw,500000.0,500000,PASS
+Draws,H26,retained_amount,50000,50000,PASS
+Draws,I26,funded_draw,450000.0,450000,PASS
+Draws,J26,equity_funded,0.0,0,PASS
+Draws,K26,loan_funded,450000.0,450000,PASS
+Draws,L26,cumulative_approved,2260000.0,2260000,PASS
+Draws,N26,cumulative_equity,2500000.0,2500000,PASS
+Draws,O26,cumulative_loan,2120666.667,2120666.66666667,PASS
+Draws,F27,approved_draw,100000.0,100000,PASS
+Draws,H27,retained_amount,0,0,PASS
+Draws,I27,funded_draw,100000.0,100000,PASS
+Draws,J27,equity_funded,0.0,0,PASS
+Draws,K27,loan_funded,100000.0,100000,PASS
+Draws,L27,cumulative_approved,452000.0,452000,PASS
+Draws,N27,cumulative_equity,2500000.0,2500000,PASS
+Draws,O27,cumulative_loan,2220666.667,2220666.66666667,PASS
+Draws,F28,approved_draw,41666.66667,41666.6666666667,PASS
+Draws,H28,retained_amount,0,0,PASS
+Draws,I28,funded_draw,41666.66667,41666.6666666667,PASS
+Draws,J28,equity_funded,0.0,0,PASS
+Draws,K28,loan_funded,41666.66667,41666.6666666667,PASS
+Draws,L28,cumulative_approved,188333.3333,188333.333333333,PASS
+Draws,N28,cumulative_equity,2500000.0,2500000,PASS
+Draws,O28,cumulative_loan,2262333.333,2262333.33333333,PASS
+Draws,F29,approved_draw,25000.0,25000,PASS
+Draws,H29,retained_amount,0,0,PASS
+Draws,I29,funded_draw,25000.0,25000,PASS
+Draws,J29,equity_funded,0.0,0,PASS
+Draws,K29,loan_funded,25000.0,25000,PASS
+Draws,L29,cumulative_approved,113000.0,113000,PASS
+Draws,N29,cumulative_equity,2500000.0,2500000,PASS
+Draws,O29,cumulative_loan,2287333.333,2287333.33333333,PASS
+Draws,F30,approved_draw,0.0,0,PASS
+Draws,H30,retained_amount,0,0,PASS
+Draws,I30,funded_draw,0.0,0,PASS
+Draws,J30,equity_funded,0.0,0,PASS
+Draws,K30,loan_funded,0.0,0,PASS
+Draws,L30,cumulative_approved,2000000.0,2000000,PASS
+Draws,N30,cumulative_equity,2500000.0,2500000,PASS
+Draws,O30,cumulative_loan,2287333.333,2287333.33333333,PASS
+Draws,F31,approved_draw,500000.0,500000,PASS
+Draws,H31,retained_amount,50000,50000,PASS
+Draws,I31,funded_draw,450000.0,450000,PASS
+Draws,J31,equity_funded,0.0,0,PASS
+Draws,K31,loan_funded,450000.0,450000,PASS
+Draws,L31,cumulative_approved,2760000.0,2760000,PASS
+Draws,N31,cumulative_equity,2500000.0,2500000,PASS
+Draws,O31,cumulative_loan,2737333.333,2737333.33333333,PASS
+Draws,F32,approved_draw,100000.0,99999.9999999999,PASS
+Draws,H32,retained_amount,0,0,PASS
+Draws,I32,funded_draw,100000.0,99999.9999999999,PASS
+Draws,J32,equity_funded,0.0,0,PASS
+Draws,K32,loan_funded,100000.0,99999.9999999999,PASS
+Draws,L32,cumulative_approved,552000.0,552000,PASS
+Draws,N32,cumulative_equity,2500000.0,2500000,PASS
+Draws,O32,cumulative_loan,2837333.333,2837333.33333333,PASS
+Draws,F33,approved_draw,41666.66667,41666.6666666667,PASS
+Draws,H33,retained_amount,0,0,PASS
+Draws,I33,funded_draw,41666.66667,41666.6666666667,PASS
+Draws,J33,equity_funded,0.0,0,PASS
+Draws,K33,loan_funded,41666.66667,41666.6666666667,PASS
+Draws,L33,cumulative_approved,230000.0,230000,PASS
+Draws,N33,cumulative_equity,2500000.0,2500000,PASS
+Draws,O33,cumulative_loan,2879000.0,2879000,PASS
+Draws,F34,approved_draw,25000.0,25000,PASS
+Draws,H34,retained_amount,0,0,PASS
+Draws,I34,funded_draw,25000.0,25000,PASS
+Draws,J34,equity_funded,0.0,0,PASS
+Draws,K34,loan_funded,25000.0,25000,PASS
+Draws,L34,cumulative_approved,138000.0,138000,PASS
+Draws,N34,cumulative_equity,2500000.0,2500000,PASS
+Draws,O34,cumulative_loan,2904000.0,2904000,PASS
+Draws,F35,approved_draw,0.0,0,PASS
+Draws,H35,retained_amount,0,0,PASS
+Draws,I35,funded_draw,0.0,0,PASS
+Draws,J35,equity_funded,0.0,0,PASS
+Draws,K35,loan_funded,0.0,0,PASS
+Draws,L35,cumulative_approved,2000000.0,2000000,PASS
+Draws,N35,cumulative_equity,2500000.0,2500000,PASS
+Draws,O35,cumulative_loan,2904000.0,2904000,PASS
+Draws,F36,approved_draw,500000.0,500000,PASS
+Draws,H36,retained_amount,50000,50000,PASS
+Draws,I36,funded_draw,450000.0,450000,PASS
+Draws,J36,equity_funded,0.0,0,PASS
+Draws,K36,loan_funded,450000.0,450000,PASS
+Draws,L36,cumulative_approved,3260000.0,3260000,PASS
+Draws,N36,cumulative_equity,2500000.0,2500000,PASS
+Draws,O36,cumulative_loan,3354000.0,3354000,PASS
+Draws,F37,approved_draw,100000.0,100000,PASS
+Draws,H37,retained_amount,0,0,PASS
+Draws,I37,funded_draw,100000.0,100000,PASS
+Draws,J37,equity_funded,0.0,0,PASS
+Draws,K37,loan_funded,100000.0,100000,PASS
+Draws,L37,cumulative_approved,652000.0,652000,PASS
+Draws,N37,cumulative_equity,2500000.0,2500000,PASS
+Draws,O37,cumulative_loan,3454000.0,3454000,PASS
+Draws,F38,approved_draw,41666.66667,41666.6666666667,PASS
+Draws,H38,retained_amount,0,0,PASS
+Draws,I38,funded_draw,41666.66667,41666.6666666667,PASS
+Draws,J38,equity_funded,0.0,0,PASS
+Draws,K38,loan_funded,41666.66667,41666.6666666667,PASS
+Draws,L38,cumulative_approved,271666.6667,271666.666666667,PASS
+Draws,N38,cumulative_equity,2500000.0,2500000,PASS
+Draws,O38,cumulative_loan,3495666.667,3495666.66666667,PASS
+Draws,F39,approved_draw,25000.0,25000,PASS
+Draws,H39,retained_amount,0,0,PASS
+Draws,I39,funded_draw,25000.0,25000,PASS
+Draws,J39,equity_funded,0.0,0,PASS
+Draws,K39,loan_funded,25000.0,25000,PASS
+Draws,L39,cumulative_approved,163000.0,163000,PASS
+Draws,N39,cumulative_equity,2500000.0,2500000,PASS
+Draws,O39,cumulative_loan,3520666.667,3520666.66666667,PASS
+Draws,F40,approved_draw,0.0,0,PASS
+Draws,H40,retained_amount,0,0,PASS
+Draws,I40,funded_draw,0.0,0,PASS
+Draws,J40,equity_funded,0.0,0,PASS
+Draws,K40,loan_funded,0.0,0,PASS
+Draws,L40,cumulative_approved,2000000.0,2000000,PASS
+Draws,N40,cumulative_equity,2500000.0,2500000,PASS
+Draws,O40,cumulative_loan,3520666.667,3520666.66666667,PASS
+Draws,F41,approved_draw,500000.0,500000,PASS
+Draws,H41,retained_amount,50000,50000,PASS
+Draws,I41,funded_draw,450000.0,450000,PASS
+Draws,J41,equity_funded,0.0,0,PASS
+Draws,K41,loan_funded,450000.0,450000,PASS
+Draws,L41,cumulative_approved,3760000.0,3760000,PASS
+Draws,N41,cumulative_equity,2500000.0,2500000,PASS
+Draws,O41,cumulative_loan,3970666.667,3970666.66666667,PASS
+Draws,F42,approved_draw,100000.0,99999.9999999999,PASS
+Draws,H42,retained_amount,0,0,PASS
+Draws,I42,funded_draw,100000.0,99999.9999999999,PASS
+Draws,J42,equity_funded,0.0,0,PASS
+Draws,K42,loan_funded,100000.0,99999.9999999999,PASS
+Draws,L42,cumulative_approved,752000.0,752000,PASS
+Draws,N42,cumulative_equity,2500000.0,2500000,PASS
+Draws,O42,cumulative_loan,4070666.667,4070666.66666667,PASS
+Draws,F43,approved_draw,41666.66667,41666.6666666666,PASS
+Draws,H43,retained_amount,0,0,PASS
+Draws,I43,funded_draw,41666.66667,41666.6666666666,PASS
+Draws,J43,equity_funded,0.0,0,PASS
+Draws,K43,loan_funded,41666.66667,41666.6666666666,PASS
+Draws,L43,cumulative_approved,313333.3333,313333.333333333,PASS
+Draws,N43,cumulative_equity,2500000.0,2500000,PASS
+Draws,O43,cumulative_loan,4112333.333,4112333.33333333,PASS
+Draws,F44,approved_draw,25000.0,25000,PASS
+Draws,H44,retained_amount,0,0,PASS
+Draws,I44,funded_draw,25000.0,25000,PASS
+Draws,J44,equity_funded,0.0,0,PASS
+Draws,K44,loan_funded,25000.0,25000,PASS
+Draws,L44,cumulative_approved,188000.0,188000,PASS
+Draws,N44,cumulative_equity,2500000.0,2500000,PASS
+Draws,O44,cumulative_loan,4137333.333,4137333.33333333,PASS
+Draws,F45,approved_draw,0.0,0,PASS
+Draws,H45,retained_amount,0,0,PASS
+Draws,I45,funded_draw,0.0,0,PASS
+Draws,J45,equity_funded,0.0,0,PASS
+Draws,K45,loan_funded,0.0,0,PASS
+Draws,L45,cumulative_approved,2000000.0,2000000,PASS
+Draws,N45,cumulative_equity,2500000.0,2500000,PASS
+Draws,O45,cumulative_loan,4137333.333,4137333.33333333,PASS
+Draws,F46,approved_draw,500000.0,500000,PASS
+Draws,H46,retained_amount,50000,50000.0000000001,PASS
+Draws,I46,funded_draw,450000.0,450000,PASS
+Draws,J46,equity_funded,0.0,0,PASS
+Draws,K46,loan_funded,450000.0,450000,PASS
+Draws,L46,cumulative_approved,4260000.0,4260000,PASS
+Draws,N46,cumulative_equity,2500000.0,2500000,PASS
+Draws,O46,cumulative_loan,4587333.333,4587333.33333333,PASS
+Draws,F47,approved_draw,100000.0,100000,PASS
+Draws,H47,retained_amount,0,0,PASS
+Draws,I47,funded_draw,100000.0,100000,PASS
+Draws,J47,equity_funded,0.0,0,PASS
+Draws,K47,loan_funded,100000.0,100000,PASS
+Draws,L47,cumulative_approved,852000.0,852000,PASS
+Draws,N47,cumulative_equity,2500000.0,2500000,PASS
+Draws,O47,cumulative_loan,4687333.333,4687333.33333333,PASS
+Draws,F48,approved_draw,41666.66667,41666.6666666667,PASS
+Draws,H48,retained_amount,0,0,PASS
+Draws,I48,funded_draw,41666.66667,41666.6666666667,PASS
+Draws,J48,equity_funded,0.0,0,PASS
+Draws,K48,loan_funded,41666.66667,41666.6666666667,PASS
+Draws,L48,cumulative_approved,355000.0,355000,PASS
+Draws,N48,cumulative_equity,2500000.0,2500000,PASS
+Draws,O48,cumulative_loan,4729000.0,4729000,PASS
+Draws,F49,approved_draw,25000.0,25000,PASS
+Draws,H49,retained_amount,0,0,PASS
+Draws,I49,funded_draw,25000.0,25000,PASS
+Draws,J49,equity_funded,0.0,0,PASS
+Draws,K49,loan_funded,25000.0,25000,PASS
+Draws,L49,cumulative_approved,213000.0,213000,PASS
+Draws,N49,cumulative_equity,2500000.0,2500000,PASS
+Draws,O49,cumulative_loan,4754000.0,4754000,PASS
+Draws,F50,approved_draw,0.0,0,PASS
+Draws,H50,retained_amount,0,0,PASS
+Draws,I50,funded_draw,0.0,0,PASS
+Draws,J50,equity_funded,0.0,0,PASS
+Draws,K50,loan_funded,0.0,0,PASS
+Draws,L50,cumulative_approved,2000000.0,2000000,PASS
+Draws,N50,cumulative_equity,2500000.0,2500000,PASS
+Draws,O50,cumulative_loan,4754000.0,4754000,PASS
+Draws,F51,approved_draw,500000.0,500000,PASS
+Draws,H51,retained_amount,50000,50000,PASS
+Draws,I51,funded_draw,450000.0,450000,PASS
+Draws,J51,equity_funded,0.0,0,PASS
+Draws,K51,loan_funded,450000.0,450000,PASS
+Draws,L51,cumulative_approved,4760000.0,4760000,PASS
+Draws,N51,cumulative_equity,2500000.0,2500000,PASS
+Draws,O51,cumulative_loan,5204000.0,5204000,PASS
+Draws,F52,approved_draw,100000.0,100000,PASS
+Draws,H52,retained_amount,0,0,PASS
+Draws,I52,funded_draw,100000.0,100000,PASS
+Draws,J52,equity_funded,0.0,0,PASS
+Draws,K52,loan_funded,100000.0,100000,PASS
+Draws,L52,cumulative_approved,952000.0,952000,PASS
+Draws,N52,cumulative_equity,2500000.0,2500000,PASS
+Draws,O52,cumulative_loan,5304000.0,5304000,PASS
+Draws,F53,approved_draw,41666.66667,41666.6666666667,PASS
+Draws,H53,retained_amount,0,0,PASS
+Draws,I53,funded_draw,41666.66667,41666.6666666667,PASS
+Draws,J53,equity_funded,0.0,0,PASS
+Draws,K53,loan_funded,41666.66667,41666.6666666667,PASS
+Draws,L53,cumulative_approved,396666.6667,396666.666666667,PASS
+Draws,N53,cumulative_equity,2500000.0,2500000,PASS
+Draws,O53,cumulative_loan,5345666.667,5345666.66666667,PASS
+Draws,F54,approved_draw,25000.0,25000,PASS
+Draws,H54,retained_amount,0,0,PASS
+Draws,I54,funded_draw,25000.0,25000,PASS
+Draws,J54,equity_funded,0.0,0,PASS
+Draws,K54,loan_funded,25000.0,25000,PASS
+Draws,L54,cumulative_approved,238000.0,238000,PASS
+Draws,N54,cumulative_equity,2500000.0,2500000,PASS
+Draws,O54,cumulative_loan,5370666.667,5370666.66666667,PASS
+Draws,F55,approved_draw,0.0,0,PASS
+Draws,H55,retained_amount,0,0,PASS
+Draws,I55,funded_draw,0.0,0,PASS
+Draws,J55,equity_funded,0.0,0,PASS
+Draws,K55,loan_funded,0.0,0,PASS
+Draws,L55,cumulative_approved,2000000.0,2000000,PASS
+Draws,N55,cumulative_equity,2500000.0,2500000,PASS
+Draws,O55,cumulative_loan,5370666.667,5370666.66666667,PASS
+Draws,F56,approved_draw,500000.0,500000,PASS
+Draws,H56,retained_amount,50000,50000,PASS
+Draws,I56,funded_draw,450000.0,450000,PASS
+Draws,J56,equity_funded,0.0,0,PASS
+Draws,K56,loan_funded,450000.0,450000,PASS
+Draws,L56,cumulative_approved,5260000.0,5260000,PASS
+Draws,N56,cumulative_equity,2500000.0,2500000,PASS
+Draws,O56,cumulative_loan,5820666.667,5820666.66666667,PASS
+Draws,F57,approved_draw,100000.0,100000,PASS
+Draws,H57,retained_amount,0,0,PASS
+Draws,I57,funded_draw,100000.0,100000,PASS
+Draws,J57,equity_funded,0.0,0,PASS
+Draws,K57,loan_funded,100000.0,100000,PASS
+Draws,L57,cumulative_approved,1052000.0,1052000,PASS
+Draws,N57,cumulative_equity,2500000.0,2500000,PASS
+Draws,O57,cumulative_loan,5920666.667,5920666.66666667,PASS
+Draws,F58,approved_draw,41666.66667,41666.6666666666,PASS
+Draws,H58,retained_amount,0,0,PASS
+Draws,I58,funded_draw,41666.66667,41666.6666666666,PASS
+Draws,J58,equity_funded,0.0,0,PASS
+Draws,K58,loan_funded,41666.66667,41666.6666666666,PASS
+Draws,L58,cumulative_approved,438333.3333,438333.333333333,PASS
+Draws,N58,cumulative_equity,2500000.0,2500000,PASS
+Draws,O58,cumulative_loan,5962333.333,5962333.33333333,PASS
+Draws,F59,approved_draw,25000.0,25000,PASS
+Draws,H59,retained_amount,0,0,PASS
+Draws,I59,funded_draw,25000.0,25000,PASS
+Draws,J59,equity_funded,0.0,0,PASS
+Draws,K59,loan_funded,25000.0,25000,PASS
+Draws,L59,cumulative_approved,263000.0,263000,PASS
+Draws,N59,cumulative_equity,2500000.0,2500000,PASS
+Draws,O59,cumulative_loan,5987333.333,5987333.33333333,PASS
+Draws,F60,approved_draw,0.0,0,PASS
+Draws,H60,retained_amount,0,0,PASS
+Draws,I60,funded_draw,0.0,0,PASS
+Draws,J60,equity_funded,0.0,0,PASS
+Draws,K60,loan_funded,0.0,0,PASS
+Draws,L60,cumulative_approved,2000000.0,2000000,PASS
+Draws,N60,cumulative_equity,2500000.0,2500000,PASS
+Draws,O60,cumulative_loan,5987333.333,5987333.33333333,PASS
+Draws,F61,approved_draw,500000.0,500000,PASS
+Draws,H61,retained_amount,50000,50000,PASS
+Draws,I61,funded_draw,450000.0,450000,PASS
+Draws,J61,equity_funded,0.0,0,PASS
+Draws,K61,loan_funded,450000.0,450000,PASS
+Draws,L61,cumulative_approved,5760000.0,5760000,PASS
+Draws,N61,cumulative_equity,2500000.0,2500000,PASS
+Draws,O61,cumulative_loan,6437333.333,6437333.33333333,PASS
+Draws,F62,approved_draw,100000.0,100000,PASS
+Draws,H62,retained_amount,0,0,PASS
+Draws,I62,funded_draw,100000.0,100000,PASS
+Draws,J62,equity_funded,0.0,0,PASS
+Draws,K62,loan_funded,100000.0,100000,PASS
+Draws,L62,cumulative_approved,1152000.0,1152000,PASS
+Draws,N62,cumulative_equity,2500000.0,2500000,PASS
+Draws,O62,cumulative_loan,6537333.333,6537333.33333333,PASS
+Draws,F63,approved_draw,41666.66667,41666.6666666667,PASS
+Draws,H63,retained_amount,0,0,PASS
+Draws,I63,funded_draw,41666.66667,41666.6666666667,PASS
+Draws,J63,equity_funded,0.0,0,PASS
+Draws,K63,loan_funded,41666.66667,41666.6666666667,PASS
+Draws,L63,cumulative_approved,480000.0,480000,PASS
+Draws,N63,cumulative_equity,2500000.0,2500000,PASS
+Draws,O63,cumulative_loan,6579000.0,6579000,PASS
+Draws,F64,approved_draw,25000.0,25000,PASS
+Draws,H64,retained_amount,0,0,PASS
+Draws,I64,funded_draw,25000.0,25000,PASS
+Draws,J64,equity_funded,0.0,0,PASS
+Draws,K64,loan_funded,25000.0,25000,PASS
+Draws,L64,cumulative_approved,288000.0,288000,PASS
+Draws,N64,cumulative_equity,2500000.0,2500000,PASS
+Draws,O64,cumulative_loan,6604000.0,6604000,PASS
+Balance,B5,cost_to_complete,7754333.333,7754333.33333333,PASS
+Balance,C5,undisbursed_loan,7500000.0,7500000,PASS
+Balance,D5,remaining_required_equity,179333.3333,179333.333333334,PASS
+Balance,E5,balance_shortfall,75000,75000.0000000005,PASS
+Balance,F5,equity_call,True,True,PASS
+Balance,I5,contingency_remaining,458333.3333,458333.333333333,PASS
+Balance,J5,interest_reserve_remaining,287000,287000,PASS
+Balance,K5,interest_reserve_required,320833.3333,320833.333333333,PASS
+Balance,B6,cost_to_complete,7212666.667,7212666.66666667,PASS
+Balance,C6,undisbursed_loan,7062666.667,7062666.66666667,PASS
+Balance,D6,remaining_required_equity,0.0,0,PASS
+Balance,E6,balance_shortfall,150000,150000,PASS
+Balance,F6,equity_call,True,True,PASS
+Balance,I6,contingency_remaining,416666.6667,416666.666666667,PASS
+Balance,J6,interest_reserve_remaining,262000,262000,PASS
+Balance,K6,interest_reserve_required,291666.6667,291666.666666667,PASS
+Balance,B7,cost_to_complete,6671000.0,6671000,PASS
+Balance,C7,undisbursed_loan,6446000.0,6446000,PASS
+Balance,D7,remaining_required_equity,0.0,0,PASS
+Balance,E7,balance_shortfall,225000,225000,PASS
+Balance,F7,equity_call,True,True,PASS
+Balance,I7,contingency_remaining,375000.0,375000,PASS
+Balance,J7,interest_reserve_remaining,237000,237000,PASS
+Balance,K7,interest_reserve_required,262500.0,262500,PASS
+Balance,B8,cost_to_complete,6129333.333,6129333.33333333,PASS
+Balance,C8,undisbursed_loan,5829333.333,5829333.33333333,PASS
+Balance,D8,remaining_required_equity,0.0,0,PASS
+Balance,E8,balance_shortfall,300000,300000,PASS
+Balance,F8,equity_call,True,True,PASS
+Balance,I8,contingency_remaining,333333.3333,333333.333333333,PASS
+Balance,J8,interest_reserve_remaining,212000,212000,PASS
+Balance,K8,interest_reserve_required,233333.3333,233333.333333333,PASS
+Balance,B9,cost_to_complete,5587666.667,5587666.66666667,PASS
+Balance,C9,undisbursed_loan,5212666.667,5212666.66666667,PASS
+Balance,D9,remaining_required_equity,0.0,0,PASS
+Balance,E9,balance_shortfall,375000,375000,PASS
+Balance,F9,equity_call,True,True,PASS
+Balance,I9,contingency_remaining,291666.6667,291666.666666667,PASS
+Balance,J9,interest_reserve_remaining,187000,187000,PASS
+Balance,K9,interest_reserve_required,204166.6667,204166.666666667,PASS
+Balance,B10,cost_to_complete,5046000.0,5046000,PASS
+Balance,C10,undisbursed_loan,4596000.0,4596000,PASS
+Balance,D10,remaining_required_equity,0.0,0,PASS
+Balance,E10,balance_shortfall,450000,450000,PASS
+Balance,F10,equity_call,True,True,PASS
+Balance,I10,contingency_remaining,250000.0,250000,PASS
+Balance,J10,interest_reserve_remaining,162000,162000,PASS
+Balance,K10,interest_reserve_required,175000.0,175000,PASS
+Balance,B11,cost_to_complete,4504333.333,4504333.33333333,PASS
+Balance,C11,undisbursed_loan,3979333.333,3979333.33333333,PASS
+Balance,D11,remaining_required_equity,0.0,0,PASS
+Balance,E11,balance_shortfall,525000,525000.000000001,PASS
+Balance,F11,equity_call,True,True,PASS
+Balance,I11,contingency_remaining,208333.3333,208333.333333333,PASS
+Balance,J11,interest_reserve_remaining,137000,137000,PASS
+Balance,K11,interest_reserve_required,145833.3333,145833.333333333,PASS
+Balance,B12,cost_to_complete,3962666.667,3962666.66666667,PASS
+Balance,C12,undisbursed_loan,3362666.667,3362666.66666667,PASS
+Balance,D12,remaining_required_equity,0.0,0,PASS
+Balance,E12,balance_shortfall,600000,600000,PASS
+Balance,F12,equity_call,True,True,PASS
+Balance,I12,contingency_remaining,166666.6667,166666.666666667,PASS
+Balance,J12,interest_reserve_remaining,112000,112000,PASS
+Balance,K12,interest_reserve_required,116666.6667,116666.666666667,PASS
+Balance,B13,cost_to_complete,3421000.0,3421000,PASS
+Balance,C13,undisbursed_loan,2746000.0,2746000,PASS
+Balance,D13,remaining_required_equity,0.0,0,PASS
+Balance,E13,balance_shortfall,675000,675000,PASS
+Balance,F13,equity_call,True,True,PASS
+Balance,I13,contingency_remaining,125000.0,125000,PASS
+Balance,J13,interest_reserve_remaining,87000,87000,PASS
+Balance,K13,interest_reserve_required,87500.0,87500,PASS
+Balance,B14,cost_to_complete,2879333.333,2879333.33333333,PASS
+Balance,C14,undisbursed_loan,2129333.333,2129333.33333333,PASS
+Balance,D14,remaining_required_equity,0.0,0,PASS
+Balance,E14,balance_shortfall,750000,750000,PASS
+Balance,F14,equity_call,True,True,PASS
+Balance,I14,contingency_remaining,83333.33333,83333.3333333333,PASS
+Balance,J14,interest_reserve_remaining,62000,62000,PASS
+Balance,K14,interest_reserve_required,58333.33333,58333.3333333333,PASS
+Balance,B15,cost_to_complete,2337666.667,2337666.66666667,PASS
+Balance,C15,undisbursed_loan,1512666.667,1512666.66666667,PASS
+Balance,D15,remaining_required_equity,0.0,0,PASS
+Balance,E15,balance_shortfall,825000,825000,PASS
+Balance,F15,equity_call,True,True,PASS
+Balance,I15,contingency_remaining,41666.66667,41666.6666666667,PASS
+Balance,J15,interest_reserve_remaining,37000,37000,PASS
+Balance,K15,interest_reserve_required,29166.66667,29166.6666666667,PASS
+Balance,B16,cost_to_complete,1796000.0,1796000,PASS
+Balance,C16,undisbursed_loan,896000.0,895999.999999999,PASS
+Balance,D16,remaining_required_equity,0.0,0,PASS
+Balance,E16,balance_shortfall,900000,900000,PASS
+Balance,F16,equity_call,True,True,PASS
+Balance,I16,contingency_remaining,0.0,0,PASS
+Balance,J16,interest_reserve_remaining,12000,12000,PASS
+Balance,K16,interest_reserve_required,0.0,0,PASS
+AR eligibility,J5,gross_ar,270348.3644,270348.364431828,PASS
+AR eligibility,K5,cross_aged,True,True,PASS
+AR eligibility,L5,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M5,concentration_excess,0.0,0,PASS
+AR eligibility,N5,eligible_ar,0.0,0,PASS
+AR eligibility,J6,gross_ar,190876.0818,190876.081755309,PASS
+AR eligibility,K6,cross_aged,False,False,PASS
+AR eligibility,L6,pre_concentration_eligible,166332.2777,166332.277667544,PASS
+AR eligibility,M6,concentration_excess,0.0,0,PASS
+AR eligibility,N6,eligible_ar,166332.2777,166332.277667544,PASS
+AR eligibility,J7,gross_ar,248481.798,248481.798032641,PASS
+AR eligibility,K7,cross_aged,False,False,PASS
+AR eligibility,L7,pre_concentration_eligible,236057.7081,236057.708131009,PASS
+AR eligibility,M7,concentration_excess,0.0,0,PASS
+AR eligibility,N7,eligible_ar,236057.7081,236057.708131009,PASS
+AR eligibility,J8,gross_ar,234138.8513,234138.851287932,PASS
+AR eligibility,K8,cross_aged,False,False,PASS
+AR eligibility,L8,pre_concentration_eligible,222431.9087,222431.908723535,PASS
+AR eligibility,M8,concentration_excess,0.0,0,PASS
+AR eligibility,N8,eligible_ar,222431.9087,222431.908723535,PASS
+AR eligibility,J9,gross_ar,201876.5217,201876.521724236,PASS
+AR eligibility,K9,cross_aged,False,False,PASS
+AR eligibility,L9,pre_concentration_eligible,191782.6956,191782.695638024,PASS
+AR eligibility,M9,concentration_excess,0.0,0,PASS
+AR eligibility,N9,eligible_ar,191782.6956,191782.695638024,PASS
+AR eligibility,J10,gross_ar,299780.5058,299780.505831169,PASS
+AR eligibility,K10,cross_aged,False,False,PASS
+AR eligibility,L10,pre_concentration_eligible,284791.4805,284791.480539611,PASS
+AR eligibility,M10,concentration_excess,0.0,0,PASS
+AR eligibility,N10,eligible_ar,284791.4805,284791.480539611,PASS
+AR eligibility,J11,gross_ar,522567.8843,522567.884328527,PASS
+AR eligibility,K11,cross_aged,False,False,PASS
+AR eligibility,L11,pre_concentration_eligible,496439.4901,496439.4901121,PASS
+AR eligibility,M11,concentration_excess,70186.68276,70186.6827611563,PASS
+AR eligibility,N11,eligible_ar,426252.8074,426252.807350944,PASS
+AR eligibility,J12,gross_ar,561503.6589,561503.65888726,PASS
+AR eligibility,K12,cross_aged,False,False,PASS
+AR eligibility,L12,pre_concentration_eligible,533428.4759,533428.475942897,PASS
+AR eligibility,M12,concentration_excess,107175.6686,107175.668591953,PASS
+AR eligibility,N12,eligible_ar,426252.8074,426252.807350944,PASS
+AR eligibility,J13,gross_ar,272378.131,272378.130961164,PASS
+AR eligibility,K13,cross_aged,False,False,PASS
+AR eligibility,L13,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M13,concentration_excess,0.0,0,PASS
+AR eligibility,N13,eligible_ar,0.0,0,PASS
+AR eligibility,J14,gross_ar,475038.2577,475038.257726107,PASS
+AR eligibility,K14,cross_aged,False,False,PASS
+AR eligibility,L14,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M14,concentration_excess,0.0,0,PASS
+AR eligibility,N14,eligible_ar,0.0,0,PASS
+AR eligibility,J15,gross_ar,259332.808,259332.807999228,PASS
+AR eligibility,K15,cross_aged,True,True,PASS
+AR eligibility,L15,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M15,concentration_excess,0.0,0,PASS
+AR eligibility,N15,eligible_ar,0.0,0,PASS
+AR eligibility,J16,gross_ar,183098.6859,183098.685895607,PASS
+AR eligibility,K16,cross_aged,False,False,PASS
+AR eligibility,L16,pre_concentration_eligible,158943.7516,158943.751600827,PASS
+AR eligibility,M16,concentration_excess,0.0,0,PASS
+AR eligibility,N16,eligible_ar,158943.7516,158943.751600827,PASS
+AR eligibility,J17,gross_ar,238357.212,238357.212021348,PASS
+AR eligibility,K17,cross_aged,False,False,PASS
+AR eligibility,L17,pre_concentration_eligible,226439.3514,226439.351420281,PASS
+AR eligibility,M17,concentration_excess,0.0,0,PASS
+AR eligibility,N17,eligible_ar,226439.3514,226439.351420281,PASS
+AR eligibility,J18,gross_ar,224598.6799,224598.679906289,PASS
+AR eligibility,K18,cross_aged,False,False,PASS
+AR eligibility,L18,pre_concentration_eligible,213368.7459,213368.745910975,PASS
+AR eligibility,M18,concentration_excess,0.0,0,PASS
+AR eligibility,N18,eligible_ar,213368.7459,213368.745910975,PASS
+AR eligibility,J19,gross_ar,193650.9043,193650.904298572,PASS
+AR eligibility,K19,cross_aged,False,False,PASS
+AR eligibility,L19,pre_concentration_eligible,183968.3591,183968.359083643,PASS
+AR eligibility,M19,concentration_excess,0.0,0,PASS
+AR eligibility,N19,eligible_ar,183968.3591,183968.359083643,PASS
+AR eligibility,J20,gross_ar,287565.7137,287565.713682096,PASS
+AR eligibility,K20,cross_aged,False,False,PASS
+AR eligibility,L20,pre_concentration_eligible,273187.428,273187.427997991,PASS
+AR eligibility,M20,concentration_excess,0.0,0,PASS
+AR eligibility,N20,eligible_ar,273187.428,273187.427997991,PASS
+AR eligibility,J21,gross_ar,501275.4455,501275.445471783,PASS
+AR eligibility,K21,cross_aged,False,False,PASS
+AR eligibility,L21,pre_concentration_eligible,476211.6732,476211.673198194,PASS
+AR eligibility,M21,concentration_excess,67449.10861,67449.108605566,PASS
+AR eligibility,N21,eligible_ar,408762.5646,408762.564592628,PASS
+AR eligibility,J22,gross_ar,538624.7513,538624.751317084,PASS
+AR eligibility,K22,cross_aged,False,False,PASS
+AR eligibility,L22,pre_concentration_eligible,511693.5138,511693.51375123,PASS
+AR eligibility,M22,concentration_excess,102930.9492,102930.949158601,PASS
+AR eligibility,N22,eligible_ar,408762.5646,408762.564592628,PASS
+AR eligibility,J23,gross_ar,261279.8701,261279.870097206,PASS
+AR eligibility,K23,cross_aged,False,False,PASS
+AR eligibility,L23,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M23,concentration_excess,0.0,0,PASS
+AR eligibility,N23,eligible_ar,0.0,0,PASS
+AR eligibility,J24,gross_ar,455682.4508,455682.45083368,PASS
+AR eligibility,K24,cross_aged,False,False,PASS
+AR eligibility,L24,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M24,concentration_excess,0.0,0,PASS
+AR eligibility,N24,eligible_ar,0.0,0,PASS
+AR eligibility,J25,gross_ar,254416.8015,254416.801456166,PASS
+AR eligibility,K25,cross_aged,True,True,PASS
+AR eligibility,L25,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M25,concentration_excess,0.0,0,PASS
+AR eligibility,N25,eligible_ar,0.0,0,PASS
+AR eligibility,J26,gross_ar,179627.801,179627.800955004,PASS
+AR eligibility,K26,cross_aged,False,False,PASS
+AR eligibility,L26,pre_concentration_eligible,155646.4109,155646.410907254,PASS
+AR eligibility,M26,concentration_excess,0.0,0,PASS
+AR eligibility,N26,eligible_ar,155646.4109,155646.410907254,PASS
+AR eligibility,J27,gross_ar,233838.8265,233838.826465262,PASS
+AR eligibility,K27,cross_aged,False,False,PASS
+AR eligibility,L27,pre_concentration_eligible,222146.8851,222146.885141999,PASS
+AR eligibility,M27,concentration_excess,0.0,0,PASS
+AR eligibility,N27,eligible_ar,222146.8851,222146.885141999,PASS
+AR eligibility,J28,gross_ar,220341.1061,220341.106063239,PASS
+AR eligibility,K28,cross_aged,False,False,PASS
+AR eligibility,L28,pre_concentration_eligible,209324.0508,209324.050760077,PASS
+AR eligibility,M28,concentration_excess,0.0,0,PASS
+AR eligibility,N28,eligible_ar,209324.0508,209324.050760077,PASS
+AR eligibility,J29,gross_ar,189979.9877,189979.987687803,PASS
+AR eligibility,K29,cross_aged,False,False,PASS
+AR eligibility,L29,pre_concentration_eligible,180480.9883,180480.988303413,PASS
+AR eligibility,M29,concentration_excess,0.0,0,PASS
+AR eligibility,N29,eligible_ar,180480.9883,180480.988303413,PASS
+AR eligibility,J30,gross_ar,282114.514,282114.513963372,PASS
+AR eligibility,K30,cross_aged,False,False,PASS
+AR eligibility,L30,pre_concentration_eligible,268008.7883,268008.788265203,PASS
+AR eligibility,M30,concentration_excess,0.0,0,PASS
+AR eligibility,N30,eligible_ar,268008.7883,268008.788265203,PASS
+AR eligibility,J31,gross_ar,491773.0868,491773.086750465,PASS
+AR eligibility,K31,cross_aged,False,False,PASS
+AR eligibility,L31,pre_concentration_eligible,467184.4324,467184.432412941,PASS
+AR eligibility,M31,concentration_excess,66227.38798,66227.3879831585,PASS
+AR eligibility,N31,eligible_ar,400957.0444,400957.044429783,PASS
+AR eligibility,J32,gross_ar,528414.3856,528414.385640028,PASS
+AR eligibility,K32,cross_aged,False,False,PASS
+AR eligibility,L32,pre_concentration_eligible,501993.6664,501993.666358027,PASS
+AR eligibility,M32,concentration_excess,101036.6219,101036.621928244,PASS
+AR eligibility,N32,eligible_ar,400957.0444,400957.044429783,PASS
+AR eligibility,J33,gross_ar,256326.9543,256326.954340507,PASS
+AR eligibility,K33,cross_aged,False,False,PASS
+AR eligibility,L33,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M33,concentration_excess,0.0,0,PASS
+AR eligibility,N33,eligible_ar,0.0,0,PASS
+AR eligibility,J34,gross_ar,447044.3694,447044.369415676,PASS
+AR eligibility,K34,cross_aged,False,False,PASS
+AR eligibility,L34,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M34,concentration_excess,0.0,0,PASS
+AR eligibility,N34,eligible_ar,0.0,0,PASS
+AR eligibility,J35,gross_ar,247781.4248,247781.424781372,PASS
+AR eligibility,K35,cross_aged,True,True,PASS
+AR eligibility,L35,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M35,concentration_excess,0.0,0,PASS
+AR eligibility,N35,eligible_ar,0.0,0,PASS
+AR eligibility,J36,gross_ar,174942.9762,174942.976235176,PASS
+AR eligibility,K36,cross_aged,False,False,PASS
+AR eligibility,L36,pre_concentration_eligible,151195.8274,151195.827423418,PASS
+AR eligibility,M36,concentration_excess,0.0,0,PASS
+AR eligibility,N36,eligible_ar,151195.8274,151195.827423418,PASS
+AR eligibility,J37,gross_ar,227740.1385,227740.138462315,PASS
+AR eligibility,K37,cross_aged,False,False,PASS
+AR eligibility,L37,pre_concentration_eligible,216353.1315,216353.1315392,PASS
+AR eligibility,M37,concentration_excess,0.0,0,PASS
+AR eligibility,N37,eligible_ar,216353.1315,216353.1315392,PASS
+AR eligibility,J38,gross_ar,214594.4485,214594.448502487,PASS
+AR eligibility,K38,cross_aged,False,False,PASS
+AR eligibility,L38,pre_concentration_eligible,203864.7261,203864.726077363,PASS
+AR eligibility,M38,concentration_excess,0.0,0,PASS
+AR eligibility,N38,eligible_ar,203864.7261,203864.726077363,PASS
+AR eligibility,J39,gross_ar,185025.1703,185025.170349615,PASS
+AR eligibility,K39,cross_aged,False,False,PASS
+AR eligibility,L39,pre_concentration_eligible,175773.9118,175773.911832135,PASS
+AR eligibility,M39,concentration_excess,0.0,0,PASS
+AR eligibility,N39,eligible_ar,175773.9118,175773.911832135,PASS
+AR eligibility,J40,gross_ar,274756.7606,274756.760643389,PASS
+AR eligibility,K40,cross_aged,False,False,PASS
+AR eligibility,L40,pre_concentration_eligible,261018.9226,261018.92261122,PASS
+AR eligibility,M40,concentration_excess,0.0,0,PASS
+AR eligibility,N40,eligible_ar,261018.9226,261018.92261122,PASS
+AR eligibility,J41,gross_ar,478947.2842,478947.284168092,PASS
+AR eligibility,K41,cross_aged,False,False,PASS
+AR eligibility,L41,pre_concentration_eligible,454999.92,454999.919959687,PASS
+AR eligibility,M41,concentration_excess,64578.37136,64578.3713575648,PASS
+AR eligibility,N41,eligible_ar,390421.5486,390421.548602122,PASS
+AR eligibility,J42,gross_ar,514632.9511,514632.95112378,PASS
+AR eligibility,K42,cross_aged,False,False,PASS
+AR eligibility,L42,pre_concentration_eligible,488901.3036,488901.303567591,PASS
+AR eligibility,M42,concentration_excess,98479.75497,98479.7549654684,PASS
+AR eligibility,N42,eligible_ar,390421.5486,390421.548602122,PASS
+AR eligibility,J43,gross_ar,249641.7595,249641.759478308,PASS
+AR eligibility,K43,cross_aged,False,False,PASS
+AR eligibility,L43,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M43,concentration_excess,0.0,0,PASS
+AR eligibility,N43,eligible_ar,0.0,0,PASS
+AR eligibility,J44,gross_ar,435385.1246,435385.124568477,PASS
+AR eligibility,K44,cross_aged,False,False,PASS
+AR eligibility,L44,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M44,concentration_excess,0.0,0,PASS
+AR eligibility,N44,eligible_ar,0.0,0,PASS
+AR eligibility,J45,gross_ar,244021.1811,244021.181092322,PASS
+AR eligibility,K45,cross_aged,True,True,PASS
+AR eligibility,L45,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M45,concentration_excess,0.0,0,PASS
+AR eligibility,N45,eligible_ar,0.0,0,PASS
+AR eligibility,J46,gross_ar,172288.1032,172288.103203784,PASS
+AR eligibility,K46,cross_aged,False,False,PASS
+AR eligibility,L46,pre_concentration_eligible,148673.698,148673.698043595,PASS
+AR eligibility,M46,concentration_excess,0.0,0,PASS
+AR eligibility,N46,eligible_ar,148673.698,148673.698043595,PASS
+AR eligibility,J47,gross_ar,224284.0343,224284.034280366,PASS
+AR eligibility,K47,cross_aged,False,False,PASS
+AR eligibility,L47,pre_concentration_eligible,213069.8326,213069.832566347,PASS
+AR eligibility,M47,concentration_excess,0.0,0,PASS
+AR eligibility,N47,eligible_ar,213069.8326,213069.832566347,PASS
+AR eligibility,J48,gross_ar,211337.8387,211337.838684384,PASS
+AR eligibility,K48,cross_aged,False,False,PASS
+AR eligibility,L48,pre_concentration_eligible,200770.9468,200770.946750164,PASS
+AR eligibility,M48,concentration_excess,0.0,0,PASS
+AR eligibility,N48,eligible_ar,200770.9468,200770.946750164,PASS
+AR eligibility,J49,gross_ar,182217.2935,182217.293489046,PASS
+AR eligibility,K49,cross_aged,False,False,PASS
+AR eligibility,L49,pre_concentration_eligible,173106.4288,173106.428814593,PASS
+AR eligibility,M49,concentration_excess,0.0,0,PASS
+AR eligibility,N49,eligible_ar,173106.4288,173106.428814593,PASS
+AR eligibility,J50,gross_ar,270587.1488,270587.148752003,PASS
+AR eligibility,K50,cross_aged,False,False,PASS
+AR eligibility,L50,pre_concentration_eligible,257057.7913,257057.791314403,PASS
+AR eligibility,M50,concentration_excess,0.0,0,PASS
+AR eligibility,N50,eligible_ar,257057.7913,257057.791314403,PASS
+AR eligibility,J51,gross_ar,471678.9488,471678.948762119,PASS
+AR eligibility,K51,cross_aged,False,False,PASS
+AR eligibility,L51,pre_concentration_eligible,448095.0013,448095.001324013,PASS
+AR eligibility,M51,concentration_excess,63643.87967,63643.87966803,PASS
+AR eligibility,N51,eligible_ar,384451.1217,384451.121655983,PASS
+AR eligibility,J52,gross_ar,506823.0626,506823.062596632,PASS
+AR eligibility,K52,cross_aged,False,False,PASS
+AR eligibility,L52,pre_concentration_eligible,481481.9095,481481.9094668,PASS
+AR eligibility,M52,concentration_excess,97030.78781,97030.787810817,PASS
+AR eligibility,N52,eligible_ar,384451.1217,384451.121655983,PASS
+AR eligibility,J53,gross_ar,245853.284,245853.284004693,PASS
+AR eligibility,K53,cross_aged,False,False,PASS
+AR eligibility,L53,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M53,concentration_excess,0.0,0,PASS
+AR eligibility,N53,eligible_ar,0.0,0,PASS
+AR eligibility,J54,gross_ar,428777.8732,428777.873163698,PASS
+AR eligibility,K54,cross_aged,False,False,PASS
+AR eligibility,L54,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M54,concentration_excess,0.0,0,PASS
+AR eligibility,N54,eligible_ar,0.0,0,PASS
+AR eligibility,J55,gross_ar,241104.3317,241104.331668452,PASS
+AR eligibility,K55,cross_aged,True,True,PASS
+AR eligibility,L55,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M55,concentration_excess,0.0,0,PASS
+AR eligibility,N55,eligible_ar,0.0,0,PASS
+AR eligibility,J56,gross_ar,170228.6981,170228.698145912,PASS
+AR eligibility,K56,cross_aged,False,False,PASS
+AR eligibility,L56,pre_concentration_eligible,146717.2632,146717.263238616,PASS
+AR eligibility,M56,concentration_excess,0.0,0,PASS
+AR eligibility,N56,eligible_ar,146717.2632,146717.263238616,PASS
+AR eligibility,J57,gross_ar,221603.1082,221603.108168766,PASS
+AR eligibility,K57,cross_aged,False,False,PASS
+AR eligibility,L57,pre_concentration_eligible,210522.9528,210522.952760327,PASS
+AR eligibility,M57,concentration_excess,0.0,0,PASS
+AR eligibility,N57,eligible_ar,210522.9528,210522.952760327,PASS
+AR eligibility,J58,gross_ar,208811.6619,208811.661857236,PASS
+AR eligibility,K58,cross_aged,False,False,PASS
+AR eligibility,L58,pre_concentration_eligible,198371.0788,198371.078764375,PASS
+AR eligibility,M58,concentration_excess,0.0,0,PASS
+AR eligibility,N58,eligible_ar,198371.0788,198371.078764375,PASS
+AR eligibility,J59,gross_ar,180039.2022,180039.202205521,PASS
+AR eligibility,K59,cross_aged,False,False,PASS
+AR eligibility,L59,pre_concentration_eligible,171037.2421,171037.242095245,PASS
+AR eligibility,M59,concentration_excess,0.0,0,PASS
+AR eligibility,N59,eligible_ar,171037.2421,171037.242095245,PASS
+AR eligibility,J60,gross_ar,267352.7493,267352.749322368,PASS
+AR eligibility,K60,cross_aged,False,False,PASS
+AR eligibility,L60,pre_concentration_eligible,253985.1119,253985.111856249,PASS
+AR eligibility,M60,concentration_excess,0.0,0,PASS
+AR eligibility,N60,eligible_ar,253985.1119,253985.111856249,PASS
+AR eligibility,J61,gross_ar,466040.8461,466040.846103204,PASS
+AR eligibility,K61,cross_aged,False,False,PASS
+AR eligibility,L61,pre_concentration_eligible,442738.8038,442738.803798043,PASS
+AR eligibility,M61,concentration_excess,62918.98741,62918.9874079438,PASS
+AR eligibility,N61,eligible_ar,379819.8164,379819.8163901,PASS
+AR eligibility,J62,gross_ar,500764.8731,500764.873092256,PASS
+AR eligibility,K62,cross_aged,False,False,PASS
+AR eligibility,L62,pre_concentration_eligible,475726.6294,475726.629437643,PASS
+AR eligibility,M62,concentration_excess,95906.81305,95906.8130475432,PASS
+AR eligibility,N62,eligible_ar,379819.8164,379819.8163901,PASS
+AR eligibility,J63,gross_ar,242914.535,242914.534972352,PASS
+AR eligibility,K63,cross_aged,False,False,PASS
+AR eligibility,L63,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M63,concentration_excess,0.0,0,PASS
+AR eligibility,N63,eligible_ar,0.0,0,PASS
+AR eligibility,J64,gross_ar,423652.5784,423652.578356471,PASS
+AR eligibility,K64,cross_aged,False,False,PASS
+AR eligibility,L64,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M64,concentration_excess,0.0,0,PASS
+AR eligibility,N64,eligible_ar,0.0,0,PASS
+AR eligibility,J65,gross_ar,234872.0159,234872.015914645,PASS
+AR eligibility,K65,cross_aged,True,True,PASS
+AR eligibility,L65,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M65,concentration_excess,0.0,0,PASS
+AR eligibility,N65,eligible_ar,0.0,0,PASS
+AR eligibility,J66,gross_ar,165828.4495,165828.449548704,PASS
+AR eligibility,K66,cross_aged,False,False,PASS
+AR eligibility,L66,pre_concentration_eligible,142537.0271,142537.027071269,PASS
+AR eligibility,M66,concentration_excess,0.0,0,PASS
+AR eligibility,N66,eligible_ar,142537.0271,142537.027071269,PASS
+AR eligibility,J67,gross_ar,215874.8803,215874.88034069,PASS
+AR eligibility,K67,cross_aged,False,False,PASS
+AR eligibility,L67,pre_concentration_eligible,205081.1363,205081.136323656,PASS
+AR eligibility,M67,concentration_excess,0.0,0,PASS
+AR eligibility,N67,eligible_ar,205081.1363,205081.136323656,PASS
+AR eligibility,J68,gross_ar,203414.0806,203414.080649276,PASS
+AR eligibility,K68,cross_aged,False,False,PASS
+AR eligibility,L68,pre_concentration_eligible,193243.3766,193243.376616812,PASS
+AR eligibility,M68,concentration_excess,0.0,0,PASS
+AR eligibility,N68,eligible_ar,193243.3766,193243.376616812,PASS
+AR eligibility,J69,gross_ar,175385.3615,175385.361486677,PASS
+AR eligibility,K69,cross_aged,False,False,PASS
+AR eligibility,L69,pre_concentration_eligible,166616.0934,166616.093412343,PASS
+AR eligibility,M69,concentration_excess,0.0,0,PASS
+AR eligibility,N69,eligible_ar,166616.0934,166616.093412343,PASS
+AR eligibility,J70,gross_ar,260441.9371,260441.937144523,PASS
+AR eligibility,K70,cross_aged,False,False,PASS
+AR eligibility,L70,pre_concentration_eligible,247419.8403,247419.840287297,PASS
+AR eligibility,M70,concentration_excess,0.0,0,PASS
+AR eligibility,N70,eligible_ar,247419.8403,247419.840287297,PASS
+AR eligibility,J71,gross_ar,453994.1372,453994.137166092,PASS
+AR eligibility,K71,cross_aged,False,False,PASS
+AR eligibility,L71,pre_concentration_eligible,431294.4303,431294.430307788,PASS
+AR eligibility,M71,concentration_excess,61370.13905,61370.1390459482,PASS
+AR eligibility,N71,eligible_ar,369924.2913,369924.29126184,PASS
+AR eligibility,J72,gross_ar,487820.5814,487820.58135793,PASS
+AR eligibility,K72,cross_aged,False,False,PASS
+AR eligibility,L72,pre_concentration_eligible,463429.5523,463429.552290034,PASS
+AR eligibility,M72,concentration_excess,93505.26103,93505.261028194,PASS
+AR eligibility,N72,eligible_ar,369924.2913,369924.29126184,PASS
+AR eligibility,J73,gross_ar,236635.4272,236635.42719913,PASS
+AR eligibility,K73,cross_aged,False,False,PASS
+AR eligibility,L73,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M73,concentration_excess,0.0,0,PASS
+AR eligibility,N73,eligible_ar,0.0,0,PASS
+AR eligibility,J74,gross_ar,412701.5655,412701.565490129,PASS
+AR eligibility,K74,cross_aged,False,False,PASS
+AR eligibility,L74,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M74,concentration_excess,0.0,0,PASS
+AR eligibility,N74,eligible_ar,0.0,0,PASS
+AR eligibility,J75,gross_ar,228732.2128,228732.212774818,PASS
+AR eligibility,K75,cross_aged,True,True,PASS
+AR eligibility,L75,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M75,concentration_excess,0.0,0,PASS
+AR eligibility,N75,eligible_ar,0.0,0,PASS
+AR eligibility,J76,gross_ar,161493.5183,161493.518325643,PASS
+AR eligibility,K76,cross_aged,False,False,PASS
+AR eligibility,L76,pre_concentration_eligible,138418.8424,138418.842409361,PASS
+AR eligibility,M76,concentration_excess,0.0,0,PASS
+AR eligibility,N76,eligible_ar,138418.8424,138418.842409361,PASS
+AR eligibility,J77,gross_ar,210231.6824,210231.682435806,PASS
+AR eligibility,K77,cross_aged,False,False,PASS
+AR eligibility,L77,pre_concentration_eligible,199720.0983,199720.098314016,PASS
+AR eligibility,M77,concentration_excess,0.0,0,PASS
+AR eligibility,N77,eligible_ar,199720.0983,199720.098314016,PASS
+AR eligibility,J78,gross_ar,198096.6212,198096.621239769,PASS
+AR eligibility,K78,cross_aged,False,False,PASS
+AR eligibility,L78,pre_concentration_eligible,188191.7902,188191.79017778,PASS
+AR eligibility,M78,concentration_excess,0.0,0,PASS
+AR eligibility,N78,eligible_ar,188191.7902,188191.79017778,PASS
+AR eligibility,J79,gross_ar,170800.6025,170800.602468272,PASS
+AR eligibility,K79,cross_aged,False,False,PASS
+AR eligibility,L79,pre_concentration_eligible,162260.5723,162260.572344859,PASS
+AR eligibility,M79,concentration_excess,0.0,0,PASS
+AR eligibility,N79,eligible_ar,162260.5723,162260.572344859,PASS
+AR eligibility,J80,gross_ar,253633.7092,253633.709194525,PASS
+AR eligibility,K80,cross_aged,False,False,PASS
+AR eligibility,L80,pre_concentration_eligible,240952.0237,240952.023734799,PASS
+AR eligibility,M80,concentration_excess,0.0,0,PASS
+AR eligibility,N80,eligible_ar,240952.0237,240952.023734799,PASS
+AR eligibility,J81,gross_ar,442126.2498,442126.249806331,PASS
+AR eligibility,K81,cross_aged,False,False,PASS
+AR eligibility,L81,pre_concentration_eligible,420019.9373,420019.937316014,PASS
+AR eligibility,M81,concentration_excess,59844.28182,59844.2818185949,PASS
+AR eligibility,N81,eligible_ar,360175.6555,360175.655497419,PASS
+AR eligibility,J82,gross_ar,475068.4349,475068.434937124,PASS
+AR eligibility,K82,cross_aged,False,False,PASS
+AR eligibility,L82,pre_concentration_eligible,451315.0132,451315.013190268,PASS
+AR eligibility,M82,concentration_excess,91139.35769,91139.3576928488,PASS
+AR eligibility,N82,eligible_ar,360175.6555,360175.655497419,PASS
+AR eligibility,J83,gross_ar,230449.5266,230449.526621518,PASS
+AR eligibility,K83,cross_aged,False,False,PASS
+AR eligibility,L83,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M83,concentration_excess,0.0,0,PASS
+AR eligibility,N83,eligible_ar,0.0,0,PASS
+AR eligibility,J84,gross_ar,401913.1097,401913.109667753,PASS
+AR eligibility,K84,cross_aged,False,False,PASS
+AR eligibility,L84,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M84,concentration_excess,0.0,0,PASS
+AR eligibility,N84,eligible_ar,0.0,0,PASS
+AR eligibility,J85,gross_ar,224346.8519,224346.85187332,PASS
+AR eligibility,K85,cross_aged,True,True,PASS
+AR eligibility,L85,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M85,concentration_excess,0.0,0,PASS
+AR eligibility,N85,eligible_ar,0.0,0,PASS
+AR eligibility,J86,gross_ar,158397.2891,158397.28910406,PASS
+AR eligibility,K86,cross_aged,False,False,PASS
+AR eligibility,L86,pre_concentration_eligible,135477.4246,135477.424648857,PASS
+AR eligibility,M86,concentration_excess,0.0,0,PASS
+AR eligibility,N86,eligible_ar,135477.4246,135477.424648857,PASS
+AR eligibility,J87,gross_ar,206201.0223,206201.022349822,PASS
+AR eligibility,K87,cross_aged,False,False,PASS
+AR eligibility,L87,pre_concentration_eligible,195890.9712,195890.971232331,PASS
+AR eligibility,M87,concentration_excess,0.0,0,PASS
+AR eligibility,N87,eligible_ar,195890.9712,195890.971232331,PASS
+AR eligibility,J88,gross_ar,194298.6202,194298.620219427,PASS
+AR eligibility,K88,cross_aged,False,False,PASS
+AR eligibility,L88,pre_concentration_eligible,184583.6892,184583.689208455,PASS
+AR eligibility,M88,concentration_excess,0.0,0,PASS
+AR eligibility,N88,eligible_ar,184583.6892,184583.689208455,PASS
+AR eligibility,J89,gross_ar,167525.9335,167525.93347902,PASS
+AR eligibility,K89,cross_aged,False,False,PASS
+AR eligibility,L89,pre_concentration_eligible,159149.6368,159149.636805069,PASS
+AR eligibility,M89,concentration_excess,0.0,0,PASS
+AR eligibility,N89,eligible_ar,159149.6368,159149.636805069,PASS
+AR eligibility,J90,gross_ar,248770.9252,248770.925163757,PASS
+AR eligibility,K90,cross_aged,False,False,PASS
+AR eligibility,L90,pre_concentration_eligible,236332.3789,236332.378905569,PASS
+AR eligibility,M90,concentration_excess,0.0,0,PASS
+AR eligibility,N90,eligible_ar,236332.3789,236332.378905569,PASS
+AR eligibility,J91,gross_ar,433649.5987,433649.598678334,PASS
+AR eligibility,K91,cross_aged,False,False,PASS
+AR eligibility,L91,pre_concentration_eligible,411967.1187,411967.118744417,PASS
+AR eligibility,M91,concentration_excess,58754.43668,58754.4366763786,PASS
+AR eligibility,N91,eligible_ar,353212.6821,353212.682068039,PASS
+AR eligibility,J92,gross_ar,465960.2008,465960.200837363,PASS
+AR eligibility,K92,cross_aged,False,False,PASS
+AR eligibility,L92,pre_concentration_eligible,442662.1908,442662.190795495,PASS
+AR eligibility,M92,concentration_excess,89449.50873,89449.5087274566,PASS
+AR eligibility,N92,eligible_ar,353212.6821,353212.682068039,PASS
+AR eligibility,J93,gross_ar,226031.2406,226031.240576212,PASS
+AR eligibility,K93,cross_aged,False,False,PASS
+AR eligibility,L93,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M93,concentration_excess,0.0,0,PASS
+AR eligibility,N93,eligible_ar,0.0,0,PASS
+AR eligibility,J94,gross_ar,394207.4437,394207.443659652,PASS
+AR eligibility,K94,cross_aged,False,False,PASS
+AR eligibility,L94,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M94,concentration_excess,0.0,0,PASS
+AR eligibility,N94,eligible_ar,0.0,0,PASS
+AR eligibility,J95,gross_ar,218296.1665,218296.166543872,PASS
+AR eligibility,K95,cross_aged,True,True,PASS
+AR eligibility,L95,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M95,concentration_excess,0.0,0,PASS
+AR eligibility,N95,eligible_ar,0.0,0,PASS
+AR eligibility,J96,gross_ar,154125.2784,154125.278396517,PASS
+AR eligibility,K96,cross_aged,False,False,PASS
+AR eligibility,L96,pre_concentration_eligible,131419.0145,131419.014476692,PASS
+AR eligibility,M96,concentration_excess,0.0,0,PASS
+AR eligibility,N96,eligible_ar,131419.0145,131419.014476692,PASS
+AR eligibility,J97,gross_ar,200639.7341,200639.734146171,PASS
+AR eligibility,K97,cross_aged,False,False,PASS
+AR eligibility,L97,pre_concentration_eligible,190607.7474,190607.747438863,PASS
+AR eligibility,M97,concentration_excess,0.0,0,PASS
+AR eligibility,N97,eligible_ar,190607.7474,190607.747438863,PASS
+AR eligibility,J98,gross_ar,189058.3425,189058.342492875,PASS
+AR eligibility,K98,cross_aged,False,False,PASS
+AR eligibility,L98,pre_concentration_eligible,179605.4254,179605.425368232,PASS
+AR eligibility,M98,concentration_excess,0.0,0,PASS
+AR eligibility,N98,eligible_ar,179605.4254,179605.425368232,PASS
+AR eligibility,J99,gross_ar,163007.7212,163007.721168308,PASS
+AR eligibility,K99,cross_aged,False,False,PASS
+AR eligibility,L99,pre_concentration_eligible,154857.3351,154857.335109892,PASS
+AR eligibility,M99,concentration_excess,0.0,0,PASS
+AR eligibility,N99,eligible_ar,154857.3351,154857.335109892,PASS
+AR eligibility,J100,gross_ar,242061.5171,242061.517054337,PASS
+AR eligibility,K100,cross_aged,False,False,PASS
+AR eligibility,L100,pre_concentration_eligible,229958.4412,229958.441201621,PASS
+AR eligibility,M100,concentration_excess,0.0,0,PASS
+AR eligibility,N100,eligible_ar,229958.4412,229958.441201621,PASS
+AR eligibility,J101,gross_ar,421953.9709,421953.970935246,PASS
+AR eligibility,K101,cross_aged,False,False,PASS
+AR eligibility,L101,pre_concentration_eligible,400856.2724,400856.272388484,PASS
+AR eligibility,M101,concentration_excess,57250.72691,57250.7269107524,PASS
+AR eligibility,N101,eligible_ar,343605.5455,343605.545477732,PASS
+AR eligibility,J102,gross_ar,453393.1488,453393.148847237,PASS
+AR eligibility,K102,cross_aged,False,False,PASS
+AR eligibility,L102,pre_concentration_eligible,430723.4914,430723.491404875,PASS
+AR eligibility,M102,concentration_excess,87117.94593,87117.9459271434,PASS
+AR eligibility,N102,eligible_ar,343605.5455,343605.545477732,PASS
+AR eligibility,J103,gross_ar,219935.1269,219935.126902535,PASS
+AR eligibility,K103,cross_aged,False,False,PASS
+AR eligibility,L103,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M103,concentration_excess,0.0,0,PASS
+AR eligibility,N103,eligible_ar,0.0,0,PASS
+AR eligibility,J104,gross_ar,383575.5798,383575.579756978,PASS
+AR eligibility,K104,cross_aged,False,False,PASS
+AR eligibility,L104,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M104,concentration_excess,0.0,0,PASS
+AR eligibility,N104,eligible_ar,0.0,0,PASS
+AR eligibility,J105,gross_ar,219353.4992,219353.499249162,PASS
+AR eligibility,K105,cross_aged,True,True,PASS
+AR eligibility,L105,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M105,concentration_excess,0.0,0,PASS
+AR eligibility,N105,eligible_ar,0.0,0,PASS
+AR eligibility,J106,gross_ar,154871.7949,154871.794930182,PASS
+AR eligibility,K106,cross_aged,False,False,PASS
+AR eligibility,L106,pre_concentration_eligible,132128.2052,132128.205183673,PASS
+AR eligibility,M106,concentration_excess,0.0,0,PASS
+AR eligibility,N106,eligible_ar,132128.2052,132128.205183673,PASS
+AR eligibility,J107,gross_ar,201611.5467,201611.546689892,PASS
+AR eligibility,K107,cross_aged,False,False,PASS
+AR eligibility,L107,pre_concentration_eligible,191530.9694,191530.969355397,PASS
+AR eligibility,M107,concentration_excess,0.0,0,PASS
+AR eligibility,N107,eligible_ar,191530.9694,191530.969355397,PASS
+AR eligibility,J108,gross_ar,189974.0598,189974.059758508,PASS
+AR eligibility,K108,cross_aged,False,False,PASS
+AR eligibility,L108,pre_concentration_eligible,180475.3568,180475.356770582,PASS
+AR eligibility,M108,concentration_excess,0.0,0,PASS
+AR eligibility,N108,eligible_ar,180475.3568,180475.356770582,PASS
+AR eligibility,J109,gross_ar,163797.2604,163797.260432944,PASS
+AR eligibility,K109,cross_aged,False,False,PASS
+AR eligibility,L109,pre_concentration_eligible,155607.3974,155607.397411297,PASS
+AR eligibility,M109,concentration_excess,0.0,0,PASS
+AR eligibility,N109,eligible_ar,155607.3974,155607.397411297,PASS
+AR eligibility,J110,gross_ar,243233.9589,243233.958892074,PASS
+AR eligibility,K110,cross_aged,False,False,PASS
+AR eligibility,L110,pre_concentration_eligible,231072.2609,231072.260947471,PASS
+AR eligibility,M110,concentration_excess,0.0,0,PASS
+AR eligibility,N110,eligible_ar,231072.2609,231072.260947471,PASS
+AR eligibility,J111,gross_ar,423997.7344,423997.734417951,PASS
+AR eligibility,K111,cross_aged,False,False,PASS
+AR eligibility,L111,pre_concentration_eligible,402797.8477,402797.847697053,PASS
+AR eligibility,M111,concentration_excess,57513.49409,57513.4940896573,PASS
+AR eligibility,N111,eligible_ar,345284.3536,345284.353607396,PASS
+AR eligibility,J112,gross_ar,455589.1902,455589.190180533,PASS
+AR eligibility,K112,cross_aged,False,False,PASS
+AR eligibility,L112,pre_concentration_eligible,432809.7307,432809.730671507,PASS
+AR eligibility,M112,concentration_excess,87525.37706,87525.3770641106,PASS
+AR eligibility,N112,eligible_ar,345284.3536,345284.353607396,PASS
+AR eligibility,J113,gross_ar,221000.398,221000.398026613,PASS
+AR eligibility,K113,cross_aged,False,False,PASS
+AR eligibility,L113,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M113,concentration_excess,0.0,0,PASS
+AR eligibility,N113,eligible_ar,0.0,0,PASS
+AR eligibility,J114,gross_ar,385433.4548,385433.454825737,PASS
+AR eligibility,K114,cross_aged,False,False,PASS
+AR eligibility,L114,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M114,concentration_excess,0.0,0,PASS
+AR eligibility,N114,eligible_ar,0.0,0,PASS
+AR eligibility,J115,gross_ar,217649.4214,217649.421439041,PASS
+AR eligibility,K115,cross_aged,True,True,PASS
+AR eligibility,L115,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M115,concentration_excess,0.0,0,PASS
+AR eligibility,N115,eligible_ar,0.0,0,PASS
+AR eligibility,J116,gross_ar,153668.6521,153668.652103387,PASS
+AR eligibility,K116,cross_aged,False,False,PASS
+AR eligibility,L116,pre_concentration_eligible,130985.2195,130985.219498217,PASS
+AR eligibility,M116,concentration_excess,0.0,0,PASS
+AR eligibility,N116,eligible_ar,130985.2195,130985.219498217,PASS
+AR eligibility,J117,gross_ar,200045.2997,200045.299676945,PASS
+AR eligibility,K117,cross_aged,False,False,PASS
+AR eligibility,L117,pre_concentration_eligible,190043.0347,190043.034693098,PASS
+AR eligibility,M117,concentration_excess,0.0,0,PASS
+AR eligibility,N117,eligible_ar,190043.0347,190043.034693098,PASS
+AR eligibility,J118,gross_ar,188498.2202,188498.220162417,PASS
+AR eligibility,K118,cross_aged,False,False,PASS
+AR eligibility,L118,pre_concentration_eligible,179073.3092,179073.309154296,PASS
+AR eligibility,M118,concentration_excess,0.0,0,PASS
+AR eligibility,N118,eligible_ar,179073.3092,179073.309154296,PASS
+AR eligibility,J119,gross_ar,162524.7789,162524.778900542,PASS
+AR eligibility,K119,cross_aged,False,False,PASS
+AR eligibility,L119,pre_concentration_eligible,154398.54,154398.539955515,PASS
+AR eligibility,M119,concentration_excess,0.0,0,PASS
+AR eligibility,N119,eligible_ar,154398.54,154398.539955515,PASS
+AR eligibility,J120,gross_ar,241344.3624,241344.362448733,PASS
+AR eligibility,K120,cross_aged,False,False,PASS
+AR eligibility,L120,pre_concentration_eligible,229277.1443,229277.144326296,PASS
+AR eligibility,M120,concentration_excess,0.0,0,PASS
+AR eligibility,N120,eligible_ar,229277.1443,229277.144326296,PASS
+AR eligibility,J121,gross_ar,420703.8497,420703.849737578,PASS
+AR eligibility,K121,cross_aged,False,False,PASS
+AR eligibility,L121,pre_concentration_eligible,399668.6573,399668.657250699,PASS
+AR eligibility,M121,concentration_excess,57089.99852,57089.9985176774,PASS
+AR eligibility,N121,eligible_ar,342578.6587,342578.658733022,PASS
+AR eligibility,J122,gross_ar,452049.8829,452049.88293367,PASS
+AR eligibility,K122,cross_aged,False,False,PASS
+AR eligibility,L122,pre_concentration_eligible,429447.3888,429447.388786986,PASS
+AR eligibility,M122,concentration_excess,86868.73005,86868.7300539647,PASS
+AR eligibility,N122,eligible_ar,342578.6587,342578.658733022,PASS
+AR eligibility,J123,gross_ar,219283.5261,219283.526056965,PASS
+AR eligibility,K123,cross_aged,False,False,PASS
+AR eligibility,L123,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M123,concentration_excess,0.0,0,PASS
+AR eligibility,N123,eligible_ar,0.0,0,PASS
+AR eligibility,J124,gross_ar,382439.1621,382439.162052223,PASS
+AR eligibility,K124,cross_aged,False,False,PASS
+AR eligibility,L124,pre_concentration_eligible,0.0,0,PASS
+AR eligibility,M124,concentration_excess,0.0,0,PASS
+AR eligibility,N124,eligible_ar,0.0,0,PASS
+Borrowing base,C5,eligible_ar,1953901.685,1953901.68540161,PASS
+Borrowing base,G5,ar_advance,1660816.433,1660816.43259137,PASS
+Borrowing base,H5,inventory_advance,675000,675000,PASS
+Borrowing base,I5,borrowing_base,2335816.433,2335816.43259137,PASS
+Borrowing base,N5,outstanding,890000,890000,PASS
+Borrowing base,P5,excess_availability,1035000,1035000,PASS
+Borrowing base,R5,springing_fccr_test,False,False,PASS
+Borrowing base,T5,fccr_breach,False,False,PASS
+Borrowing base,C6,eligible_ar,1873432.765,1873432.76519897,PASS
+Borrowing base,G6,ar_advance,1592417.85,1592417.85041913,PASS
+Borrowing base,H6,inventory_advance,675000,675000,PASS
+Borrowing base,I6,borrowing_base,2267417.85,2267417.85041913,PASS
+Borrowing base,N6,outstanding,930000,930000,PASS
+Borrowing base,P6,excess_availability,995000,995000,PASS
+Borrowing base,R6,springing_fccr_test,False,False,PASS
+Borrowing base,T6,fccr_breach,False,False,PASS
+Borrowing base,C7,eligible_ar,1837521.212,1837521.21223751,PASS
+Borrowing base,G7,ar_advance,1561893.03,1561893.03040188,PASS
+Borrowing base,H7,inventory_advance,675000,675000,PASS
+Borrowing base,I7,borrowing_base,2236893.03,2236893.03040188,PASS
+Borrowing base,N7,outstanding,970000,970000,PASS
+Borrowing base,P7,excess_availability,955000,955000,PASS
+Borrowing base,R7,springing_fccr_test,False,False,PASS
+Borrowing base,T7,fccr_breach,False,False,PASS
+Borrowing base,C8,eligible_ar,1789049.617,1789049.61668758,PASS
+Borrowing base,G8,ar_advance,1520692.174,1520692.17418444,PASS
+Borrowing base,H8,inventory_advance,675000,675000,PASS
+Borrowing base,I8,borrowing_base,2195692.174,2195692.17418444,PASS
+Borrowing base,N8,outstanding,1010000,1010000,PASS
+Borrowing base,P8,excess_availability,915000,915000,PASS
+Borrowing base,R8,springing_fccr_test,False,False,PASS
+Borrowing base,T8,fccr_breach,False,False,PASS
+Borrowing base,C9,eligible_ar,1761580.941,1761580.94080107,PASS
+Borrowing base,G9,ar_advance,1497343.8,1497343.79968091,PASS
+Borrowing base,H9,inventory_advance,675000,675000,PASS
+Borrowing base,I9,borrowing_base,2172343.8,2172343.79968091,PASS
+Borrowing base,N9,outstanding,1050000,1050000,PASS
+Borrowing base,P9,excess_availability,875000,875000,PASS
+Borrowing base,R9,springing_fccr_test,False,False,PASS
+Borrowing base,T9,fccr_breach,False,False,PASS
+Borrowing base,C10,eligible_ar,1740273.281,1740273.28149501,PASS
+Borrowing base,G10,ar_advance,1479232.289,1479232.28927076,PASS
+Borrowing base,H10,inventory_advance,675000,675000,PASS
+Borrowing base,I10,borrowing_base,2154232.289,2154232.28927076,PASS
+Borrowing base,N10,outstanding,1090000,1090000,PASS
+Borrowing base,P10,excess_availability,835000,835000,PASS
+Borrowing base,R10,springing_fccr_test,False,False,PASS
+Borrowing base,T10,fccr_breach,False,False,PASS
+Borrowing base,C11,eligible_ar,1694746.056,1694746.05623506,PASS
+Borrowing base,G11,ar_advance,1440534.148,1440534.1477998,PASS
+Borrowing base,H11,inventory_advance,675000,675000,PASS
+Borrowing base,I11,borrowing_base,2115534.148,2115534.1477998,PASS
+Borrowing base,N11,outstanding,1130000,1130000,PASS
+Borrowing base,P11,excess_availability,795000,795000,PASS
+Borrowing base,R11,springing_fccr_test,False,False,PASS
+Borrowing base,T11,fccr_breach,False,False,PASS
+Borrowing base,C12,eligible_ar,1649894.638,1649894.63797565,PASS
+Borrowing base,G12,ar_advance,1402410.442,1402410.4422793,PASS
+Borrowing base,H12,inventory_advance,675000,675000,PASS
+Borrowing base,I12,borrowing_base,2077410.442,2077410.4422793,PASS
+Borrowing base,N12,outstanding,1170000,1170000,PASS
+Borrowing base,P12,excess_availability,755000,755000,PASS
+Borrowing base,R12,springing_fccr_test,False,False,PASS
+Borrowing base,T12,fccr_breach,False,False,PASS
+Borrowing base,C13,eligible_ar,1617859.465,1617859.46493636,PASS
+Borrowing base,G13,ar_advance,1375180.545,1375180.5451959,PASS
+Borrowing base,H13,inventory_advance,675000,675000,PASS
+Borrowing base,I13,borrowing_base,2050180.545,2050180.5451959,PASS
+Borrowing base,N13,outstanding,1210000,1210000,PASS
+Borrowing base,P13,excess_availability,715000,715000,PASS
+Borrowing base,R13,springing_fccr_test,False,False,PASS
+Borrowing base,T13,fccr_breach,False,False,PASS
+Borrowing base,C14,eligible_ar,1573659.055,1573659.05455076,PASS
+Borrowing base,G14,ar_advance,1337610.196,1337610.19636815,PASS
+Borrowing base,H14,inventory_advance,675000,675000,PASS
+Borrowing base,I14,borrowing_base,2012610.196,2012610.19636815,PASS
+Borrowing base,N14,outstanding,1250000,1250000,PASS
+Borrowing base,P14,excess_availability,675000,675000,PASS
+Borrowing base,R14,springing_fccr_test,False,False,PASS
+Borrowing base,T14,fccr_breach,False,False,PASS
+Borrowing base,C15,eligible_ar,1581382.897,1581382.89688321,PASS
+Borrowing base,G15,ar_advance,1344175.462,1344175.46235073,PASS
+Borrowing base,H15,inventory_advance,675000,675000,PASS
+Borrowing base,I15,borrowing_base,2019175.462,2019175.46235073,PASS
+Borrowing base,N15,outstanding,1290000,1290000,PASS
+Borrowing base,P15,excess_availability,635000,635000,PASS
+Borrowing base,R15,springing_fccr_test,False,False,PASS
+Borrowing base,T15,fccr_breach,False,False,PASS
+Borrowing base,C16,eligible_ar,1568934.565,1568934.56509347,PASS
+Borrowing base,G16,ar_advance,1333594.38,1333594.38032945,PASS
+Borrowing base,H16,inventory_advance,675000,675000,PASS
+Borrowing base,I16,borrowing_base,2008594.38,2008594.38032945,PASS
+Borrowing base,N16,outstanding,1330000,1330000,PASS
+Borrowing base,P16,excess_availability,595000,595000,PASS
+Borrowing base,R16,springing_fccr_test,False,False,PASS
+Borrowing base,T16,fccr_breach,False,False,PASS

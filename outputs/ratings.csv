@@ -1,0 +1,4 @@
+ticker,grade,weighted_score,pd,classification
+HAS,4,3.675,0.0025,Pass
+WHR,5,4.69,0.005,Pass
+KSS,7,6.21,0.025,Special Mention

@@ -1,0 +1,11 @@
+grade,pd,classification
+1,0.0002,Pass
+2,0.0005,Pass
+3,0.001,Pass
+4,0.0025,Pass
+5,0.005,Pass
+6,0.01,Pass
+7,0.025,Special Mention
+8,0.08,Substandard
+9,0.25,Doubtful
+10,1,Loss
