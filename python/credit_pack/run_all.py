@@ -113,6 +113,9 @@ def write_readme(mode: str, provenance: list[dict]) -> None:
                  if mode == cfg.MODE_DEMO else
                  "Corporate financials use hash-verified SEC snapshots. All proposed terms, qualitative judgments, "
                  "CRE, ABL, construction, and portfolio data remain illustrative.")
+    build_note = ("Build environment: shell network connection to data.sec.gov failed. The web tool read the SEC ticker directory and API documentation but could not retrieve companyfacts for any requested borrower. The eCFR regulatory text worked. Consequently this demo has no SEC snapshot dates or hashes. The hashes below identify generated synthetic fixtures only; their manifest has null URL and retrieval time."
+                  if mode == cfg.MODE_DEMO else
+                  "Snapshots are real SEC companyfacts retrieved with the explicit fetcher; hashes and retrieval times come from the manifest. Operating income is not adjusted for non-cash impairments, so a goodwill charge lowers EBITDA and raises leverage. Tags absent from a filer's companyfacts are flagged in `data/processed/spread.csv` and `fact_lineage.csv`, and ratios that need them show unavailable.")
     text = f"""# Credit underwriting monitoring pack
 
 Standalone corporate cash-flow, commercial real estate, construction, and asset-based lending model, with quarterly portfolio monitoring.
@@ -199,7 +202,7 @@ The tables below are generated from the current CSV outputs, in USD and decimal 
 
 SEC endpoint design: ticker directory resolves zero-padded CIKs and companyfacts supplies entity-wide USD XBRL facts. The explicit fetcher waits {cfg.REQUEST_INTERVAL:g} seconds between requests, below the SEC maximum, and writes immutable raw files with URL, retrieval timestamp, and SHA-256 in `data/raw/edgar/manifest.json`. [SEC fair access guidance]({cfg.SEC_ACCESS_URL}), Fair access section. A real contact email is required. Fetching is never part of tests or the demo.
 
-Build environment: shell network connection to data.sec.gov failed. The web tool read the SEC ticker directory and API documentation but could not retrieve companyfacts for any requested borrower. The eCFR regulatory text worked. Consequently this demo has no SEC snapshot dates or hashes. The hashes below identify generated synthetic fixtures only; their manifest has null URL and retrieval time.
+{build_note}
 
 {markdown_table(source_rows)}
 

@@ -234,9 +234,9 @@ TAGS = {
     C.INVENTORY: ("InventoryNet",), C.AP: ("AccountsPayableCurrent",),
     C.DEBT_LONG: ("LongTermDebtNoncurrent",),
     C.DEBT_CURRENT: ("LongTermDebtCurrent",),
-    C.DEBT_SHORT: ("ShortTermBorrowings",), C.EQUITY: ("StockholdersEquity",),
+    C.DEBT_SHORT: ("ShortTermBorrowings",), C.EQUITY: ("StockholdersEquity", "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest"),
     C.CFO: ("NetCashProvidedByUsedInOperatingActivities",),
-    C.CAPEX: ("PaymentsToAcquirePropertyPlantAndEquipment",),
+    C.CAPEX: ("PaymentsToAcquirePropertyPlantAndEquipment", "PaymentsToAcquireProductiveAssets"),
     C.CURRENT_ASSETS: ("AssetsCurrent",), C.CURRENT_LIABILITIES: ("LiabilitiesCurrent",),
 }
 INSTANT_METRICS = frozenset((C.CASH, C.AR, C.INVENTORY, C.AP, C.DEBT_LONG,

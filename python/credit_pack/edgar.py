@@ -2,6 +2,7 @@
 
 import hashlib
 import json
+import os
 import time
 from datetime import datetime, timezone
 from pathlib import Path
@@ -78,4 +79,5 @@ def load_snapshot(ticker: str) -> tuple[dict, dict]:
 
 
 if __name__ == "__main__":
-    fetch_all()
+    # Env override keeps a real contact email out of the public repo.
+    fetch_all(os.environ.get("SEC_USER_AGENT", cfg.SEC_USER_AGENT))

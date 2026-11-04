@@ -1,0 +1,30 @@
+[
+  {
+    "name": "company_tickers",
+    "url": "https://www.sec.gov/files/company_tickers.json",
+    "retrieved_at": "2026-11-04T01:27:37.292975+00:00",
+    "sha256": "de59c00edabfb8b540c61ea4805446763bc9ba6aa8b42fa2955f5439556558d2",
+    "path": "company_tickers_20261104T012737292975Z_de59c00edabf.json"
+  },
+  {
+    "name": "HAS",
+    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000046080.json",
+    "retrieved_at": "2026-11-04T01:27:37.946704+00:00",
+    "sha256": "30d3e0f50432c374da4aa0c841c67dd8689f4eb9c8d9d165fc618b36cc1ceeb0",
+    "path": "HAS_20261104T012737946704Z_30d3e0f50432.json"
+  },
+  {
+    "name": "WHR",
+    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000106640.json",
+    "retrieved_at": "2026-11-04T01:27:38.934827+00:00",
+    "sha256": "769c2ff1cc3e244253386fff21bb762714d62199bf733e775037531990c4431e",
+    "path": "WHR_20261104T012738934827Z_769c2ff1cc3e.json"
+  },
+  {
+    "name": "KSS",
+    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000885639.json",
+    "retrieved_at": "2026-11-04T01:27:39.507473+00:00",
+    "sha256": "e9ecbf0133f7538197f4563ec5f3c16a4e927aa5dee05ae41ee2d42cfbacc762",
+    "path": "KSS_20261104T012739507473Z_e9ecbf0133f7.json"
+  }
+]

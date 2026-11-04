@@ -2,7 +2,7 @@
 
 Standalone corporate cash-flow, commercial real estate, construction, and asset-based lending model, with quarterly portfolio monitoring.
 
-This run uses seeded synthetic companyfacts for labels HAS, WHR, and KSS. These are scenario identifiers, not issuer financial statements or actual bank figures. No SEC snapshot was retrieved.
+Corporate financials use hash-verified SEC snapshots. All proposed terms, qualitative judgments, CRE, ABL, construction, and portfolio data remain illustrative.
 
 ## Run
 
@@ -79,15 +79,15 @@ The synthetic portfolio has 40 loans across corporate, CRE (including constructi
 
 ## Generated results
 
-The tables below are generated from the current CSV outputs, in USD and decimal fractions unless stated. Data mode: `demo`. Synthetic results are not bank figures.
+The tables below are generated from the current CSV outputs, in USD and decimal fractions unless stated. Data mode: `snapshots`. Synthetic results are not bank figures.
 
 ### Borrower ratios and grades
 
 | ticker | fiscal_year | revenue | ebitda | total_leverage | fccr | grade | pd | recommendation |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| HAS | 2025 | 4,967,158,008.0000 | 902,159,706.8000 | 2.1600 | 5.1071 | 4 | 0.0025 | approve with conditions |
-| WHR | 2025 | 15,680,258,720.0000 | 1,624,876,017.0000 | 3.5640 | 2.7607 | 5 | 0.0050 | approve with conditions |
-| KSS | 2025 | 12,740,198,400.0000 | 890,500,681.1000 | 5.4000 | 1.5740 | 7 | 0.0250 | approve with conditions |
+| HAS | 2025 | 4,701,300,000.0000 | 146,600,000.0000 | 22.2708 | -0.6946 | 7 | 0.0250 | decline |
+| WHR | 2025 | 15,524,000,000.0000 | 1,176,000,000.0000 | 5.5442 | 1.9091 | 7 | 0.0250 | approve with conditions |
+| KSS | 2025 | 15,527,000,000.0000 | 1,324,000,000.0000 | 1.0846 | unavailable | 6 | 0.0100 | decline |
 
 ### CRE sizing
 
@@ -139,13 +139,13 @@ The tables below are generated from the current CSV outputs, in USD and decimal 
 
 SEC endpoint design: ticker directory resolves zero-padded CIKs and companyfacts supplies entity-wide USD XBRL facts. The explicit fetcher waits 0.2 seconds between requests, below the SEC maximum, and writes immutable raw files with URL, retrieval timestamp, and SHA-256 in `data/raw/edgar/manifest.json`. [SEC fair access guidance](https://www.sec.gov/search-filings/edgar-search-assistance/accessing-edgar-data), Fair access section. A real contact email is required. Fetching is never part of tests or the demo.
 
-Build environment: shell network connection to data.sec.gov failed. The web tool read the SEC ticker directory and API documentation but could not retrieve companyfacts for any requested borrower. The eCFR regulatory text worked. Consequently this demo has no SEC snapshot dates or hashes. The hashes below identify generated synthetic fixtures only; their manifest has null URL and retrieval time.
+Snapshots are real SEC companyfacts retrieved with the explicit fetcher; hashes and retrieval times come from the manifest. Operating income is not adjusted for non-cash impairments, so a goodwill charge lowers EBITDA and raises leverage. Tags absent from a filer's companyfacts are flagged in `data/processed/spread.csv` and `fact_lineage.csv`, and ratios that need them show unavailable.
 
 | name | snapshot_date | sha256 |
 | :-- | :-- | :-- |
-| HAS | none (synthetic) | 60458f3117697e6f4eb8c6ba95656d04c70cf209e36de9cd61cddfedc39bee22 |
-| WHR | none (synthetic) | 1ea83638ec6ff91ae70674efccaad8d7dc4d9fa21c9bee9c8e47053394879258 |
-| KSS | none (synthetic) | 31f9635c433bf7596fbe9ea2c64a6da07ab7505154c507015f32c50dd54603cc |
+| HAS | 2026-11-04T01:27:37.946704+00:00 | 30d3e0f50432c374da4aa0c841c67dd8689f4eb9c8d9d165fc618b36cc1ceeb0 |
+| WHR | 2026-11-04T01:27:38.934827+00:00 | 769c2ff1cc3e244253386fff21bb762714d62199bf733e775037531990c4431e |
+| KSS | 2026-11-04T01:27:39.507473+00:00 | e9ecbf0133f7538197f4563ec5f3c16a4e927aa5dee05ae41ee2d42cfbacc762 |
 
 `data/processed/` stores spreads, value lineage, and rating factor detail. `outputs/` stores all calculated CSVs, two PNG charts, Markdown and DOCX credit memos, a quarterly report, workbook reconciliation, and the run summary. `excel/credit_pack.xlsx` contains formula schedules for CRE, covenants, draws, construction balance, customer eligibility, inventory, and borrowing bases. The workbook is rebuilt from source on each run. Recalculation tests use a disposable copy and inspect formula errors and Python agreement.
 

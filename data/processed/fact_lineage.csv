@@ -1,271 +1,271 @@
 ticker,fiscal_year,period_end,metric,value,tag,start,filed,accession,source
-HAS,2021,2021-12-31,revenue,4500000000,Revenues,2021-01-01,2022-02-20,SYNTHETIC-HAS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2021,2021-12-31,cogs,2925000000,CostOfRevenue,2021-01-01,2022-02-20,SYNTHETIC-HAS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2021,2021-12-31,operating_income,590710115.1,OperatingIncomeLoss,2021-01-01,2022-02-20,SYNTHETIC-HAS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2021,2021-12-31,depreciation_amortization,157500000,DepreciationDepletionAndAmortization,2021-01-01,2022-02-20,SYNTHETIC-HAS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2021,2021-12-31,interest_expense,97267314.96,InterestExpense,2021-01-01,2022-02-20,SYNTHETIC-HAS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2021,2021-12-31,cash_taxes,106327820.7,IncomeTaxesPaidNet,2021-01-01,2022-02-20,SYNTHETIC-HAS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2021,2021-12-31,cash,315000000,CashAndCashEquivalentsAtCarryingValue,,2022-02-20,SYNTHETIC-HAS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2021,2021-12-31,accounts_receivable,450000000,AccountsReceivableNetCurrent,,2022-02-20,SYNTHETIC-HAS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2021,2021-12-31,inventory,720000000,InventoryNet,,2022-02-20,SYNTHETIC-HAS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2021,2021-12-31,accounts_payable,405000000,AccountsPayableCurrent,,2022-02-20,SYNTHETIC-HAS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2021,2021-12-31,long_term_debt,1346778207,LongTermDebtNoncurrent,,2022-02-20,SYNTHETIC-HAS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2021,2021-12-31,current_debt,149642023,LongTermDebtCurrent,,2022-02-20,SYNTHETIC-HAS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2021,2021-12-31,short_term_borrowings,0,MISSING,,,,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2021,2021-12-31,equity,1575000000,StockholdersEquity,,2022-02-20,SYNTHETIC-HAS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2021,2021-12-31,cash_from_operations,523747080.6,NetCashProvidedByUsedInOperatingActivities,2021-01-01,2022-02-20,SYNTHETIC-HAS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2021,2021-12-31,capex,112500000,PaymentsToAcquirePropertyPlantAndEquipment,2021-01-01,2022-02-20,SYNTHETIC-HAS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2021,2021-12-31,current_assets,1665000000,AssetsCurrent,,2022-02-20,SYNTHETIC-HAS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2021,2021-12-31,current_liabilities,990000000,LiabilitiesCurrent,,2022-02-20,SYNTHETIC-HAS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2022,2022-12-31,revenue,4612500000,Revenues,2022-01-01,2023-02-20,SYNTHETIC-HAS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2022,2022-12-31,cogs,2998125000,CostOfRevenue,2022-01-01,2023-02-20,SYNTHETIC-HAS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2022,2022-12-31,operating_income,659079849.9,OperatingIncomeLoss,2022-01-01,2023-02-20,SYNTHETIC-HAS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2022,2022-12-31,depreciation_amortization,161437500,DepreciationDepletionAndAmortization,2022-01-01,2023-02-20,SYNTHETIC-HAS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2022,2022-12-31,interest_expense,108800600.6,InterestExpense,2022-01-01,2023-02-20,SYNTHETIC-HAS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2022,2022-12-31,cash_taxes,118634373,IncomeTaxesPaidNet,2022-01-01,2023-02-20,SYNTHETIC-HAS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2022,2022-12-31,cash,322875000,CashAndCashEquivalentsAtCarryingValue,,2023-02-20,SYNTHETIC-HAS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2022,2022-12-31,accounts_receivable,461250000,AccountsReceivableNetCurrent,,2023-02-20,SYNTHETIC-HAS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2022,2022-12-31,inventory,738000000,InventoryNet,,2023-02-20,SYNTHETIC-HAS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2022,2022-12-31,accounts_payable,415125000,AccountsPayableCurrent,,2023-02-20,SYNTHETIC-HAS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2022,2022-12-31,long_term_debt,1506469854,LongTermDebtNoncurrent,,2023-02-20,SYNTHETIC-HAS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2022,2022-12-31,current_debt,167385539.4,LongTermDebtCurrent,,2023-02-20,SYNTHETIC-HAS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2022,2022-12-31,short_term_borrowings,0,MISSING,,,,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2022,2022-12-31,equity,1614375000,StockholdersEquity,,2023-02-20,SYNTHETIC-HAS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2022,2022-12-31,cash_from_operations,574362144.9,NetCashProvidedByUsedInOperatingActivities,2022-01-01,2023-02-20,SYNTHETIC-HAS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2022,2022-12-31,capex,115312500,PaymentsToAcquirePropertyPlantAndEquipment,2022-01-01,2023-02-20,SYNTHETIC-HAS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2022,2022-12-31,current_assets,1706625000,AssetsCurrent,,2023-02-20,SYNTHETIC-HAS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2022,2022-12-31,current_liabilities,1014750000,LiabilitiesCurrent,,2023-02-20,SYNTHETIC-HAS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2023,2023-12-31,revenue,4727812500,Revenues,2023-01-01,2024-02-20,SYNTHETIC-HAS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2023,2023-12-31,cogs,3073078125,CostOfRevenue,2023-01-01,2024-02-20,SYNTHETIC-HAS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2023,2023-12-31,operating_income,657592744.2,OperatingIncomeLoss,2023-01-01,2024-02-20,SYNTHETIC-HAS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2023,2023-12-31,depreciation_amortization,165473437.5,DepreciationDepletionAndAmortization,2023-01-01,2024-02-20,SYNTHETIC-HAS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2023,2023-12-31,interest_expense,111278547.8,InterestExpense,2023-01-01,2024-02-20,SYNTHETIC-HAS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2023,2023-12-31,cash_taxes,118366694,IncomeTaxesPaidNet,2023-01-01,2024-02-20,SYNTHETIC-HAS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2023,2023-12-31,cash,330946875,CashAndCashEquivalentsAtCarryingValue,,2024-02-20,SYNTHETIC-HAS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2023,2023-12-31,accounts_receivable,472781250,AccountsReceivableNetCurrent,,2024-02-20,SYNTHETIC-HAS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2023,2023-12-31,inventory,756450000,InventoryNet,,2024-02-20,SYNTHETIC-HAS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2023,2023-12-31,accounts_payable,425503125,AccountsPayableCurrent,,2024-02-20,SYNTHETIC-HAS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2023,2023-12-31,long_term_debt,1540779892,LongTermDebtNoncurrent,,2024-02-20,SYNTHETIC-HAS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2023,2023-12-31,current_debt,171197765.8,LongTermDebtCurrent,,2024-02-20,SYNTHETIC-HAS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2023,2023-12-31,short_term_borrowings,0,MISSING,,,,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2023,2023-12-31,equity,1654734375,StockholdersEquity,,2024-02-20,SYNTHETIC-HAS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2023,2023-12-31,cash_from_operations,576146327.2,NetCashProvidedByUsedInOperatingActivities,2023-01-01,2024-02-20,SYNTHETIC-HAS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2023,2023-12-31,capex,118195312.5,PaymentsToAcquirePropertyPlantAndEquipment,2023-01-01,2024-02-20,SYNTHETIC-HAS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2023,2023-12-31,current_assets,1749290625,AssetsCurrent,,2024-02-20,SYNTHETIC-HAS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2023,2023-12-31,current_liabilities,1040118750,LiabilitiesCurrent,,2024-02-20,SYNTHETIC-HAS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2024,2024-12-31,revenue,4846007812,Revenues,2024-01-01,2025-02-20,SYNTHETIC-HAS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2024,2024-12-31,cogs,3149905078,CostOfRevenue,2024-01-01,2025-02-20,SYNTHETIC-HAS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2024,2024-12-31,operating_income,702217163.9,OperatingIncomeLoss,2024-01-01,2025-02-20,SYNTHETIC-HAS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2024,2024-12-31,depreciation_amortization,169610273.4,DepreciationDepletionAndAmortization,2024-01-01,2025-02-20,SYNTHETIC-HAS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2024,2024-12-31,interest_expense,120137820.9,InterestExpense,2024-01-01,2025-02-20,SYNTHETIC-HAS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2024,2024-12-31,cash_taxes,126399089.5,IncomeTaxesPaidNet,2024-01-01,2025-02-20,SYNTHETIC-HAS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2024,2024-12-31,cash,339220546.9,CashAndCashEquivalentsAtCarryingValue,,2025-02-20,SYNTHETIC-HAS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2024,2024-12-31,accounts_receivable,484600781.2,AccountsReceivableNetCurrent,,2025-02-20,SYNTHETIC-HAS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2024,2024-12-31,inventory,775361250,InventoryNet,,2025-02-20,SYNTHETIC-HAS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2024,2024-12-31,accounts_payable,436140703.1,AccountsPayableCurrent,,2025-02-20,SYNTHETIC-HAS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2024,2024-12-31,long_term_debt,1663446750,LongTermDebtNoncurrent,,2025-02-20,SYNTHETIC-HAS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2024,2024-12-31,current_debt,184827416.7,LongTermDebtCurrent,,2025-02-20,SYNTHETIC-HAS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2024,2024-12-31,short_term_borrowings,0,MISSING,,,,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2024,2024-12-31,equity,1696102734,StockholdersEquity,,2025-02-20,SYNTHETIC-HAS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2024,2024-12-31,cash_from_operations,610279206.1,NetCashProvidedByUsedInOperatingActivities,2024-01-01,2025-02-20,SYNTHETIC-HAS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2024,2024-12-31,capex,121150195.3,PaymentsToAcquirePropertyPlantAndEquipment,2024-01-01,2025-02-20,SYNTHETIC-HAS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2024,2024-12-31,current_assets,1793022891,AssetsCurrent,,2025-02-20,SYNTHETIC-HAS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2024,2024-12-31,current_liabilities,1066121719,LiabilitiesCurrent,,2025-02-20,SYNTHETIC-HAS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2025,2025-12-31,revenue,4967158008,Revenues,2025-01-01,2026-02-20,SYNTHETIC-HAS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2025,2025-12-31,cogs,3228652705,CostOfRevenue,2025-01-01,2026-02-20,SYNTHETIC-HAS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2025,2025-12-31,operating_income,728309176.6,OperatingIncomeLoss,2025-01-01,2026-02-20,SYNTHETIC-HAS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2025,2025-12-31,depreciation_amortization,173850530.3,DepreciationDepletionAndAmortization,2025-01-01,2026-02-20,SYNTHETIC-HAS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2025,2025-12-31,interest_expense,126663222.8,InterestExpense,2025-01-01,2026-02-20,SYNTHETIC-HAS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2025,2025-12-31,cash_taxes,131095651.8,IncomeTaxesPaidNet,2025-01-01,2026-02-20,SYNTHETIC-HAS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2025,2025-12-31,cash,347701060.5,CashAndCashEquivalentsAtCarryingValue,,2026-02-20,SYNTHETIC-HAS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2025,2025-12-31,accounts_receivable,496715800.8,AccountsReceivableNetCurrent,,2026-02-20,SYNTHETIC-HAS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2025,2025-12-31,inventory,794745281.2,InventoryNet,,2026-02-20,SYNTHETIC-HAS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2025,2025-12-31,accounts_payable,447044220.7,AccountsPayableCurrent,,2026-02-20,SYNTHETIC-HAS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2025,2025-12-31,long_term_debt,1753798470,LongTermDebtNoncurrent,,2026-02-20,SYNTHETIC-HAS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2025,2025-12-31,current_debt,194866496.7,LongTermDebtCurrent,,2026-02-20,SYNTHETIC-HAS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2025,2025-12-31,short_term_borrowings,0,MISSING,,,,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2025,2025-12-31,equity,1738505303,StockholdersEquity,,2026-02-20,SYNTHETIC-HAS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2025,2025-12-31,cash_from_operations,631511794.8,NetCashProvidedByUsedInOperatingActivities,2025-01-01,2026-02-20,SYNTHETIC-HAS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2025,2025-12-31,capex,124178950.2,PaymentsToAcquirePropertyPlantAndEquipment,2025-01-01,2026-02-20,SYNTHETIC-HAS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2025,2025-12-31,current_assets,1837848463,AssetsCurrent,,2026-02-20,SYNTHETIC-HAS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-HAS,2025,2025-12-31,current_liabilities,1092774762,LiabilitiesCurrent,,2026-02-20,SYNTHETIC-HAS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2021,2021-12-31,revenue,1.7e+10,Revenues,2021-01-01,2022-02-20,SYNTHETIC-WHR-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2021,2021-12-31,cogs,1.105e+10,CostOfRevenue,2021-01-01,2022-02-20,SYNTHETIC-WHR-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2021,2021-12-31,operating_income,1059450873,OperatingIncomeLoss,2021-01-01,2022-02-20,SYNTHETIC-WHR-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2021,2021-12-31,depreciation_amortization,595000000,DepreciationDepletionAndAmortization,2021-01-01,2022-02-20,SYNTHETIC-WHR-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2021,2021-12-31,interest_expense,354879712.3,InterestExpense,2021-01-01,2022-02-20,SYNTHETIC-WHR-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2021,2021-12-31,cash_taxes,190701157.2,IncomeTaxesPaidNet,2021-01-01,2022-02-20,SYNTHETIC-WHR-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2021,2021-12-31,cash,1190000000,CashAndCashEquivalentsAtCarryingValue,,2022-02-20,SYNTHETIC-WHR-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2021,2021-12-31,accounts_receivable,1700000000,AccountsReceivableNetCurrent,,2022-02-20,SYNTHETIC-WHR-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2021,2021-12-31,inventory,2720000000,InventoryNet,,2022-02-20,SYNTHETIC-WHR-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2021,2021-12-31,accounts_payable,1530000000,AccountsPayableCurrent,,2022-02-20,SYNTHETIC-WHR-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2021,2021-12-31,long_term_debt,4913719094,LongTermDebtNoncurrent,,2022-02-20,SYNTHETIC-WHR-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2021,2021-12-31,current_debt,545968788.2,LongTermDebtCurrent,,2022-02-20,SYNTHETIC-WHR-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2021,2021-12-31,short_term_borrowings,0,MISSING,,,,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2021,2021-12-31,equity,5950000000,StockholdersEquity,,2022-02-20,SYNTHETIC-WHR-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2021,2021-12-31,cash_from_operations,1158115611,NetCashProvidedByUsedInOperatingActivities,2021-01-01,2022-02-20,SYNTHETIC-WHR-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2021,2021-12-31,capex,425000000,PaymentsToAcquirePropertyPlantAndEquipment,2021-01-01,2022-02-20,SYNTHETIC-WHR-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2021,2021-12-31,current_assets,6290000000,AssetsCurrent,,2022-02-20,SYNTHETIC-WHR-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2021,2021-12-31,current_liabilities,3740000000,LiabilitiesCurrent,,2022-02-20,SYNTHETIC-WHR-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2022,2022-12-31,revenue,1.666e+10,Revenues,2022-01-01,2023-02-20,SYNTHETIC-WHR-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2022,2022-12-31,cogs,1.0829e+10,CostOfRevenue,2022-01-01,2023-02-20,SYNTHETIC-WHR-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2022,2022-12-31,operating_income,1076480817,OperatingIncomeLoss,2022-01-01,2023-02-20,SYNTHETIC-WHR-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2022,2022-12-31,depreciation_amortization,583100000,DepreciationDepletionAndAmortization,2022-01-01,2023-02-20,SYNTHETIC-WHR-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2022,2022-12-31,interest_expense,363099687,InterestExpense,2022-01-01,2023-02-20,SYNTHETIC-WHR-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2022,2022-12-31,cash_taxes,193766547.1,IncomeTaxesPaidNet,2022-01-01,2023-02-20,SYNTHETIC-WHR-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2022,2022-12-31,cash,1166200000,CashAndCashEquivalentsAtCarryingValue,,2023-02-20,SYNTHETIC-WHR-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2022,2022-12-31,accounts_receivable,1666000000,AccountsReceivableNetCurrent,,2023-02-20,SYNTHETIC-WHR-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2022,2022-12-31,inventory,2665600000,InventoryNet,,2023-02-20,SYNTHETIC-WHR-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2022,2022-12-31,accounts_payable,1499400000,AccountsPayableCurrent,,2023-02-20,SYNTHETIC-WHR-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2022,2022-12-31,long_term_debt,5027534128,LongTermDebtNoncurrent,,2023-02-20,SYNTHETIC-WHR-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2022,2022-12-31,current_debt,558614903.1,LongTermDebtCurrent,,2023-02-20,SYNTHETIC-WHR-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2022,2022-12-31,short_term_borrowings,0,MISSING,,,,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2022,2022-12-31,equity,5831000000,StockholdersEquity,,2023-02-20,SYNTHETIC-WHR-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2022,2022-12-31,cash_from_operations,1161706572,NetCashProvidedByUsedInOperatingActivities,2022-01-01,2023-02-20,SYNTHETIC-WHR-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2022,2022-12-31,capex,416500000,PaymentsToAcquirePropertyPlantAndEquipment,2022-01-01,2023-02-20,SYNTHETIC-WHR-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2022,2022-12-31,current_assets,6164200000,AssetsCurrent,,2023-02-20,SYNTHETIC-WHR-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2022,2022-12-31,current_liabilities,3665200000,LiabilitiesCurrent,,2023-02-20,SYNTHETIC-WHR-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2023,2023-12-31,revenue,1.63268e+10,Revenues,2023-01-01,2024-02-20,SYNTHETIC-WHR-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2023,2023-12-31,cogs,1.061242e+10,CostOfRevenue,2023-01-01,2024-02-20,SYNTHETIC-WHR-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2023,2023-12-31,operating_income,954122570.6,OperatingIncomeLoss,2023-01-01,2024-02-20,SYNTHETIC-WHR-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2023,2023-12-31,depreciation_amortization,571438000,DepreciationDepletionAndAmortization,2023-01-01,2024-02-20,SYNTHETIC-WHR-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2023,2023-12-31,interest_expense,340322052.1,InterestExpense,2023-01-01,2024-02-20,SYNTHETIC-WHR-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2023,2023-12-31,cash_taxes,171742062.7,IncomeTaxesPaidNet,2023-01-01,2024-02-20,SYNTHETIC-WHR-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2023,2023-12-31,cash,1142876000,CashAndCashEquivalentsAtCarryingValue,,2024-02-20,SYNTHETIC-WHR-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2023,2023-12-31,accounts_receivable,1632680000,AccountsReceivableNetCurrent,,2024-02-20,SYNTHETIC-WHR-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2023,2023-12-31,inventory,2612288000,InventoryNet,,2024-02-20,SYNTHETIC-WHR-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2023,2023-12-31,accounts_payable,1469412000,AccountsPayableCurrent,,2024-02-20,SYNTHETIC-WHR-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2023,2023-12-31,long_term_debt,4712151490,LongTermDebtNoncurrent,,2024-02-20,SYNTHETIC-WHR-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2023,2023-12-31,current_debt,523572387.8,LongTermDebtCurrent,,2024-02-20,SYNTHETIC-WHR-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2023,2023-12-31,short_term_borrowings,0,MISSING,,,,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2023,2023-12-31,equity,5714380000,StockholdersEquity,,2024-02-20,SYNTHETIC-WHR-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2023,2023-12-31,cash_from_operations,1067892399,NetCashProvidedByUsedInOperatingActivities,2023-01-01,2024-02-20,SYNTHETIC-WHR-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2023,2023-12-31,capex,408170000,PaymentsToAcquirePropertyPlantAndEquipment,2023-01-01,2024-02-20,SYNTHETIC-WHR-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2023,2023-12-31,current_assets,6040916000,AssetsCurrent,,2024-02-20,SYNTHETIC-WHR-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2023,2023-12-31,current_liabilities,3591896000,LiabilitiesCurrent,,2024-02-20,SYNTHETIC-WHR-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2024,2024-12-31,revenue,1.6000264e+10,Revenues,2024-01-01,2025-02-20,SYNTHETIC-WHR-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2024,2024-12-31,cogs,1.04001716e+10,CostOfRevenue,2024-01-01,2025-02-20,SYNTHETIC-WHR-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2024,2024-12-31,operating_income,1003163822,OperatingIncomeLoss,2024-01-01,2025-02-20,SYNTHETIC-WHR-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2024,2024-12-31,depreciation_amortization,560009240,DepreciationDepletionAndAmortization,2024-01-01,2025-02-20,SYNTHETIC-WHR-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2024,2024-12-31,interest_expense,355418659,InterestExpense,2024-01-01,2025-02-20,SYNTHETIC-WHR-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2024,2024-12-31,cash_taxes,180569487.9,IncomeTaxesPaidNet,2024-01-01,2025-02-20,SYNTHETIC-WHR-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2024,2024-12-31,cash,1120018480,CashAndCashEquivalentsAtCarryingValue,,2025-02-20,SYNTHETIC-WHR-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2024,2024-12-31,accounts_receivable,1600026400,AccountsReceivableNetCurrent,,2025-02-20,SYNTHETIC-WHR-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2024,2024-12-31,inventory,2560042240,InventoryNet,,2025-02-20,SYNTHETIC-WHR-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2024,2024-12-31,accounts_payable,1440023760,AccountsPayableCurrent,,2025-02-20,SYNTHETIC-WHR-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2024,2024-12-31,long_term_debt,4921181432,LongTermDebtNoncurrent,,2025-02-20,SYNTHETIC-WHR-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2024,2024-12-31,current_debt,546797936.9,LongTermDebtCurrent,,2025-02-20,SYNTHETIC-WHR-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2024,2024-12-31,short_term_borrowings,0,MISSING,,,,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2024,2024-12-31,equity,5600092400,StockholdersEquity,,2025-02-20,SYNTHETIC-WHR-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2024,2024-12-31,cash_from_operations,1094221143,NetCashProvidedByUsedInOperatingActivities,2024-01-01,2025-02-20,SYNTHETIC-WHR-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2024,2024-12-31,capex,400006600,PaymentsToAcquirePropertyPlantAndEquipment,2024-01-01,2025-02-20,SYNTHETIC-WHR-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2024,2024-12-31,current_assets,5920097680,AssetsCurrent,,2025-02-20,SYNTHETIC-WHR-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2024,2024-12-31,current_liabilities,3520058080,LiabilitiesCurrent,,2025-02-20,SYNTHETIC-WHR-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2025,2025-12-31,revenue,1.568025872e+10,Revenues,2025-01-01,2026-02-20,SYNTHETIC-WHR-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2025,2025-12-31,cogs,1.019216817e+10,CostOfRevenue,2025-01-01,2026-02-20,SYNTHETIC-WHR-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2025,2025-12-31,operating_income,1076066962,OperatingIncomeLoss,2025-01-01,2026-02-20,SYNTHETIC-WHR-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2025,2025-12-31,depreciation_amortization,548809055.2,DepreciationDepletionAndAmortization,2025-01-01,2026-02-20,SYNTHETIC-WHR-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2025,2025-12-31,interest_expense,376418778,InterestExpense,2025-01-01,2026-02-20,SYNTHETIC-WHR-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2025,2025-12-31,cash_taxes,193692053.1,IncomeTaxesPaidNet,2025-01-01,2026-02-20,SYNTHETIC-WHR-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2025,2025-12-31,cash,1097618110,CashAndCashEquivalentsAtCarryingValue,,2026-02-20,SYNTHETIC-WHR-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2025,2025-12-31,accounts_receivable,1568025872,AccountsReceivableNetCurrent,,2026-02-20,SYNTHETIC-WHR-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2025,2025-12-31,inventory,2508841395,InventoryNet,,2026-02-20,SYNTHETIC-WHR-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2025,2025-12-31,accounts_payable,1411223285,AccountsPayableCurrent,,2026-02-20,SYNTHETIC-WHR-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2025,2025-12-31,long_term_debt,5211952311,LongTermDebtNoncurrent,,2026-02-20,SYNTHETIC-WHR-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2025,2025-12-31,current_debt,579105812.4,LongTermDebtCurrent,,2026-02-20,SYNTHETIC-WHR-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2025,2025-12-31,short_term_borrowings,0,MISSING,,,,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2025,2025-12-31,equity,5488090552,StockholdersEquity,,2026-02-20,SYNTHETIC-WHR-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2025,2025-12-31,cash_from_operations,1137413212,NetCashProvidedByUsedInOperatingActivities,2025-01-01,2026-02-20,SYNTHETIC-WHR-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2025,2025-12-31,capex,392006468,PaymentsToAcquirePropertyPlantAndEquipment,2025-01-01,2026-02-20,SYNTHETIC-WHR-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2025,2025-12-31,current_assets,5801695726,AssetsCurrent,,2026-02-20,SYNTHETIC-WHR-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-WHR,2025,2025-12-31,current_liabilities,3449656918,LiabilitiesCurrent,,2026-02-20,SYNTHETIC-WHR-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2021,2021-12-31,revenue,1.5e+10,Revenues,2021-01-01,2022-02-20,SYNTHETIC-KSS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2021,2021-12-31,cogs,9750000000,CostOfRevenue,2021-01-01,2022-02-20,SYNTHETIC-KSS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2021,2021-12-31,operating_income,829582902.1,OperatingIncomeLoss,2021-01-01,2022-02-20,SYNTHETIC-KSS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2021,2021-12-31,depreciation_amortization,525000000,DepreciationDepletionAndAmortization,2021-01-01,2022-02-20,SYNTHETIC-KSS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2021,2021-12-31,interest_expense,440239443.2,InterestExpense,2021-01-01,2022-02-20,SYNTHETIC-KSS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2021,2021-12-31,cash_taxes,149324922.4,IncomeTaxesPaidNet,2021-01-01,2022-02-20,SYNTHETIC-KSS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2021,2021-12-31,cash,1050000000,CashAndCashEquivalentsAtCarryingValue,,2022-02-20,SYNTHETIC-KSS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2021,2021-12-31,accounts_receivable,1500000000,AccountsReceivableNetCurrent,,2022-02-20,SYNTHETIC-KSS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2021,2021-12-31,inventory,2400000000,InventoryNet,,2022-02-20,SYNTHETIC-KSS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2021,2021-12-31,accounts_payable,1350000000,AccountsPayableCurrent,,2022-02-20,SYNTHETIC-KSS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2021,2021-12-31,long_term_debt,6095623060,LongTermDebtNoncurrent,,2022-02-20,SYNTHETIC-KSS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2021,2021-12-31,current_debt,677291451.1,LongTermDebtCurrent,,2022-02-20,SYNTHETIC-KSS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2021,2021-12-31,short_term_borrowings,0,MISSING,,,,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2021,2021-12-31,equity,5250000000,StockholdersEquity,,2022-02-20,SYNTHETIC-KSS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2021,2021-12-31,cash_from_operations,948208031.5,NetCashProvidedByUsedInOperatingActivities,2021-01-01,2022-02-20,SYNTHETIC-KSS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2021,2021-12-31,capex,375000000,PaymentsToAcquirePropertyPlantAndEquipment,2021-01-01,2022-02-20,SYNTHETIC-KSS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2021,2021-12-31,current_assets,5550000000,AssetsCurrent,,2022-02-20,SYNTHETIC-KSS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2021,2021-12-31,current_liabilities,3300000000,LiabilitiesCurrent,,2022-02-20,SYNTHETIC-KSS-2021,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2022,2022-12-31,revenue,1.44e+10,Revenues,2022-01-01,2023-02-20,SYNTHETIC-KSS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2022,2022-12-31,cogs,9360000000,CostOfRevenue,2022-01-01,2023-02-20,SYNTHETIC-KSS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2022,2022-12-31,operating_income,854174520.8,OperatingIncomeLoss,2022-01-01,2023-02-20,SYNTHETIC-KSS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2022,2022-12-31,depreciation_amortization,504000000,DepreciationDepletionAndAmortization,2022-01-01,2023-02-20,SYNTHETIC-KSS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2022,2022-12-31,interest_expense,450234853.6,InterestExpense,2022-01-01,2023-02-20,SYNTHETIC-KSS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2022,2022-12-31,cash_taxes,153751413.7,IncomeTaxesPaidNet,2022-01-01,2023-02-20,SYNTHETIC-KSS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2022,2022-12-31,cash,1008000000,CashAndCashEquivalentsAtCarryingValue,,2023-02-20,SYNTHETIC-KSS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2022,2022-12-31,accounts_receivable,1440000000,AccountsReceivableNetCurrent,,2023-02-20,SYNTHETIC-KSS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2022,2022-12-31,inventory,2304000000,InventoryNet,,2023-02-20,SYNTHETIC-KSS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2022,2022-12-31,accounts_payable,1296000000,AccountsPayableCurrent,,2023-02-20,SYNTHETIC-KSS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2022,2022-12-31,long_term_debt,6234021050,LongTermDebtNoncurrent,,2023-02-20,SYNTHETIC-KSS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2022,2022-12-31,current_debt,692669005.6,LongTermDebtCurrent,,2023-02-20,SYNTHETIC-KSS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2022,2022-12-31,short_term_borrowings,0,MISSING,,,,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2022,2022-12-31,equity,5040000000,StockholdersEquity,,2023-02-20,SYNTHETIC-KSS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2022,2022-12-31,cash_from_operations,950722164.5,NetCashProvidedByUsedInOperatingActivities,2022-01-01,2023-02-20,SYNTHETIC-KSS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2022,2022-12-31,capex,360000000,PaymentsToAcquirePropertyPlantAndEquipment,2022-01-01,2023-02-20,SYNTHETIC-KSS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2022,2022-12-31,current_assets,5328000000,AssetsCurrent,,2023-02-20,SYNTHETIC-KSS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2022,2022-12-31,current_liabilities,3168000000,LiabilitiesCurrent,,2023-02-20,SYNTHETIC-KSS-2022,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2023,2023-12-31,revenue,1.3824e+10,Revenues,2023-01-01,2024-02-20,SYNTHETIC-KSS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2023,2023-12-31,cogs,8985600000,CostOfRevenue,2023-01-01,2024-02-20,SYNTHETIC-KSS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2023,2023-12-31,operating_income,658108158.5,OperatingIncomeLoss,2023-01-01,2024-02-20,SYNTHETIC-KSS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2023,2023-12-31,depreciation_amortization,483840000,DepreciationDepletionAndAmortization,2023-01-01,2024-02-20,SYNTHETIC-KSS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2023,2023-12-31,interest_expense,385978477.6,InterestExpense,2023-01-01,2024-02-20,SYNTHETIC-KSS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2023,2023-12-31,cash_taxes,118459468.5,IncomeTaxesPaidNet,2023-01-01,2024-02-20,SYNTHETIC-KSS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2023,2023-12-31,cash,967680000,CashAndCashEquivalentsAtCarryingValue,,2024-02-20,SYNTHETIC-KSS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2023,2023-12-31,accounts_receivable,1382400000,AccountsReceivableNetCurrent,,2024-02-20,SYNTHETIC-KSS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2023,2023-12-31,inventory,2211840000,InventoryNet,,2024-02-20,SYNTHETIC-KSS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2023,2023-12-31,accounts_payable,1244160000,AccountsPayableCurrent,,2024-02-20,SYNTHETIC-KSS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2023,2023-12-31,long_term_debt,5344317382,LongTermDebtNoncurrent,,2024-02-20,SYNTHETIC-KSS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2023,2023-12-31,current_debt,593813042.4,LongTermDebtCurrent,,2024-02-20,SYNTHETIC-KSS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2023,2023-12-31,short_term_borrowings,0,MISSING,,,,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2023,2023-12-31,equity,4838400000,StockholdersEquity,,2024-02-20,SYNTHETIC-KSS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2023,2023-12-31,cash_from_operations,799363710.9,NetCashProvidedByUsedInOperatingActivities,2023-01-01,2024-02-20,SYNTHETIC-KSS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2023,2023-12-31,capex,345600000,PaymentsToAcquirePropertyPlantAndEquipment,2023-01-01,2024-02-20,SYNTHETIC-KSS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2023,2023-12-31,current_assets,5114880000,AssetsCurrent,,2024-02-20,SYNTHETIC-KSS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2023,2023-12-31,current_liabilities,3041280000,LiabilitiesCurrent,,2024-02-20,SYNTHETIC-KSS-2023,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2024,2024-12-31,revenue,1.327104e+10,Revenues,2024-01-01,2025-02-20,SYNTHETIC-KSS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2024,2024-12-31,cogs,8626176000,CostOfRevenue,2024-01-01,2025-02-20,SYNTHETIC-KSS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2024,2024-12-31,operating_income,72146970.19,OperatingIncomeLoss,2024-01-01,2025-02-20,SYNTHETIC-KSS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2024,2024-12-31,depreciation_amortization,464486400,DepreciationDepletionAndAmortization,2024-01-01,2025-02-20,SYNTHETIC-KSS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2024,2024-12-31,interest_expense,184870196,InterestExpense,2024-01-01,2025-02-20,SYNTHETIC-KSS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2024,2024-12-31,cash_taxes,12986454.63,IncomeTaxesPaidNet,2024-01-01,2025-02-20,SYNTHETIC-KSS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2024,2024-12-31,cash,928972800,CashAndCashEquivalentsAtCarryingValue,,2025-02-20,SYNTHETIC-KSS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2024,2024-12-31,accounts_receivable,1327104000,AccountsReceivableNetCurrent,,2025-02-20,SYNTHETIC-KSS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2024,2024-12-31,inventory,2123366400,InventoryNet,,2025-02-20,SYNTHETIC-KSS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2024,2024-12-31,accounts_payable,1194393600,AccountsPayableCurrent,,2025-02-20,SYNTHETIC-KSS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2024,2024-12-31,long_term_debt,2559741176,LongTermDebtNoncurrent,,2025-02-20,SYNTHETIC-KSS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2024,2024-12-31,current_debt,284415686.2,LongTermDebtCurrent,,2025-02-20,SYNTHETIC-KSS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2024,2024-12-31,short_term_borrowings,0,MISSING,,,,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2024,2024-12-31,equity,4644864000,StockholdersEquity,,2025-02-20,SYNTHETIC-KSS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2024,2024-12-31,cash_from_operations,375643359.1,NetCashProvidedByUsedInOperatingActivities,2024-01-01,2025-02-20,SYNTHETIC-KSS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2024,2024-12-31,capex,331776000,PaymentsToAcquirePropertyPlantAndEquipment,2024-01-01,2025-02-20,SYNTHETIC-KSS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2024,2024-12-31,current_assets,4910284800,AssetsCurrent,,2025-02-20,SYNTHETIC-KSS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2024,2024-12-31,current_liabilities,2919628800,LiabilitiesCurrent,,2025-02-20,SYNTHETIC-KSS-2024,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2025,2025-12-31,revenue,1.27401984e+10,Revenues,2025-01-01,2026-02-20,SYNTHETIC-KSS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2025,2025-12-31,cogs,8281128960,CostOfRevenue,2025-01-01,2026-02-20,SYNTHETIC-KSS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2025,2025-12-31,operating_income,444593737.1,OperatingIncomeLoss,2025-01-01,2026-02-20,SYNTHETIC-KSS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2025,2025-12-31,depreciation_amortization,445906944,DepreciationDepletionAndAmortization,2025-01-01,2026-02-20,SYNTHETIC-KSS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2025,2025-12-31,interest_expense,312565739.1,InterestExpense,2025-01-01,2026-02-20,SYNTHETIC-KSS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2025,2025-12-31,cash_taxes,80026872.67,IncomeTaxesPaidNet,2025-01-01,2026-02-20,SYNTHETIC-KSS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2025,2025-12-31,cash,891813888,CashAndCashEquivalentsAtCarryingValue,,2026-02-20,SYNTHETIC-KSS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2025,2025-12-31,accounts_receivable,1274019840,AccountsReceivableNetCurrent,,2026-02-20,SYNTHETIC-KSS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2025,2025-12-31,inventory,2038431744,InventoryNet,,2026-02-20,SYNTHETIC-KSS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2025,2025-12-31,accounts_payable,1146617856,AccountsPayableCurrent,,2026-02-20,SYNTHETIC-KSS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2025,2025-12-31,long_term_debt,4327833310,LongTermDebtNoncurrent,,2026-02-20,SYNTHETIC-KSS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2025,2025-12-31,current_debt,480870367.8,LongTermDebtCurrent,,2026-02-20,SYNTHETIC-KSS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2025,2025-12-31,short_term_borrowings,0,MISSING,,,,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2025,2025-12-31,equity,4459069440,StockholdersEquity,,2026-02-20,SYNTHETIC-KSS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2025,2025-12-31,cash_from_operations,623350476.8,NetCashProvidedByUsedInOperatingActivities,2025-01-01,2026-02-20,SYNTHETIC-KSS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2025,2025-12-31,capex,318504960,PaymentsToAcquirePropertyPlantAndEquipment,2025-01-01,2026-02-20,SYNTHETIC-KSS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2025,2025-12-31,current_assets,4713873408,AssetsCurrent,,2026-02-20,SYNTHETIC-KSS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
-KSS,2025,2025-12-31,current_liabilities,2802843648,LiabilitiesCurrent,,2026-02-20,SYNTHETIC-KSS-2025,"SYNTHETIC illustrative companyfacts fixture, not SEC data"
+HAS,2021,2021-12-26,revenue,6420400000,Revenues,2020-12-28,2022-02-23,0000046080-22-000023,SEC companyfacts snapshot
+HAS,2021,2021-12-26,cogs,1927500000,CostOfGoodsAndServicesSold,2020-12-28,2022-02-23,0000046080-22-000023,SEC companyfacts snapshot
+HAS,2021,2021-12-26,operating_income,763300000,OperatingIncomeLoss,2020-12-28,2022-02-23,0000046080-22-000023,SEC companyfacts snapshot
+HAS,2021,2021-12-26,depreciation_amortization,280100000,DepreciationDepletionAndAmortization,2020-12-28,2022-02-23,0000046080-22-000023,SEC companyfacts snapshot
+HAS,2021,2021-12-26,interest_expense,179700000,InterestExpense,2020-12-28,2022-02-23,0000046080-22-000023,SEC companyfacts snapshot
+HAS,2021,2021-12-26,cash_taxes,,MISSING,,,,SEC companyfacts snapshot
+HAS,2021,2021-12-26,cash,,MISSING,,,,SEC companyfacts snapshot
+HAS,2021,2021-12-26,accounts_receivable,1500400000,AccountsReceivableNetCurrent,,2022-02-23,0000046080-22-000023,SEC companyfacts snapshot
+HAS,2021,2021-12-26,inventory,552100000,InventoryNet,,2022-02-23,0000046080-22-000023,SEC companyfacts snapshot
+HAS,2021,2021-12-26,accounts_payable,580200000,AccountsPayableCurrent,,2022-02-23,0000046080-22-000023,SEC companyfacts snapshot
+HAS,2021,2021-12-26,long_term_debt,3824200000,LongTermDebtNoncurrent,,2022-02-23,0000046080-22-000023,SEC companyfacts snapshot
+HAS,2021,2021-12-26,current_debt,200100000,LongTermDebtCurrent,,2022-02-23,0000046080-22-000023,SEC companyfacts snapshot
+HAS,2021,2021-12-26,short_term_borrowings,800000,ShortTermBorrowings,,2022-02-23,0000046080-22-000023,SEC companyfacts snapshot
+HAS,2021,2021-12-26,equity,3063100000,StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,,2022-02-23,0000046080-22-000023,SEC companyfacts snapshot
+HAS,2021,2021-12-26,cash_from_operations,817900000,NetCashProvidedByUsedInOperatingActivities,2020-12-28,2022-02-23,0000046080-22-000023,SEC companyfacts snapshot
+HAS,2021,2021-12-26,capex,132700000,PaymentsToAcquirePropertyPlantAndEquipment,2020-12-28,2022-02-23,0000046080-22-000023,SEC companyfacts snapshot
+HAS,2021,2021-12-26,current_assets,3728100000,AssetsCurrent,,2022-02-23,0000046080-22-000023,SEC companyfacts snapshot
+HAS,2021,2021-12-26,current_liabilities,2455900000,LiabilitiesCurrent,,2022-02-23,0000046080-22-000023,SEC companyfacts snapshot
+HAS,2022,2022-12-25,revenue,5856700000,RevenueFromContractWithCustomerExcludingAssessedTax,2021-12-27,2023-02-22,0000046080-23-000017,SEC companyfacts snapshot
+HAS,2022,2022-12-25,cogs,1911800000,CostOfGoodsAndServicesSold,2021-12-27,2023-02-22,0000046080-23-000017,SEC companyfacts snapshot
+HAS,2022,2022-12-25,operating_income,407700000,OperatingIncomeLoss,2021-12-27,2023-02-22,0000046080-23-000017,SEC companyfacts snapshot
+HAS,2022,2022-12-25,depreciation_amortization,232500000,DepreciationDepletionAndAmortization,2021-12-27,2023-02-22,0000046080-23-000017,SEC companyfacts snapshot
+HAS,2022,2022-12-25,interest_expense,171000000,InterestExpense,2021-12-27,2023-02-22,0000046080-23-000017,SEC companyfacts snapshot
+HAS,2022,2022-12-25,cash_taxes,,MISSING,,,,SEC companyfacts snapshot
+HAS,2022,2022-12-25,cash,,MISSING,,,,SEC companyfacts snapshot
+HAS,2022,2022-12-25,accounts_receivable,1132400000,AccountsReceivableNetCurrent,,2023-02-22,0000046080-23-000017,SEC companyfacts snapshot
+HAS,2022,2022-12-25,inventory,676800000,InventoryNet,,2023-02-22,0000046080-23-000017,SEC companyfacts snapshot
+HAS,2022,2022-12-25,accounts_payable,427300000,AccountsPayableCurrent,,2023-02-22,0000046080-23-000017,SEC companyfacts snapshot
+HAS,2022,2022-12-25,long_term_debt,3711200000,LongTermDebtNoncurrent,,2023-02-22,0000046080-23-000017,SEC companyfacts snapshot
+HAS,2022,2022-12-25,current_debt,113200000,LongTermDebtCurrent,,2023-02-22,0000046080-23-000017,SEC companyfacts snapshot
+HAS,2022,2022-12-25,short_term_borrowings,142400000,ShortTermBorrowings,,2023-02-22,0000046080-23-000017,SEC companyfacts snapshot
+HAS,2022,2022-12-25,equity,2861900000,StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,,2023-02-22,0000046080-23-000017,SEC companyfacts snapshot
+HAS,2022,2022-12-25,cash_from_operations,372900000,NetCashProvidedByUsedInOperatingActivities,2021-12-27,2023-02-22,0000046080-23-000017,SEC companyfacts snapshot
+HAS,2022,2022-12-25,capex,174200000,PaymentsToAcquirePropertyPlantAndEquipment,2021-12-27,2023-02-22,0000046080-23-000017,SEC companyfacts snapshot
+HAS,2022,2022-12-25,current_assets,2999100000,AssetsCurrent,,2023-02-22,0000046080-23-000017,SEC companyfacts snapshot
+HAS,2022,2022-12-25,current_liabilities,2189700000,LiabilitiesCurrent,,2023-02-22,0000046080-23-000017,SEC companyfacts snapshot
+HAS,2023,2023-12-31,revenue,5003300000,RevenueFromContractWithCustomerExcludingAssessedTax,2022-12-26,2024-02-28,0000046080-24-000034,SEC companyfacts snapshot
+HAS,2023,2023-12-31,cogs,1706000000,CostOfGoodsAndServicesSold,2022-12-26,2024-02-28,0000046080-24-000034,SEC companyfacts snapshot
+HAS,2023,2023-12-31,operating_income,-1538800000,OperatingIncomeLoss,2022-12-26,2024-02-28,0000046080-24-000034,SEC companyfacts snapshot
+HAS,2023,2023-12-31,depreciation_amortization,210700000,DepreciationDepletionAndAmortization,2022-12-26,2024-02-28,0000046080-24-000034,SEC companyfacts snapshot
+HAS,2023,2023-12-31,interest_expense,186300000,InterestExpense,2022-12-26,2024-02-28,0000046080-24-000034,SEC companyfacts snapshot
+HAS,2023,2023-12-31,cash_taxes,,MISSING,,,,SEC companyfacts snapshot
+HAS,2023,2023-12-31,cash,,MISSING,,,,SEC companyfacts snapshot
+HAS,2023,2023-12-31,accounts_receivable,1029300000,AccountsReceivableNetCurrent,,2024-02-28,0000046080-24-000034,SEC companyfacts snapshot
+HAS,2023,2023-12-31,inventory,332000000,InventoryNet,,2024-02-28,0000046080-24-000034,SEC companyfacts snapshot
+HAS,2023,2023-12-31,accounts_payable,340600000,AccountsPayableCurrent,,2024-02-28,0000046080-24-000034,SEC companyfacts snapshot
+HAS,2023,2023-12-31,long_term_debt,2965800000,LongTermDebtNoncurrent,,2024-02-28,0000046080-24-000034,SEC companyfacts snapshot
+HAS,2023,2023-12-31,current_debt,500000000,LongTermDebtCurrent,,2024-02-28,0000046080-24-000034,SEC companyfacts snapshot
+HAS,2023,2023-12-31,short_term_borrowings,0,ShortTermBorrowings,,2024-02-28,0000046080-24-000034,SEC companyfacts snapshot
+HAS,2023,2023-12-31,equity,1087000000,StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,,2024-02-28,0000046080-24-000034,SEC companyfacts snapshot
+HAS,2023,2023-12-31,cash_from_operations,725600000,NetCashProvidedByUsedInOperatingActivities,2022-12-26,2024-02-28,0000046080-24-000034,SEC companyfacts snapshot
+HAS,2023,2023-12-31,capex,209300000,PaymentsToAcquirePropertyPlantAndEquipment,2022-12-26,2024-02-28,0000046080-24-000034,SEC companyfacts snapshot
+HAS,2023,2023-12-31,current_assets,2323600000,AssetsCurrent,,2024-02-28,0000046080-24-000034,SEC companyfacts snapshot
+HAS,2023,2023-12-31,current_liabilities,2056400000,LiabilitiesCurrent,,2024-02-28,0000046080-24-000034,SEC companyfacts snapshot
+HAS,2024,2024-12-29,revenue,4135500000,RevenueFromContractWithCustomerExcludingAssessedTax,2024-01-01,2025-02-27,0000046080-25-000027,SEC companyfacts snapshot
+HAS,2024,2024-12-29,cogs,1179500000,CostOfGoodsAndServicesSold,2024-01-01,2025-02-27,0000046080-25-000027,SEC companyfacts snapshot
+HAS,2024,2024-12-29,operating_income,690000000,OperatingIncomeLoss,2024-01-01,2025-02-27,0000046080-25-000027,SEC companyfacts snapshot
+HAS,2024,2024-12-29,depreciation_amortization,163000000,DepreciationDepletionAndAmortization,2024-01-01,2025-02-27,0000046080-25-000027,SEC companyfacts snapshot
+HAS,2024,2024-12-29,interest_expense,171200000,InterestExpenseNonoperating,2024-01-01,2025-02-27,0000046080-25-000027,SEC companyfacts snapshot
+HAS,2024,2024-12-29,cash_taxes,,MISSING,,,,SEC companyfacts snapshot
+HAS,2024,2024-12-29,cash,,MISSING,,,,SEC companyfacts snapshot
+HAS,2024,2024-12-29,accounts_receivable,919800000,AccountsReceivableNetCurrent,,2025-02-27,0000046080-25-000027,SEC companyfacts snapshot
+HAS,2024,2024-12-29,inventory,274200000,InventoryNet,,2025-02-27,0000046080-25-000027,SEC companyfacts snapshot
+HAS,2024,2024-12-29,accounts_payable,341500000,AccountsPayableCurrent,,2025-02-27,0000046080-25-000027,SEC companyfacts snapshot
+HAS,2024,2024-12-29,long_term_debt,3380800000,LongTermDebtNoncurrent,,2025-02-27,0000046080-25-000027,SEC companyfacts snapshot
+HAS,2024,2024-12-29,current_debt,0,LongTermDebtCurrent,,2025-02-27,0000046080-25-000027,SEC companyfacts snapshot
+HAS,2024,2024-12-29,short_term_borrowings,0,MISSING,,,,SEC companyfacts snapshot
+HAS,2024,2024-12-29,equity,1185000000,StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,,2025-02-27,0000046080-25-000027,SEC companyfacts snapshot
+HAS,2024,2024-12-29,cash_from_operations,847400000,NetCashProvidedByUsedInOperatingActivities,2024-01-01,2025-02-27,0000046080-25-000027,SEC companyfacts snapshot
+HAS,2024,2024-12-29,capex,87200000,PaymentsToAcquirePropertyPlantAndEquipment,2024-01-01,2025-02-27,0000046080-25-000027,SEC companyfacts snapshot
+HAS,2024,2024-12-29,current_assets,2242500000,AssetsCurrent,,2025-02-27,0000046080-25-000027,SEC companyfacts snapshot
+HAS,2024,2024-12-29,current_liabilities,1401300000,LiabilitiesCurrent,,2025-02-27,0000046080-25-000027,SEC companyfacts snapshot
+HAS,2025,2025-12-28,revenue,4701300000,RevenueFromContractWithCustomerExcludingAssessedTax,2024-12-30,2026-02-25,0000046080-26-000011,SEC companyfacts snapshot
+HAS,2025,2025-12-28,cogs,1296200000,CostOfGoodsAndServicesSold,2024-12-30,2026-02-25,0000046080-26-000011,SEC companyfacts snapshot
+HAS,2025,2025-12-28,operating_income,11100000,OperatingIncomeLoss,2024-12-30,2026-02-25,0000046080-26-000011,SEC companyfacts snapshot
+HAS,2025,2025-12-28,depreciation_amortization,135500000,DepreciationDepletionAndAmortization,2024-12-30,2026-02-25,0000046080-26-000011,SEC companyfacts snapshot
+HAS,2025,2025-12-28,interest_expense,163400000,InterestExpenseNonoperating,2024-12-30,2026-02-25,0000046080-26-000011,SEC companyfacts snapshot
+HAS,2025,2025-12-28,cash_taxes,196800000,IncomeTaxesPaidNet,2024-12-30,2026-02-25,0000046080-26-000011,SEC companyfacts snapshot
+HAS,2025,2025-12-28,cash,,MISSING,,,,SEC companyfacts snapshot
+HAS,2025,2025-12-28,accounts_receivable,1059800000,AccountsReceivableNetCurrent,,2026-02-25,0000046080-26-000011,SEC companyfacts snapshot
+HAS,2025,2025-12-28,inventory,259800000,InventoryNet,,2026-02-25,0000046080-26-000011,SEC companyfacts snapshot
+HAS,2025,2025-12-28,accounts_payable,335400000,AccountsPayableCurrent,,2026-02-25,0000046080-26-000011,SEC companyfacts snapshot
+HAS,2025,2025-12-28,long_term_debt,2767900000,LongTermDebtNoncurrent,,2026-02-25,0000046080-26-000011,SEC companyfacts snapshot
+HAS,2025,2025-12-28,current_debt,497000000,LongTermDebtCurrent,,2026-02-25,0000046080-26-000011,SEC companyfacts snapshot
+HAS,2025,2025-12-28,short_term_borrowings,0,MISSING,,,,SEC companyfacts snapshot
+HAS,2025,2025-12-28,equity,565500000,StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,,2026-02-25,0000046080-26-000011,SEC companyfacts snapshot
+HAS,2025,2025-12-28,cash_from_operations,893200000,NetCashProvidedByUsedInOperatingActivities,2024-12-30,2026-02-25,0000046080-26-000011,SEC companyfacts snapshot
+HAS,2025,2025-12-28,capex,63300000,PaymentsToAcquirePropertyPlantAndEquipment,2024-12-30,2026-02-25,0000046080-26-000011,SEC companyfacts snapshot
+HAS,2025,2025-12-28,current_assets,2583700000,AssetsCurrent,,2026-02-25,0000046080-26-000011,SEC companyfacts snapshot
+HAS,2025,2025-12-28,current_liabilities,1871100000,LiabilitiesCurrent,,2026-02-25,0000046080-26-000011,SEC companyfacts snapshot
+WHR,2021,2021-12-31,revenue,2.1985e+10,RevenueFromContractWithCustomerExcludingAssessedTax,2021-01-01,2022-02-10,0000106640-22-000015,SEC companyfacts snapshot
+WHR,2021,2021-12-31,cogs,1.7576e+10,CostOfGoodsAndServicesSold,2021-01-01,2022-02-10,0000106640-22-000015,SEC companyfacts snapshot
+WHR,2021,2021-12-31,operating_income,2348000000,OperatingIncomeLoss,2021-01-01,2022-02-10,0000106640-22-000015,SEC companyfacts snapshot
+WHR,2021,2021-12-31,depreciation_amortization,494000000,DepreciationDepletionAndAmortization,2021-01-01,2022-02-10,0000106640-22-000015,SEC companyfacts snapshot
+WHR,2021,2021-12-31,interest_expense,175000000,InterestExpense,2021-01-01,2022-02-10,0000106640-22-000015,SEC companyfacts snapshot
+WHR,2021,2021-12-31,cash_taxes,,MISSING,,,,SEC companyfacts snapshot
+WHR,2021,2021-12-31,cash,3044000000,CashAndCashEquivalentsAtCarryingValue,,2022-02-10,0000106640-22-000015,SEC companyfacts snapshot
+WHR,2021,2021-12-31,accounts_receivable,3100000000,AccountsReceivableNetCurrent,,2022-02-10,0000106640-22-000015,SEC companyfacts snapshot
+WHR,2021,2021-12-31,inventory,2717000000,InventoryNet,,2022-02-10,0000106640-22-000015,SEC companyfacts snapshot
+WHR,2021,2021-12-31,accounts_payable,5413000000,AccountsPayableCurrent,,2022-02-10,0000106640-22-000015,SEC companyfacts snapshot
+WHR,2021,2021-12-31,long_term_debt,4929000000,LongTermDebtNoncurrent,,2022-02-10,0000106640-22-000015,SEC companyfacts snapshot
+WHR,2021,2021-12-31,current_debt,298000000,LongTermDebtCurrent,,2022-02-10,0000106640-22-000015,SEC companyfacts snapshot
+WHR,2021,2021-12-31,short_term_borrowings,10000000,ShortTermBorrowings,,2022-02-10,0000106640-22-000015,SEC companyfacts snapshot
+WHR,2021,2021-12-31,equity,4846000000,StockholdersEquity,,2022-02-10,0000106640-22-000015,SEC companyfacts snapshot
+WHR,2021,2021-12-31,cash_from_operations,2176000000,NetCashProvidedByUsedInOperatingActivities,2021-01-01,2022-02-10,0000106640-22-000015,SEC companyfacts snapshot
+WHR,2021,2021-12-31,capex,525000000,PaymentsToAcquirePropertyPlantAndEquipment,2021-01-01,2022-02-10,0000106640-22-000015,SEC companyfacts snapshot
+WHR,2021,2021-12-31,current_assets,9695000000,AssetsCurrent,,2022-02-10,0000106640-22-000015,SEC companyfacts snapshot
+WHR,2021,2021-12-31,current_liabilities,8510000000,LiabilitiesCurrent,,2022-02-10,0000106640-22-000015,SEC companyfacts snapshot
+WHR,2022,2022-12-31,revenue,1.9724e+10,RevenueFromContractWithCustomerExcludingAssessedTax,2022-01-01,2023-02-10,0000106640-23-000015,SEC companyfacts snapshot
+WHR,2022,2022-12-31,cogs,1.6651e+10,CostOfGoodsAndServicesSold,2022-01-01,2023-02-10,0000106640-23-000015,SEC companyfacts snapshot
+WHR,2022,2022-12-31,operating_income,-1056000000,OperatingIncomeLoss,2022-01-01,2023-02-10,0000106640-23-000015,SEC companyfacts snapshot
+WHR,2022,2022-12-31,depreciation_amortization,475000000,DepreciationDepletionAndAmortization,2022-01-01,2023-02-10,0000106640-23-000015,SEC companyfacts snapshot
+WHR,2022,2022-12-31,interest_expense,190000000,InterestExpense,2022-01-01,2023-02-10,0000106640-23-000015,SEC companyfacts snapshot
+WHR,2022,2022-12-31,cash_taxes,,MISSING,,,,SEC companyfacts snapshot
+WHR,2022,2022-12-31,cash,1958000000,CashAndCashEquivalentsAtCarryingValue,,2023-02-10,0000106640-23-000015,SEC companyfacts snapshot
+WHR,2022,2022-12-31,accounts_receivable,1555000000,AccountsReceivableNetCurrent,,2023-02-10,0000106640-23-000015,SEC companyfacts snapshot
+WHR,2022,2022-12-31,inventory,2089000000,InventoryNet,,2023-02-10,0000106640-23-000015,SEC companyfacts snapshot
+WHR,2022,2022-12-31,accounts_payable,3376000000,AccountsPayableCurrent,,2023-02-10,0000106640-23-000015,SEC companyfacts snapshot
+WHR,2022,2022-12-31,long_term_debt,7363000000,LongTermDebtNoncurrent,,2023-02-10,0000106640-23-000015,SEC companyfacts snapshot
+WHR,2022,2022-12-31,current_debt,248000000,LongTermDebtCurrent,,2023-02-10,0000106640-23-000015,SEC companyfacts snapshot
+WHR,2022,2022-12-31,short_term_borrowings,4000000,ShortTermBorrowings,,2023-02-10,0000106640-23-000015,SEC companyfacts snapshot
+WHR,2022,2022-12-31,equity,2336000000,StockholdersEquity,,2023-02-10,0000106640-23-000015,SEC companyfacts snapshot
+WHR,2022,2022-12-31,cash_from_operations,1390000000,NetCashProvidedByUsedInOperatingActivities,2022-01-01,2023-02-10,0000106640-23-000015,SEC companyfacts snapshot
+WHR,2022,2022-12-31,capex,570000000,PaymentsToAcquirePropertyPlantAndEquipment,2022-01-01,2023-02-10,0000106640-23-000015,SEC companyfacts snapshot
+WHR,2022,2022-12-31,current_assets,6394000000,AssetsCurrent,,2023-02-10,0000106640-23-000015,SEC companyfacts snapshot
+WHR,2022,2022-12-31,current_liabilities,5931000000,LiabilitiesCurrent,,2023-02-10,0000106640-23-000015,SEC companyfacts snapshot
+WHR,2023,2023-12-31,revenue,1.9455e+10,RevenueFromContractWithCustomerExcludingAssessedTax,2023-01-01,2024-02-14,0000106640-24-000020,SEC companyfacts snapshot
+WHR,2023,2023-12-31,cogs,1.6285e+10,CostOfGoodsAndServicesSold,2023-01-01,2024-02-14,0000106640-24-000020,SEC companyfacts snapshot
+WHR,2023,2023-12-31,operating_income,1015000000,OperatingIncomeLoss,2023-01-01,2024-02-14,0000106640-24-000020,SEC companyfacts snapshot
+WHR,2023,2023-12-31,depreciation_amortization,361000000,DepreciationDepletionAndAmortization,2023-01-01,2024-02-14,0000106640-24-000020,SEC companyfacts snapshot
+WHR,2023,2023-12-31,interest_expense,351000000,InterestExpense,2023-01-01,2024-02-14,0000106640-24-000020,SEC companyfacts snapshot
+WHR,2023,2023-12-31,cash_taxes,,MISSING,,,,SEC companyfacts snapshot
+WHR,2023,2023-12-31,cash,1570000000,CashAndCashEquivalentsAtCarryingValue,,2024-02-14,0000106640-24-000020,SEC companyfacts snapshot
+WHR,2023,2023-12-31,accounts_receivable,1529000000,AccountsReceivableNetCurrent,,2024-02-14,0000106640-24-000020,SEC companyfacts snapshot
+WHR,2023,2023-12-31,inventory,2247000000,InventoryNet,,2024-02-14,0000106640-24-000020,SEC companyfacts snapshot
+WHR,2023,2023-12-31,accounts_payable,3598000000,AccountsPayableCurrent,,2024-02-14,0000106640-24-000020,SEC companyfacts snapshot
+WHR,2023,2023-12-31,long_term_debt,6414000000,LongTermDebtNoncurrent,,2024-02-14,0000106640-24-000020,SEC companyfacts snapshot
+WHR,2023,2023-12-31,current_debt,800000000,LongTermDebtCurrent,,2024-02-14,0000106640-24-000020,SEC companyfacts snapshot
+WHR,2023,2023-12-31,short_term_borrowings,17000000,ShortTermBorrowings,,2024-02-14,0000106640-24-000020,SEC companyfacts snapshot
+WHR,2023,2023-12-31,equity,2362000000,StockholdersEquity,,2024-02-14,0000106640-24-000020,SEC companyfacts snapshot
+WHR,2023,2023-12-31,cash_from_operations,915000000,NetCashProvidedByUsedInOperatingActivities,2023-01-01,2024-02-14,0000106640-24-000020,SEC companyfacts snapshot
+WHR,2023,2023-12-31,capex,549000000,PaymentsToAcquirePropertyPlantAndEquipment,2023-01-01,2024-02-14,0000106640-24-000020,SEC companyfacts snapshot
+WHR,2023,2023-12-31,current_assets,6207000000,AssetsCurrent,,2024-02-14,0000106640-24-000020,SEC companyfacts snapshot
+WHR,2023,2023-12-31,current_liabilities,6948000000,LiabilitiesCurrent,,2024-02-14,0000106640-24-000020,SEC companyfacts snapshot
+WHR,2024,2024-12-31,revenue,1.6607e+10,RevenueFromContractWithCustomerExcludingAssessedTax,2024-01-01,2025-02-13,0000106640-25-000011,SEC companyfacts snapshot
+WHR,2024,2024-12-31,cogs,1.4026e+10,CostOfGoodsAndServicesSold,2024-01-01,2025-02-13,0000106640-25-000011,SEC companyfacts snapshot
+WHR,2024,2024-12-31,operating_income,143000000,OperatingIncomeLoss,2024-01-01,2025-02-13,0000106640-25-000011,SEC companyfacts snapshot
+WHR,2024,2024-12-31,depreciation_amortization,333000000,DepreciationDepletionAndAmortization,2024-01-01,2025-02-13,0000106640-25-000011,SEC companyfacts snapshot
+WHR,2024,2024-12-31,interest_expense,358000000,InterestExpenseNonoperating,2024-01-01,2025-02-13,0000106640-25-000011,SEC companyfacts snapshot
+WHR,2024,2024-12-31,cash_taxes,,MISSING,,,,SEC companyfacts snapshot
+WHR,2024,2024-12-31,cash,1275000000,CashAndCashEquivalentsAtCarryingValue,,2025-02-13,0000106640-25-000011,SEC companyfacts snapshot
+WHR,2024,2024-12-31,accounts_receivable,1317000000,AccountsReceivableNetCurrent,,2025-02-13,0000106640-25-000011,SEC companyfacts snapshot
+WHR,2024,2024-12-31,inventory,2035000000,InventoryNet,,2025-02-13,0000106640-25-000011,SEC companyfacts snapshot
+WHR,2024,2024-12-31,accounts_payable,3530000000,AccountsPayableCurrent,,2025-02-13,0000106640-25-000011,SEC companyfacts snapshot
+WHR,2024,2024-12-31,long_term_debt,4758000000,LongTermDebtNoncurrent,,2025-02-13,0000106640-25-000011,SEC companyfacts snapshot
+WHR,2024,2024-12-31,current_debt,1850000000,LongTermDebtCurrent,,2025-02-13,0000106640-25-000011,SEC companyfacts snapshot
+WHR,2024,2024-12-31,short_term_borrowings,18000000,ShortTermBorrowings,,2025-02-13,0000106640-25-000011,SEC companyfacts snapshot
+WHR,2024,2024-12-31,equity,2683000000,StockholdersEquity,,2025-02-13,0000106640-25-000011,SEC companyfacts snapshot
+WHR,2024,2024-12-31,cash_from_operations,835000000,NetCashProvidedByUsedInOperatingActivities,2024-01-01,2025-02-13,0000106640-25-000011,SEC companyfacts snapshot
+WHR,2024,2024-12-31,capex,451000000,PaymentsToAcquirePropertyPlantAndEquipment,2024-01-01,2025-02-13,0000106640-25-000011,SEC companyfacts snapshot
+WHR,2024,2024-12-31,current_assets,5239000000,AssetsCurrent,,2025-02-13,0000106640-25-000011,SEC companyfacts snapshot
+WHR,2024,2024-12-31,current_liabilities,7323000000,LiabilitiesCurrent,,2025-02-13,0000106640-25-000011,SEC companyfacts snapshot
+WHR,2025,2025-12-31,revenue,1.5524e+10,RevenueFromContractWithCustomerExcludingAssessedTax,2025-01-01,2026-02-11,0000106640-26-000009,SEC companyfacts snapshot
+WHR,2025,2025-12-31,cogs,1.3138e+10,CostOfGoodsAndServicesSold,2025-01-01,2026-02-11,0000106640-26-000009,SEC companyfacts snapshot
+WHR,2025,2025-12-31,operating_income,838000000,OperatingIncomeLoss,2025-01-01,2026-02-11,0000106640-26-000009,SEC companyfacts snapshot
+WHR,2025,2025-12-31,depreciation_amortization,338000000,DepreciationDepletionAndAmortization,2025-01-01,2026-02-11,0000106640-26-000009,SEC companyfacts snapshot
+WHR,2025,2025-12-31,interest_expense,341000000,InterestExpenseNonoperating,2025-01-01,2026-02-11,0000106640-26-000009,SEC companyfacts snapshot
+WHR,2025,2025-12-31,cash_taxes,136000000,IncomeTaxesPaidNet,2025-01-01,2026-02-11,0000106640-26-000009,SEC companyfacts snapshot
+WHR,2025,2025-12-31,cash,669000000,CashAndCashEquivalentsAtCarryingValue,,2026-02-11,0000106640-26-000009,SEC companyfacts snapshot
+WHR,2025,2025-12-31,accounts_receivable,1276000000,AccountsReceivableNetCurrent,,2026-02-11,0000106640-26-000009,SEC companyfacts snapshot
+WHR,2025,2025-12-31,inventory,2307000000,InventoryNet,,2026-02-11,0000106640-26-000009,SEC companyfacts snapshot
+WHR,2025,2025-12-31,accounts_payable,3704000000,AccountsPayableCurrent,,2026-02-11,0000106640-26-000009,SEC companyfacts snapshot
+WHR,2025,2025-12-31,long_term_debt,5583000000,LongTermDebtNoncurrent,,2026-02-11,0000106640-26-000009,SEC companyfacts snapshot
+WHR,2025,2025-12-31,current_debt,586000000,LongTermDebtCurrent,,2026-02-11,0000106640-26-000009,SEC companyfacts snapshot
+WHR,2025,2025-12-31,short_term_borrowings,351000000,ShortTermBorrowings,,2026-02-11,0000106640-26-000009,SEC companyfacts snapshot
+WHR,2025,2025-12-31,equity,2726000000,StockholdersEquity,,2026-02-11,0000106640-26-000009,SEC companyfacts snapshot
+WHR,2025,2025-12-31,cash_from_operations,470000000,NetCashProvidedByUsedInOperatingActivities,2025-01-01,2026-02-11,0000106640-26-000009,SEC companyfacts snapshot
+WHR,2025,2025-12-31,capex,389000000,PaymentsToAcquirePropertyPlantAndEquipment,2025-01-01,2026-02-11,0000106640-26-000009,SEC companyfacts snapshot
+WHR,2025,2025-12-31,current_assets,4924000000,AssetsCurrent,,2026-02-11,0000106640-26-000009,SEC companyfacts snapshot
+WHR,2025,2025-12-31,current_liabilities,6513000000,LiabilitiesCurrent,,2026-02-11,0000106640-26-000009,SEC companyfacts snapshot
+KSS,2021,2022-01-29,revenue,1.9433e+10,RevenueFromContractWithCustomerExcludingAssessedTax,2021-01-31,2022-03-17,0000950170-22-004076,SEC companyfacts snapshot
+KSS,2021,2022-01-29,cogs,1.1437e+10,CostOfGoodsAndServicesSold,2021-01-31,2022-03-17,0000950170-22-004076,SEC companyfacts snapshot
+KSS,2021,2022-01-29,operating_income,1680000000,OperatingIncomeLoss,2021-01-31,2022-03-17,0000950170-22-004076,SEC companyfacts snapshot
+KSS,2021,2022-01-29,depreciation_amortization,838000000,DepreciationAndAmortization,2021-01-31,2022-03-17,0000950170-22-004076,SEC companyfacts snapshot
+KSS,2021,2022-01-29,interest_expense,,MISSING,,,,SEC companyfacts snapshot
+KSS,2021,2022-01-29,cash_taxes,,MISSING,,,,SEC companyfacts snapshot
+KSS,2021,2022-01-29,cash,1587000000,CashAndCashEquivalentsAtCarryingValue,,2022-03-17,0000950170-22-004076,SEC companyfacts snapshot
+KSS,2021,2022-01-29,accounts_receivable,,MISSING,,,,SEC companyfacts snapshot
+KSS,2021,2022-01-29,inventory,3067000000,InventoryNet,,2022-03-17,0000950170-22-004076,SEC companyfacts snapshot
+KSS,2021,2022-01-29,accounts_payable,1683000000,AccountsPayableCurrent,,2022-03-17,0000950170-22-004076,SEC companyfacts snapshot
+KSS,2021,2022-01-29,long_term_debt,1910000000,LongTermDebtNoncurrent,,2022-03-17,0000950170-22-004076,SEC companyfacts snapshot
+KSS,2021,2022-01-29,current_debt,0,MISSING,,,,SEC companyfacts snapshot
+KSS,2021,2022-01-29,short_term_borrowings,0,MISSING,,,,SEC companyfacts snapshot
+KSS,2021,2022-01-29,equity,4661000000,StockholdersEquity,,2022-03-17,0000950170-22-004076,SEC companyfacts snapshot
+KSS,2021,2022-01-29,cash_from_operations,2271000000,NetCashProvidedByUsedInOperatingActivities,2021-01-31,2022-03-17,0000950170-22-004076,SEC companyfacts snapshot
+KSS,2021,2022-01-29,capex,605000000,PaymentsToAcquireProductiveAssets,2021-01-31,2022-03-17,0000950170-22-004076,SEC companyfacts snapshot
+KSS,2021,2022-01-29,current_assets,5023000000,AssetsCurrent,,2022-03-17,0000950170-22-004076,SEC companyfacts snapshot
+KSS,2021,2022-01-29,current_liabilities,3286000000,LiabilitiesCurrent,,2022-03-17,0000950170-22-004076,SEC companyfacts snapshot
+KSS,2022,2023-01-28,revenue,1.8098e+10,RevenueFromContractWithCustomerExcludingAssessedTax,2022-01-30,2023-03-16,0000950170-23-008444,SEC companyfacts snapshot
+KSS,2022,2023-01-28,cogs,1.1457e+10,CostOfGoodsAndServicesSold,2022-01-30,2023-03-16,0000950170-23-008444,SEC companyfacts snapshot
+KSS,2022,2023-01-28,operating_income,246000000,OperatingIncomeLoss,2022-01-30,2023-03-16,0000950170-23-008444,SEC companyfacts snapshot
+KSS,2022,2023-01-28,depreciation_amortization,808000000,DepreciationAndAmortization,2022-01-30,2023-03-16,0000950170-23-008444,SEC companyfacts snapshot
+KSS,2022,2023-01-28,interest_expense,,MISSING,,,,SEC companyfacts snapshot
+KSS,2022,2023-01-28,cash_taxes,,MISSING,,,,SEC companyfacts snapshot
+KSS,2022,2023-01-28,cash,153000000,CashAndCashEquivalentsAtCarryingValue,,2023-03-16,0000950170-23-008444,SEC companyfacts snapshot
+KSS,2022,2023-01-28,accounts_receivable,,MISSING,,,,SEC companyfacts snapshot
+KSS,2022,2023-01-28,inventory,3189000000,InventoryNet,,2023-03-16,0000950170-23-008444,SEC companyfacts snapshot
+KSS,2022,2023-01-28,accounts_payable,1330000000,AccountsPayableCurrent,,2023-03-16,0000950170-23-008444,SEC companyfacts snapshot
+KSS,2022,2023-01-28,long_term_debt,1637000000,LongTermDebtNoncurrent,,2023-03-16,0000950170-23-008444,SEC companyfacts snapshot
+KSS,2022,2023-01-28,current_debt,275000000,LongTermDebtCurrent,,2023-03-16,0000950170-23-008444,SEC companyfacts snapshot
+KSS,2022,2023-01-28,short_term_borrowings,0,MISSING,,,,SEC companyfacts snapshot
+KSS,2022,2023-01-28,equity,3763000000,StockholdersEquity,,2023-03-16,0000950170-23-008444,SEC companyfacts snapshot
+KSS,2022,2023-01-28,cash_from_operations,282000000,NetCashProvidedByUsedInOperatingActivities,2022-01-30,2023-03-16,0000950170-23-008444,SEC companyfacts snapshot
+KSS,2022,2023-01-28,capex,826000000,PaymentsToAcquireProductiveAssets,2022-01-30,2023-03-16,0000950170-23-008444,SEC companyfacts snapshot
+KSS,2022,2023-01-28,current_assets,3736000000,AssetsCurrent,,2023-03-16,0000950170-23-008444,SEC companyfacts snapshot
+KSS,2022,2023-01-28,current_liabilities,3115000000,LiabilitiesCurrent,,2023-03-16,0000950170-23-008444,SEC companyfacts snapshot
+KSS,2023,2024-02-03,revenue,1.7476e+10,RevenueFromContractWithCustomerExcludingAssessedTax,2023-01-29,2024-03-21,0000950170-24-034691,SEC companyfacts snapshot
+KSS,2023,2024-02-03,cogs,1.0498e+10,CostOfGoodsAndServicesSold,2023-01-29,2024-03-21,0000950170-24-034691,SEC companyfacts snapshot
+KSS,2023,2024-02-03,operating_income,717000000,OperatingIncomeLoss,2023-01-29,2024-03-21,0000950170-24-034691,SEC companyfacts snapshot
+KSS,2023,2024-02-03,depreciation_amortization,749000000,DepreciationAndAmortization,2023-01-29,2024-03-21,0000950170-24-034691,SEC companyfacts snapshot
+KSS,2023,2024-02-03,interest_expense,,MISSING,,,,SEC companyfacts snapshot
+KSS,2023,2024-02-03,cash_taxes,,MISSING,,,,SEC companyfacts snapshot
+KSS,2023,2024-02-03,cash,183000000,CashAndCashEquivalentsAtCarryingValue,,2024-03-21,0000950170-24-034691,SEC companyfacts snapshot
+KSS,2023,2024-02-03,accounts_receivable,,MISSING,,,,SEC companyfacts snapshot
+KSS,2023,2024-02-03,inventory,2880000000,InventoryNet,,2024-03-21,0000950170-24-034691,SEC companyfacts snapshot
+KSS,2023,2024-02-03,accounts_payable,1134000000,AccountsPayableCurrent,,2024-03-21,0000950170-24-034691,SEC companyfacts snapshot
+KSS,2023,2024-02-03,long_term_debt,1638000000,LongTermDebtNoncurrent,,2024-03-21,0000950170-24-034691,SEC companyfacts snapshot
+KSS,2023,2024-02-03,current_debt,0,MISSING,,,,SEC companyfacts snapshot
+KSS,2023,2024-02-03,short_term_borrowings,0,MISSING,,,,SEC companyfacts snapshot
+KSS,2023,2024-02-03,equity,3893000000,StockholdersEquity,,2024-03-21,0000950170-24-034691,SEC companyfacts snapshot
+KSS,2023,2024-02-03,cash_from_operations,1168000000,NetCashProvidedByUsedInOperatingActivities,2023-01-29,2024-03-21,0000950170-24-034691,SEC companyfacts snapshot
+KSS,2023,2024-02-03,capex,577000000,PaymentsToAcquireProductiveAssets,2023-01-29,2024-03-21,0000950170-24-034691,SEC companyfacts snapshot
+KSS,2023,2024-02-03,current_assets,3410000000,AssetsCurrent,,2024-03-21,0000950170-24-034691,SEC companyfacts snapshot
+KSS,2023,2024-02-03,current_liabilities,2612000000,LiabilitiesCurrent,,2024-03-21,0000950170-24-034691,SEC companyfacts snapshot
+KSS,2024,2025-02-01,revenue,1.6221e+10,RevenueFromContractWithCustomerExcludingAssessedTax,2024-02-04,2025-03-20,0000950170-25-042662,SEC companyfacts snapshot
+KSS,2024,2025-02-01,cogs,9661000000,CostOfGoodsAndServicesSold,2024-02-04,2025-03-20,0000950170-25-042662,SEC companyfacts snapshot
+KSS,2024,2025-02-01,operating_income,433000000,OperatingIncomeLoss,2024-02-04,2025-03-20,0000950170-25-042662,SEC companyfacts snapshot
+KSS,2024,2025-02-01,depreciation_amortization,743000000,DepreciationAndAmortization,2024-02-04,2025-03-20,0000950170-25-042662,SEC companyfacts snapshot
+KSS,2024,2025-02-01,interest_expense,,MISSING,,,,SEC companyfacts snapshot
+KSS,2024,2025-02-01,cash_taxes,,MISSING,,,,SEC companyfacts snapshot
+KSS,2024,2025-02-01,cash,134000000,CashAndCashEquivalentsAtCarryingValue,,2025-03-20,0000950170-25-042662,SEC companyfacts snapshot
+KSS,2024,2025-02-01,accounts_receivable,,MISSING,,,,SEC companyfacts snapshot
+KSS,2024,2025-02-01,inventory,2945000000,InventoryNet,,2025-03-20,0000950170-25-042662,SEC companyfacts snapshot
+KSS,2024,2025-02-01,accounts_payable,1042000000,AccountsPayableCurrent,,2025-03-20,0000950170-25-042662,SEC companyfacts snapshot
+KSS,2024,2025-02-01,long_term_debt,1174000000,LongTermDebtNoncurrent,,2025-03-20,0000950170-25-042662,SEC companyfacts snapshot
+KSS,2024,2025-02-01,current_debt,353000000,LongTermDebtCurrent,,2025-03-20,0000950170-25-042662,SEC companyfacts snapshot
+KSS,2024,2025-02-01,short_term_borrowings,0,MISSING,,,,SEC companyfacts snapshot
+KSS,2024,2025-02-01,equity,3802000000,StockholdersEquity,,2025-03-20,0000950170-25-042662,SEC companyfacts snapshot
+KSS,2024,2025-02-01,cash_from_operations,648000000,NetCashProvidedByUsedInOperatingActivities,2024-02-04,2025-03-20,0000950170-25-042662,SEC companyfacts snapshot
+KSS,2024,2025-02-01,capex,466000000,PaymentsToAcquireProductiveAssets,2024-02-04,2025-03-20,0000950170-25-042662,SEC companyfacts snapshot
+KSS,2024,2025-02-01,current_assets,3388000000,AssetsCurrent,,2025-03-20,0000950170-25-042662,SEC companyfacts snapshot
+KSS,2024,2025-02-01,current_liabilities,3131000000,LiabilitiesCurrent,,2025-03-20,0000950170-25-042662,SEC companyfacts snapshot
+KSS,2025,2026-01-31,revenue,1.5527e+10,RevenueFromContractWithCustomerExcludingAssessedTax,2025-02-02,2026-03-19,0001193125-26-115982,SEC companyfacts snapshot
+KSS,2025,2026-01-31,cogs,9228000000,CostOfGoodsAndServicesSold,2025-02-02,2026-03-19,0001193125-26-115982,SEC companyfacts snapshot
+KSS,2025,2026-01-31,operating_income,624000000,OperatingIncomeLoss,2025-02-02,2026-03-19,0001193125-26-115982,SEC companyfacts snapshot
+KSS,2025,2026-01-31,depreciation_amortization,700000000,DepreciationAndAmortization,2025-02-02,2026-03-19,0001193125-26-115982,SEC companyfacts snapshot
+KSS,2025,2026-01-31,interest_expense,,MISSING,,,,SEC companyfacts snapshot
+KSS,2025,2026-01-31,cash_taxes,51000000,IncomeTaxesPaidNet,2025-02-02,2026-03-19,0001193125-26-115982,SEC companyfacts snapshot
+KSS,2025,2026-01-31,cash,674000000,CashAndCashEquivalentsAtCarryingValue,,2026-03-19,0001193125-26-115982,SEC companyfacts snapshot
+KSS,2025,2026-01-31,accounts_receivable,,MISSING,,,,SEC companyfacts snapshot
+KSS,2025,2026-01-31,inventory,2745000000,InventoryNet,,2026-03-19,0001193125-26-115982,SEC companyfacts snapshot
+KSS,2025,2026-01-31,accounts_payable,1171000000,AccountsPayableCurrent,,2026-03-19,0001193125-26-115982,SEC companyfacts snapshot
+KSS,2025,2026-01-31,long_term_debt,1436000000,LongTermDebtNoncurrent,,2026-03-19,0001193125-26-115982,SEC companyfacts snapshot
+KSS,2025,2026-01-31,current_debt,0,LongTermDebtCurrent,,2026-03-19,0001193125-26-115982,SEC companyfacts snapshot
+KSS,2025,2026-01-31,short_term_borrowings,0,MISSING,,,,SEC companyfacts snapshot
+KSS,2025,2026-01-31,equity,4048000000,StockholdersEquity,,2026-03-19,0001193125-26-115982,SEC companyfacts snapshot
+KSS,2025,2026-01-31,cash_from_operations,1380000000,NetCashProvidedByUsedInOperatingActivities,2025-02-02,2026-03-19,0001193125-26-115982,SEC companyfacts snapshot
+KSS,2025,2026-01-31,capex,372000000,PaymentsToAcquireProductiveAssets,2025-02-02,2026-03-19,0001193125-26-115982,SEC companyfacts snapshot
+KSS,2025,2026-01-31,current_assets,3691000000,AssetsCurrent,,2026-03-19,0001193125-26-115982,SEC companyfacts snapshot
+KSS,2025,2026-01-31,current_liabilities,2531000000,LiabilitiesCurrent,,2026-03-19,0001193125-26-115982,SEC companyfacts snapshot
