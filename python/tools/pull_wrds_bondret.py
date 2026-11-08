@@ -1,6 +1,7 @@
 """Optional WRDS pull of month-end corporate bond records; needs a WRDS account (credentials come from pgpass, not this file)."""
 
 import csv
+import os
 from pathlib import Path
 
 import psycopg2
@@ -9,7 +10,7 @@ import psycopg2
 HOST = "wrds-pgdata.wharton.upenn.edu"
 PORT = 9737
 DATABASE = "wrds"
-WRDS_USER = "yazad_madan"
+WRDS_USER = os.environ["WRDS_USER"]
 MONTH_END = "2025-12-31"
 TRADE_FROM = "2025-12-01"
 BOND_TYPES = ("CDEB", "CMTN")
