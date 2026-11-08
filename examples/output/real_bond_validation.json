@@ -1,0 +1,12 @@
+{
+  "source": "WRDS wrdsapps_bondret.bondret, month-end 2025-12-31, senior fixed-coupon CDEB/CMTN, trade in December 2025",
+  "bonds": 231,
+  "issuers": 46,
+  "median_abs_error_points": 0.0172,
+  "p95_abs_error_points": 0.0293,
+  "max_abs_error_points": 0.0748,
+  "breaks_over_tolerance": 0,
+  "tolerance_points": 0.1,
+  "convention": "semiannual, 30/360 accrued, settlement at month-end; yield and price from the same record",
+  "note": "Raw WRDS rows are licensed and not committed; rerun with your own pull."
+}

@@ -5,3 +5,4 @@ __pycache__/
 *.pyc
 ~$*
 .work/
+data/extension/raw_wrds/

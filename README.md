@@ -167,3 +167,7 @@ python -m credit_pack.run_extension --recalculate
 Use the configured interpreter path in [extension instructions](docs/extension.md) if `python` is not on PATH. Results and mock memos are in `examples/output/`; the [live-formula workbook](excel/credit_extension.xlsx) is separate from the original workbook. [Mock term sheet](examples/output/mock_term_sheet.html) is formatted for one printed letter page. The source ledger records [verified text and failed routes](docs/source_verification.md). All added model inputs are in `python/credit_pack/extension_config.py` or clearly marked module config blocks. No runtime network access is needed.
 
 Limitations: simplified renewable generation and reserve waterfalls; stylized consumer losses; two-factor issuer scores; historical manual public selections; unverified bond-specific muni pledges and tax status; incomplete Rule 2a-7 coverage; synthetic market prices. Native formula reconciliation and hand-computed tests establish mechanical agreement, not real-world validation.
+
+## Real bond price check
+
+`python/tools/validate_real_bonds.py` reprices 231 real senior corporate bonds (46 issuers, WRDS bondret, month-end 2025-12-31) from their reported yields and compares with the reported clean prices: median error 0.017 points, 95th percentile 0.029, maximum 0.075, no breaks over a 0.10 tolerance (`examples/output/real_bond_validation.json`). Raw WRDS rows are licensed and not committed; `pull_wrds_bondret.py` regenerates them with a WRDS account. Municipal prices (EMMA) remain synthetic.
