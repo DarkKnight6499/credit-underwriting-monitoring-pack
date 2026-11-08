@@ -1,0 +1,2 @@
+issuer,revenue,operating_expenses,available_fund_balance,total_debt,assessed_value,tax_collection_rate,issuer_type,fund_balance_ratio,operating_balance_ratio,debt_to_revenue,debt_to_assessed_value
+Synthetic County,120000000,118000000,18000000,90000000,4000000000,0.98,go,0.15,0.0166666666667,0.75,0.0225

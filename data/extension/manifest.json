@@ -1,0 +1,14 @@
+[
+  {
+    "path": "data/extension/public_issuer_facts.json",
+    "sha256": "a73706e991ad2bdc65cfc1f4ed03dfe4e08b42838349055f5d8fef0d0cf1c55e",
+    "retrieved_at": "2026-11-08",
+    "method": "Manual numeric selections from opened primary web pages. Hash covers selected facts, not full source documents.",
+    "source_urls": [
+      "https://www.dutchessny.gov/Departments/Comptroller/Independent-Audit-of-Basic-Financial-Statements-for-2025.htm",
+      "https://www.nyc.gov/assets/nycwaterboard/downloads/pdf/statements_and_reports/wb-financial-statements-2025.pdf",
+      "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+      "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm"
+    ]
+  }
+]

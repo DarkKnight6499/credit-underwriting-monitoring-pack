@@ -1,0 +1,16 @@
+{
+  "as_of": "2026-11-08",
+  "seed": 20261021,
+  "project_debt": 70000000.0,
+  "warehouse_latest_availability": -29875.91275813186,
+  "issuer_calls": {
+    "Apple": "hold",
+    "JPMorgan Chase": "buy",
+    "Dutchess County": "sell",
+    "NYC Water and Sewer System": "hold"
+  },
+  "money_market_status": "subset pass",
+  "synthetic_price_breaks": 2,
+  "workbook_reconciliation": "24680 comparisons passed in LibreOffice",
+  "public_trade_data": "not obtained"
+}

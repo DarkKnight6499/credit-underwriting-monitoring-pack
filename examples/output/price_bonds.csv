@@ -1,0 +1,5 @@
+security_id,coupon_rate,maturity_years,payments_per_year,accrued_interest,spread,callable
+SYN-IG,0.045,5,2,0,0.006,False
+SYN-BANK,0.05,3,2,0,0.012,False
+SYN-GO,0.035,7,2,0,-0.005,False
+SYN-REV,0.04,10,2,0,-0.003,False

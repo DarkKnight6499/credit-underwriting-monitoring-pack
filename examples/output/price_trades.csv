@@ -1,0 +1,5 @@
+security_id,trade_clean_price,trade_date,venue,trade_status,source
+SYN-IG,99.6062984089,2026-11-08,SYNTHETIC TRACE schema,active,Seeded synthetic scenario
+SYN-BANK,101.347137224,2026-11-08,SYNTHETIC TRACE schema,active,Seeded synthetic scenario
+SYN-GO,98.8951364987,2026-11-08,SYNTHETIC EMMA schema,active,Seeded synthetic scenario
+SYN-REV,98.0317620289,2026-11-08,SYNTHETIC EMMA schema,active,Seeded synthetic scenario

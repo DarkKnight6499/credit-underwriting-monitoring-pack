@@ -1,0 +1,12 @@
+security_id,issuer,market_value,maturity_days,usd_denominated,direct_us_government,minimal_credit_risk_review,daily_liquid,weekly_liquid,illiquid,supported_plain_instrument,screen_status,flags,issuer_share
+SYN-TBILL,US Treasury,500000,30,True,True,,True,True,False,True,subset pass,,0
+SYN-CP01,Consolidated issuer 01,50000,10,True,False,True,False,False,False,True,subset pass,,0.05
+SYN-CP02,Consolidated issuer 02,50000,20,True,False,True,False,False,False,True,subset pass,,0.05
+SYN-CP03,Consolidated issuer 03,50000,30,True,False,True,False,False,False,True,subset pass,,0.05
+SYN-CP04,Consolidated issuer 04,50000,40,True,False,True,False,False,False,True,subset pass,,0.05
+SYN-CP05,Consolidated issuer 05,50000,50,True,False,True,False,False,False,True,subset pass,,0.05
+SYN-CP06,Consolidated issuer 06,50000,60,True,False,True,False,False,False,True,subset pass,,0.05
+SYN-CP07,Consolidated issuer 07,50000,70,True,False,True,False,False,False,True,subset pass,,0.05
+SYN-CP08,Consolidated issuer 08,50000,80,True,False,True,False,False,False,True,subset pass,,0.05
+SYN-CP09,Consolidated issuer 09,50000,90,True,False,True,False,False,False,True,subset pass,,0.05
+SYN-CP10,Consolidated issuer 10,50000,100,True,False,True,False,False,False,True,subset pass,,0.05

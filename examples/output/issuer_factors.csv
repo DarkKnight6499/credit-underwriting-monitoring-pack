@@ -1,0 +1,9 @@
+factor,value,factor_score,weight,flags,issuer
+fcf_to_debt,1.0011149741,1,0.5,,Apple
+total_leverage,0.681577638378,1,0.5,,Apple
+cet1_ratio,0.146,1,0.5,,JPMorgan Chase
+lcr,1.11,3,0.5,,JPMorgan Chase
+fund_balance_ratio,0.138100394174,2,0.5,,Dutchess County
+operating_balance_ratio,-0.0200682972481,4,0.5,,Dutchess County
+operating_margin_before_depreciation,0.511008948621,1,0.5,,NYC Water and Sewer System
+debt_to_revenue,7.50010620031,3,0.5,,NYC Water and Sewer System

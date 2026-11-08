@@ -1,0 +1,5 @@
+security_id,trade_clean_price,trade_date,venue,trade_status,source,model_dirty_price,model_clean_price,modified_duration,convexity,curve_date,price_difference,price_break,stale_trade,screen_status,flags
+SYN-IG,99.6062984089,2026-11-08,SYNTHETIC TRACE schema,active,Seeded synthetic scenario,99.4062984089,99.4062984089,4.52917141653,21.8083375545,2026-11-08,0.2,False,False,within tolerance,
+SYN-BANK,101.347137224,2026-11-08,SYNTHETIC TRACE schema,active,Seeded synthetic scenario,99.8471372239,99.8471372239,2.82245373022,8.26362587776,2026-11-08,1.5,True,False,break,
+SYN-GO,98.8951364987,2026-11-08,SYNTHETIC EMMA schema,active,Seeded synthetic scenario,99.1951364987,99.1951364987,6.26050691261,42.0396312552,2026-11-08,-0.3,False,False,within tolerance,
+SYN-REV,98.0317620289,2026-11-08,SYNTHETIC EMMA schema,active,Seeded synthetic scenario,100.031762029,100.031762029,8.32247843672,77.6890367393,2026-11-08,-2,True,False,break,

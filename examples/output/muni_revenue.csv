@@ -1,0 +1,5 @@
+issuer,revenue,operating_expenses,maintenance_contribution,debt_service,cash,dscr_min,issuer_type,cfads,dscr,revenue_change,days_cash,covenant_breach,break_even_ebitda_decline
+Synthetic Water Utility,24000000,17000000,1000000,8000000,9000000,1.2,revenue,6000000,0.75,-0.2,193.235294118,True,0.08
+Synthetic Water Utility,27000000,17000000,1000000,8000000,9000000,1.2,revenue,9000000,1.125,-0.1,193.235294118,True,0.08
+Synthetic Water Utility,30000000,17000000,1000000,8000000,9000000,1.2,revenue,12000000,1.5,0,193.235294118,False,0.08
+Synthetic Water Utility,33000000,17000000,1000000,8000000,9000000,1.2,revenue,15000000,1.875,0.1,193.235294118,False,0.08

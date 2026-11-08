@@ -1,0 +1,140 @@
+[
+  {
+    "path": "examples/output/excel_reconciliation.csv",
+    "sha256": "7f31a00cfa1d790ae39e369617a47dbcdd3054794b2f59ba3890265b78f0582e",
+    "seed": 20261021,
+    "source": "Public selections only in issuer_facts; all other example inputs are synthetic or explicit policy"
+  },
+  {
+    "path": "examples/output/issuer_factors.csv",
+    "sha256": "f26290997be0ed02c4cdaf669463ce3c696f6d3d41452b2f277be695762541e9",
+    "seed": 20261021,
+    "source": "Public selections only in issuer_facts; all other example inputs are synthetic or explicit policy"
+  },
+  {
+    "path": "examples/output/issuer_facts.csv",
+    "sha256": "8539f0040994a38d360355f156c7d5d9df1a24785122fdca8dfcc337b54dc852",
+    "seed": 20261021,
+    "source": "Public selections only in issuer_facts; all other example inputs are synthetic or explicit policy"
+  },
+  {
+    "path": "examples/output/issuer_scorecards.csv",
+    "sha256": "252f0ca9212443e372e63f031f4fbd7e53cd0525e593c205408f0ab96a806a33",
+    "seed": 20261021,
+    "source": "Public selections only in issuer_facts; all other example inputs are synthetic or explicit policy"
+  },
+  {
+    "path": "examples/output/money_market_holdings.csv",
+    "sha256": "c3988a7ef7af45e4909282c0fd5c5fcf64cab59bded8ce9a007d253f045a3d03",
+    "seed": 20261021,
+    "source": "Public selections only in issuer_facts; all other example inputs are synthetic or explicit policy"
+  },
+  {
+    "path": "examples/output/money_market_summary.csv",
+    "sha256": "51af9137c62a31e1a1b366f6d37008dd3868aa10f170930f28f965a9d87e3207",
+    "seed": 20261021,
+    "source": "Public selections only in issuer_facts; all other example inputs are synthetic or explicit policy"
+  },
+  {
+    "path": "examples/output/muni_go.csv",
+    "sha256": "85f29651e417cfeb05be8a9fb5a2ecfd755c8500afb47f55cfb236c3dde1d5d3",
+    "seed": 20261021,
+    "source": "Public selections only in issuer_facts; all other example inputs are synthetic or explicit policy"
+  },
+  {
+    "path": "examples/output/muni_relative_value.csv",
+    "sha256": "5fd59290ca3dd7b458b5e731ae28bfa12ee6afd92be0bfbd62d039a092ecfe29",
+    "seed": 20261021,
+    "source": "Public selections only in issuer_facts; all other example inputs are synthetic or explicit policy"
+  },
+  {
+    "path": "examples/output/muni_revenue.csv",
+    "sha256": "1efc57d3b668f8f59d9ed7fafaf31b3005f13c95db234cf4405b1e08709b3dee",
+    "seed": 20261021,
+    "source": "Public selections only in issuer_facts; all other example inputs are synthetic or explicit policy"
+  },
+  {
+    "path": "examples/output/price_bonds.csv",
+    "sha256": "c122511b680bc4c66a6e130bc3f87e7996cc9313ad0f17be6f0197fad40bcdb2",
+    "seed": 20261021,
+    "source": "Public selections only in issuer_facts; all other example inputs are synthetic or explicit policy"
+  },
+  {
+    "path": "examples/output/price_curve.csv",
+    "sha256": "32f027b364fee6991326b0c806313ae0a011cf818d798988e03c1d9fc5030613",
+    "seed": 20261021,
+    "source": "Public selections only in issuer_facts; all other example inputs are synthetic or explicit policy"
+  },
+  {
+    "path": "examples/output/price_trades.csv",
+    "sha256": "99f884e1ef39e820c07d19d24ad8a25b0a57f97512a20eff21b6cd9e9e890479",
+    "seed": 20261021,
+    "source": "Public selections only in issuer_facts; all other example inputs are synthetic or explicit policy"
+  },
+  {
+    "path": "examples/output/price_validation.csv",
+    "sha256": "31c5ad4bf9fcf77167b90d2ab2e5f225528360efafca805767d56dc06f9ff946",
+    "seed": 20261021,
+    "source": "Public selections only in issuer_facts; all other example inputs are synthetic or explicit policy"
+  },
+  {
+    "path": "examples/output/project_construction.csv",
+    "sha256": "6c5cf92e15d2ef94cfc585fc95837fb8a9362e60d606652defab295c73d07cf7",
+    "seed": 20261021,
+    "source": "Public selections only in issuer_facts; all other example inputs are synthetic or explicit policy"
+  },
+  {
+    "path": "examples/output/project_debt.csv",
+    "sha256": "fa6d546fb518ca323d175a19fc1b2aeb93da9f6a0055a7f20d4789a6e45d8a72",
+    "seed": 20261021,
+    "source": "Public selections only in issuer_facts; all other example inputs are synthetic or explicit policy"
+  },
+  {
+    "path": "examples/output/project_operations.csv",
+    "sha256": "b6266c79efef890aa80ac8fa0c1b1c4d783ac60ce32ac0494352b210c63097c2",
+    "seed": 20261021,
+    "source": "Public selections only in issuer_facts; all other example inputs are synthetic or explicit policy"
+  },
+  {
+    "path": "examples/output/project_sensitivity.csv",
+    "sha256": "acc8745fa7478bcc9e4b1ec3147a08958c654036f86b28e5c01b1c8ff2bcfc69",
+    "seed": 20261021,
+    "source": "Public selections only in issuer_facts; all other example inputs are synthetic or explicit policy"
+  },
+  {
+    "path": "examples/output/project_sizing.csv",
+    "sha256": "9c073ef7d35c66a0055988248e3ef6b81faca97c064a02f4797b16d0efb74959",
+    "seed": 20261021,
+    "source": "Public selections only in issuer_facts; all other example inputs are synthetic or explicit policy"
+  },
+  {
+    "path": "examples/output/warehouse_certificates.csv",
+    "sha256": "c0c59c3b1d6a23557ed31c2c6f64d3677628a2a20bc0be96bfdceee7d00c1c8f",
+    "seed": 20261021,
+    "source": "Public selections only in issuer_facts; all other example inputs are synthetic or explicit policy"
+  },
+  {
+    "path": "examples/output/warehouse_draw_log.csv",
+    "sha256": "644fb0173a9ffd17ea3acc884335a75d2991c6a56434d2c2f654d0f75e1c6ebd",
+    "seed": 20261021,
+    "source": "Public selections only in issuer_facts; all other example inputs are synthetic or explicit policy"
+  },
+  {
+    "path": "examples/output/warehouse_eligibility.csv",
+    "sha256": "38d2c1ac34b4fc964ec17bf9a2b5206da94b989415a5e4ba7b753d0e1999cfe8",
+    "seed": 20261021,
+    "source": "Public selections only in issuer_facts; all other example inputs are synthetic or explicit policy"
+  },
+  {
+    "path": "examples/output/warehouse_initial_pool.csv",
+    "sha256": "121b44e7667abf6a0bc77413d5f8c4ea01893a44c2689b2766a6bb5cc48d38ca",
+    "seed": 20261021,
+    "source": "Public selections only in issuer_facts; all other example inputs are synthetic or explicit policy"
+  },
+  {
+    "path": "examples/output/warehouse_pool_history.csv",
+    "sha256": "d68f3c1c68d92dba9cdb42406dada2e683ea348652481902ed60762c1745e9fc",
+    "seed": 20261021,
+    "source": "Public selections only in issuer_facts; all other example inputs are synthetic or explicit policy"
+  }
+]

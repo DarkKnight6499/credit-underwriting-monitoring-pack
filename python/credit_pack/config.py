@@ -4,6 +4,7 @@ from pathlib import Path
 
 # CONFIG: paths, sources, names, and illustrative model assumptions.
 ROOT = Path(__file__).resolve().parents[2]
+EXTENSION_README = ROOT / "docs" / "readme_extension.md"
 RAW = ROOT / "data" / "raw"
 PROCESSED = ROOT / "data" / "processed"
 OUTPUTS = ROOT / "outputs"

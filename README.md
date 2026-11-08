@@ -2,7 +2,7 @@
 
 Standalone corporate cash-flow, commercial real estate, construction, and asset-based lending model, with quarterly portfolio monitoring.
 
-Corporate financials use hash-verified SEC snapshots. All proposed terms, qualitative judgments, CRE, ABL, construction, and portfolio data remain illustrative.
+This run uses seeded synthetic companyfacts for labels HAS, WHR, and KSS. These are scenario identifiers, not issuer financial statements or actual bank figures. No SEC snapshot was retrieved.
 
 ## Run
 
@@ -79,15 +79,15 @@ The synthetic portfolio has 40 loans across corporate, CRE (including constructi
 
 ## Generated results
 
-The tables below are generated from the current CSV outputs, in USD and decimal fractions unless stated. Data mode: `snapshots`. Synthetic results are not bank figures.
+The tables below are generated from the current CSV outputs, in USD and decimal fractions unless stated. Data mode: `demo`. Synthetic results are not bank figures.
 
 ### Borrower ratios and grades
 
 | ticker | fiscal_year | revenue | ebitda | total_leverage | fccr | grade | pd | recommendation |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| HAS | 2025 | 4,701,300,000.0000 | 146,600,000.0000 | 22.2708 | -0.6946 | 7 | 0.0250 | decline |
-| WHR | 2025 | 15,524,000,000.0000 | 1,176,000,000.0000 | 5.5442 | 1.9091 | 7 | 0.0250 | approve with conditions |
-| KSS | 2025 | 15,527,000,000.0000 | 1,324,000,000.0000 | 1.0846 | unavailable | 6 | 0.0100 | decline |
+| HAS | 2025 | 4,967,158,008.0000 | 902,159,706.8000 | 2.1600 | 5.1071 | 4 | 0.0025 | approve with conditions |
+| WHR | 2025 | 15,680,258,720.0000 | 1,624,876,017.0000 | 3.5640 | 2.7607 | 5 | 0.0050 | approve with conditions |
+| KSS | 2025 | 12,740,198,400.0000 | 890,500,681.1000 | 5.4000 | 1.5740 | 7 | 0.0250 | approve with conditions |
 
 ### CRE sizing
 
@@ -139,16 +139,31 @@ The tables below are generated from the current CSV outputs, in USD and decimal 
 
 SEC endpoint design: ticker directory resolves zero-padded CIKs and companyfacts supplies entity-wide USD XBRL facts. The explicit fetcher waits 0.2 seconds between requests, below the SEC maximum, and writes immutable raw files with URL, retrieval timestamp, and SHA-256 in `data/raw/edgar/manifest.json`. [SEC fair access guidance](https://www.sec.gov/search-filings/edgar-search-assistance/accessing-edgar-data), Fair access section. A real contact email is required. Fetching is never part of tests or the demo.
 
-Snapshots are real SEC companyfacts retrieved with the explicit fetcher; hashes and retrieval times come from the manifest. Operating income is not adjusted for non-cash impairments, so a goodwill charge lowers EBITDA and raises leverage. Tags absent from a filer's companyfacts are flagged in `data/processed/spread.csv` and `fact_lineage.csv`, and ratios that need them show unavailable.
+Build environment: shell network connection to data.sec.gov failed. The web tool read the SEC ticker directory and API documentation but could not retrieve companyfacts for any requested borrower. The eCFR regulatory text worked. Consequently this demo has no SEC snapshot dates or hashes. The hashes below identify generated synthetic fixtures only; their manifest has null URL and retrieval time.
 
 | name | snapshot_date | sha256 |
 | :-- | :-- | :-- |
-| HAS | 2026-11-04T01:27:37.946704+00:00 | 30d3e0f50432c374da4aa0c841c67dd8689f4eb9c8d9d165fc618b36cc1ceeb0 |
-| WHR | 2026-11-04T01:27:38.934827+00:00 | 769c2ff1cc3e244253386fff21bb762714d62199bf733e775037531990c4431e |
-| KSS | 2026-11-04T01:27:39.507473+00:00 | e9ecbf0133f7538197f4563ec5f3c16a4e927aa5dee05ae41ee2d42cfbacc762 |
+| HAS | none (synthetic) | 60458f3117697e6f4eb8c6ba95656d04c70cf209e36de9cd61cddfedc39bee22 |
+| WHR | none (synthetic) | 1ea83638ec6ff91ae70674efccaad8d7dc4d9fa21c9bee9c8e47053394879258 |
+| KSS | none (synthetic) | 31f9635c433bf7596fbe9ea2c64a6da07ab7505154c507015f32c50dd54603cc |
 
 `data/processed/` stores spreads, value lineage, and rating factor detail. `outputs/` stores all calculated CSVs, two PNG charts, Markdown and DOCX credit memos, a quarterly report, workbook reconciliation, and the run summary. `excel/credit_pack.xlsx` contains formula schedules for CRE, covenants, draws, construction balance, customer eligibility, inventory, and borrowing bases. The workbook is rebuilt from source on each run. Recalculation tests use a disposable copy and inspect formula errors and Python agreement.
 
 ## Limitations and illustrative assumptions
 
 All credit policy bands, PDs, LGDs, qualitative inputs, rates, covenants, facilities, rent assumptions, collateral rules, forecasts, and synthetic portfolio states are illustrative. The supervisory LTV table is sourced regulatory guidance. Accounting tags require manual review before real use: companyfacts omits custom extensions, IFRS and non-USD data are excluded, debt may omit leases or other obligations, and fiscal metadata can exclude valid restated comparisons. No audited statement tie-out, lien search, collateral appraisal, legal review, environmental review, lease-level valuation, or actual credit approval is performed. Negative equity can make capitalization ratios economically misleading. Synthetic industries and summaries are scenario inputs. Construction completion is a simplified aggregate inspection; interest reserve need is an illustrative forecast and unpaid equity calls remain open. Credit decisions must not rely on this demonstration.
+
+## Project finance, warehouse, and fixed income extension
+
+The extension adds a synthetic solar project with construction funding, DSCR sculpting, DSRA and maintenance reserves, and a fixed-debt sensitivity grid. A seeded consumer warehouse includes loan eligibility, concentration deductions, grade advance rates, certificates, cash-limited paydowns, draw blocking, and monthly covenants.
+
+Four issuer memos combine named public historical facts with synthetic spreads and illustrative buy/hold/sell policy. GO and revenue muni scenarios include distinct credit metrics, tax-equivalent yields, and relative value. A Rule 2a-7 subset uses verified current eCFR parameters. Curve-based price checks demonstrate synthetic TRACE/EMMA-shaped inputs; no actual TRACE/EMMA trade or EMMA disclosure was obtained.
+
+```powershell
+$env:PYTHONPATH="python;."
+python -m credit_pack.run_extension --recalculate
+```
+
+Use the configured interpreter path in [extension instructions](docs/extension.md) if `python` is not on PATH. Results and mock memos are in `examples/output/`; the [live-formula workbook](excel/credit_extension.xlsx) is separate from the original workbook. [Mock term sheet](examples/output/mock_term_sheet.html) is formatted for one printed letter page. The source ledger records [verified text and failed routes](docs/source_verification.md). All added model inputs are in `python/credit_pack/extension_config.py` or clearly marked module config blocks. No runtime network access is needed.
+
+Limitations: simplified renewable generation and reserve waterfalls; stylized consumer losses; two-factor issuer scores; historical manual public selections; unverified bond-specific muni pledges and tax status; incomplete Rule 2a-7 coverage; synthetic market prices. Native formula reconciliation and hand-computed tests establish mechanical agreement, not real-world validation.

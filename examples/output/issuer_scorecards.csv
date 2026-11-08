@@ -1,0 +1,5 @@
+issuer,issuer_type,total_debt,ebitda,total_leverage,fcf_to_debt,average_factor_score,spread,recommendation,period_end,source,cet1_ratio,lcr,fund_balance_ratio,operating_balance_ratio,operating_margin_before_depreciation,debt_to_revenue
+Apple,corporate,98657000000,144748000000,0.681577638378,1.0011149741,1,0.0006,hold,2025-09-27,Public facts; synthetic spread and score policy,,,,,,
+JPMorgan Chase,gsib,,,,,2,0.0018,buy,2025-12-31,Public facts; synthetic spread and score policy,0.146,1.11,,,,
+Dutchess County,go,,,,,3,0.0015,sell,2025-12-31,Public facts; synthetic spread and score policy,,,0.138100394174,-0.0200682972481,,
+NYC Water and Sewer System,revenue,,,,,2,0.0004,hold,2025-06-30,Public facts; synthetic spread and score policy,,,,,0.511008948621,7.50010620031

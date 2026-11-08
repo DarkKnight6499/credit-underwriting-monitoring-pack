@@ -1,12 +1,12 @@
 {
-  "mode": "snapshots",
+  "mode": "demo",
   "seed": 20261021,
   "as_of": "2026-10-21",
-  "generated_at": "2026-11-04T01:29:16.802114+00:00",
+  "generated_at": "2026-11-08T15:19:02.450473+00:00",
   "borrower_grades": {
-    "HAS": 7,
-    "WHR": 7,
-    "KSS": 6
+    "HAS": 4,
+    "WHR": 5,
+    "KSS": 7
   },
   "cre_sized_loans": {
     "Maple Apartments": 14004444.444444446,

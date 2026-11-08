@@ -212,6 +212,8 @@ SEC endpoint design: ticker directory resolves zero-padded CIKs and companyfacts
 
 All credit policy bands, PDs, LGDs, qualitative inputs, rates, covenants, facilities, rent assumptions, collateral rules, forecasts, and synthetic portfolio states are illustrative. The supervisory LTV table is sourced regulatory guidance. Accounting tags require manual review before real use: companyfacts omits custom extensions, IFRS and non-USD data are excluded, debt may omit leases or other obligations, and fiscal metadata can exclude valid restated comparisons. No audited statement tie-out, lien search, collateral appraisal, legal review, environmental review, lease-level valuation, or actual credit approval is performed. Negative equity can make capitalization ratios economically misleading. Synthetic industries and summaries are scenario inputs. Construction completion is a simplified aggregate inspection; interest reserve need is an illustrative forecast and unpaid equity calls remain open. Credit decisions must not rely on this demonstration.
 """
+    if cfg.EXTENSION_README.exists():
+        text += cfg.EXTENSION_README.read_text(encoding="utf-8")
     (cfg.ROOT / "README.md").write_text(text, encoding="utf-8")
 
 
